@@ -1,0 +1,1907 @@
+{
+  "meta_title": "Order The Rustic Barrel - King City, CA Menu Delivery [Menu & Prices] | King City - DoorDash",
+  "meta_description": "Get delivery or takeout from The Rustic Barrel at 611 Canal St in King City. Order online and track your order live. No delivery fee on your first order!",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "The Rustic Barrel delivered to your door",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "700",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H1",
+      "text": "The Rustic Barrel",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "24px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.5px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Sauce Sides",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "14px",
+      "weight": "700",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Featured Items",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Most Ordered",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Barrel Bites",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Meat Combos",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Rustic Favorites",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Retail",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Rustic Sandwiches",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Little Barrels",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Fresh Greens",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Freestyle Picks",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Beverages",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Snacks & Sweets",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "20px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.2px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Trending Restaurants",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Top Dishes Near Me",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Top Cuisines Near Me",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Trending Categories",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Nearby Cities",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Get to Know Us",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Let Us Help You",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "Doing Business",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "16px",
+      "weight": "500",
+      "transform": "none",
+      "ls": "-0.01px",
+      "color": "rgb(25, 25, 25)"
+    },
+    {
+      "tag": "H2",
+      "text": "This store is currently closed",
+      "family": "\"DD Norms\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "size": "32px",
+      "weight": "800",
+      "transform": "none",
+      "ls": "-0.8px",
+      "color": "rgb(25, 25, 25)"
+    }
+  ],
+  "jsonld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "Restaurant",
+      "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/4344682f-ee49-4e45-b109-6b0ce6abf3a8.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/fa89242a-1e5b-4f9d-90b4-4a217226ea5b.jpg"
+      ],
+      "name": "The Rustic Barrel",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "611 Canal St",
+        "addressLocality": "King City",
+        "addressRegion": "CA",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "36.202538",
+        "longitude": "-121.12799"
+      },
+      "priceRange": "",
+      "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+          [
+            {
+              "name": "Most Ordered",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "2 Meat Combo",
+                  "description": "Select two meats & choice of one side, complimented with garlic bread or corn bread.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$31.25"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "OG Smash Burger - Double",
+                  "description": "Two mouth watering Angus beef patties, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$26.04"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Pulled Pork Sandwich",
+                  "description": "Slow smoked tender pulled pork, drizzled with BBQ sauce, piled high on ciabatta bun topped with coleslaw. ",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$22.92"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Tri-Tip Sandwich",
+                  "description": "Tender sliced Santa Maria Style Tri-Tip, drizzled with BBQ sauce and served on a ciabatta bun toasted with butter",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$22.92"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "3 Meat Combo",
+                  "description": "Select three meats & choice of two sides, complimented with garlic bread  or corn bread.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$41.67"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Barrel Fries - Half Order",
+                  "description": "Our most popular fries, in a smaller version! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$15.63"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Mac Daddy Fries",
+                  "description": "Golden crispy fries layered with melted cheese, smothered with our homemade mac n’ cheese, bacon crumbles & drizzled with our house-made burger sauce.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$17.71"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Smash Burger Deluxe - Single",
+                  "description": "A juicy, smashed beef patty, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$20.83"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Mac N Cheese",
+                  "description": "Homemade creamy & cheesy elbow macaroni made with a rich blend of cheddar, butter, and a touch of cream. Baked to golden perfection with a crispy breadcrumb topping.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$7.29"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Classic Quesadilla",
+                  "description": "A golden, crispy tortilla folded and grilled to perfection, stuffed with a melty blend of cheeses. Pared with our house made jalapeño ranch & pickled onions\nAdd protein of choice for $3",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$10.42"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "OG Smash Burger - Single",
+                  "description": "A mouth watering Angus beef patty, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$20.83"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Side of Meat",
+                  "description": "Choose any extra meat to stack onto your dish!",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$12.50"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Barrel Bites",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Mac Daddy Fries",
+                  "description": "Golden crispy fries layered with melted cheese, smothered with our homemade mac n’ cheese, bacon crumbles & drizzled with our house-made burger sauce.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$17.71"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Hog Fries",
+                  "description": "Golden, crispy fries topped with melted cheese & bacon bites. A crave-worthy combo that hits the spot every time.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$12.50"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Hot Daddy Fries",
+                  "description": "Crispy fries topped with creamy cheese sauce, macaroni, and crumbled bacon.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$17.71"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Chicken Wings",
+                  "description": "Crispy chicken wings tossed in one of our signature sauces, served with a side house-made ranch or bleu cheese",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$16.67"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Cowboy Candy Hot",
+                  "description": "Fresh sliced jalapeños hand-dipped in beer batter and hot cheetos.  fried golden brown, served with a side of ranch for the perfect crunch",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$11.46"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Chili Cheese Fries(Special Only)",
+                  "description": "Seasoned crispy fries topped with savory chili, shredded cheddar cheese, and fresh chopped red onion. A loaded, cheesy, hearty favorite!",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$15.63"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Classic Quesadilla",
+                  "description": "A golden, crispy tortilla folded and grilled to perfection, stuffed with a melty blend of cheeses. Pared with our house made jalapeño ranch & pickled onions\nAdd protein of choice for $3",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$10.42"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Cowboy Candy",
+                  "description": "Fresh sliced jalapeños hand-dipped in beer batter and fried golden brown, served with a side of ranch for the perfect crunch",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$10.42"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Meat Combos",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "3 Meat Combo",
+                  "description": "Select three meats & choice of two sides, complimented with garlic bread  or corn bread.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$41.67"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "2 Meat Combo",
+                  "description": "Select two meats & choice of one side, complimented with garlic bread or corn bread.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$31.25"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "1 Meat Combo",
+                  "description": "Select one meat & choice of one side, complimented with garlic bread or corn bread.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$26.04"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rustic Favorites",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "OG Smash Burger - Double",
+                  "description": "Two mouth watering Angus beef patties, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$26.04"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Barrel Fries - Full Order",
+                  "description": "Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$26.04"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "OG Smash Burger - Single",
+                  "description": "A mouth watering Angus beef patty, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$20.83"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Smash Burger Deluxe - Double",
+                  "description": "Two juicy smashed beef patties, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$26.04"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Smash Burger Deluxe - Single",
+                  "description": "A juicy, smashed beef patty, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$20.83"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Loaded Barrel Fries - Full Order",
+                  "description": "Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with homemade mac n’ cheese, coleslaw and pickled onions.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$31.25"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Rustic Burger",
+                  "description": "Sink your teeth into two grilled Angus beef patties, layered with American cheese & grilled onions, topped with juicy bacon crumble, 2 golden crispy onion rings & drizzled with BBQ sauce. All stacked on a on a brioche bun & paired with a side of fries",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$29.17"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Grilled Cheese Combo",
+                  "description": "Toasty ciabatta bread filled with melty American cheese. Served with a side of golden fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$16.67"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Smash Burger Deluxe - Triple",
+                  "description": "Three juicy smashed beef patties, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$31.25"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "OG Smash Burger - Triple",
+                  "description": "Three mouth watering Angus beef patties, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$31.25"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Barrel Fries - Half Order",
+                  "description": "Our most popular fries, in a smaller version! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$15.63"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Loaded Barrel Fries - Half Order",
+                  "description": "Same amazing taste now available in half order! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with homemade mac n’ cheese, coleslaw and pickled onions.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$20.83"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Retail",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Barrel T-Shirt",
+                  "description": "Adjustable hat featuring a classic barrel logo, offering a versatile fit suitable for various styles and occasions.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$26.04"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rustic Sandwiches ",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Tri-Tip Sandwich",
+                  "description": "Tender sliced Santa Maria Style Tri-Tip, drizzled with BBQ sauce and served on a ciabatta bun toasted with butter",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$22.92"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Sandwich Chimi Tri-Tip",
+                  "description": "Tri-tip sandwich with a side choice. Options include fries, onion rings, mac n cheese, beans, or various salads.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$25.00"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "BBQ Chicken Sandwich",
+                  "description": "Juicy seasoned chicken bbq’d over Santa Maria grill, pulled off the bone and piled high on a toasted ciabatta bun, topped with BBQ sauce and coleslaw.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$22.92"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Pulled Pork Sandwich",
+                  "description": "Slow smoked tender pulled pork, drizzled with BBQ sauce, piled high on ciabatta bun topped with coleslaw. ",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$22.92"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Brisket Sandwich ",
+                  "description": "Smoky brisket on hearty bread. Choice of side, including fries, onion rings, mac n cheese, and more.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$22.92"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Little Barrels",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Kids Smash Burger",
+                  "description": "A tasty grilled Angus beef patty topped with melty cheese and a little burger sauce, all on a soft bun,",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$17.71"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Kids Grilled Cheese",
+                  "description": "Toasty ciabatta bread filled with melty American cheese. Served warm and golden — perfect for little cheese lovers!",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$16.67"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Fresh Greens",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Fresh Chopped Salad",
+                  "description": "Crispy chopped Romaine lettuce with your choice of meat (Tri-Tip, Chicken, Pulled Pork) served with shredded cheese, croutons, cucumbers, tomatoes, topped with pickled onions, a side of Pepperoncini's",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$20.83"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Garden Wrap",
+                  "description": "Crisp chopped romaine, shredded cheese, tomatoes, cucumbers, all wrapped in a soft flour tortilla. Paired with your choice of dressing",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$16.67"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Freestyle Picks",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Side of Meat",
+                  "description": "Choose any extra meat to stack onto your dish!",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$12.50"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Side Salad",
+                  "description": "Fresh cut romaine with, tomatoes, shredded cheese, cucumbers, and croutons.\n",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$8.33"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Corn Bread",
+                  "description": "Golden, fluffy cornbread, perfect as a side or for savoring on its own.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Mac N Cheese",
+                  "description": "Homemade creamy & cheesy elbow macaroni made with a rich blend of cheddar, butter, and a touch of cream. Baked to golden perfection with a crispy breadcrumb topping.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$7.29"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Barrel Beans",
+                  "description": "Smoked barrel beans typically include a blend of seasonings and may feature ingredients like brisket or onions for added depth.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Coleslaw",
+                  "description": "Crisp shredded cabbage in a creamy, tangy dressing.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Garlic Bread",
+                  "description": "Crisp, buttery toasted bread infused with aromatic garlic and herbs.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Grilled Cheese",
+                  "description": "Cheesy delight on toasted bread, perfect for those craving a classic comfort food.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$12.50"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "French Fries",
+                  "description": "Golden, crispy, and perfectly seasoned.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$8.33"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Add Meat",
+                  "description": "Typically includes a selection of meats such as beef, chicken, or turkey to complement your meal.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$5.21+"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Onion Rings",
+                  "description": "Thick-cut onions dipped in our signature beer batter and fried until golden, crispy.",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$8.33"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Beverages",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": " Lemonade ",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Root Beer",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Sweet Tea",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$4.17"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Dr Pepper",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Unsweetened Iced Tea",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$4.17"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Squirt",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Apple Juice",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$2.08"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Coke",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Sprite",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$3.13"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Snacks & Sweets",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Rice Crispy",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$4.17"
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Cookies ",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "$5.21"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sauce Sides",
+              "hasMenuItem": [
+                {
+                  "@type": "MenuItem",
+                  "name": "Honey Butter",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Ranch Dressing",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Blue Cheese Dressing",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Burger Sauce",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Chimichurri",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Italian Dressing",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "Jalapeno Ranch",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                },
+                {
+                  "@type": "MenuItem",
+                  "name": "BBQ Sauce",
+                  "description": "",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": ""
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "publisher": "DoorDash",
+          "author": {
+            "@type": "Person",
+            "name": "Krystie H"
+          },
+          "reviewRating": {
+            "worstRating": 1,
+            "bestRating": 5,
+            "ratingValue": 5
+          },
+          "reviewBody": "These fries with the brisket are sooooooo amazing a must have!"
+        },
+        {
+          "@type": "Review",
+          "publisher": "DoorDash",
+          "author": {
+            "@type": "Person",
+            "name": "Cherie S"
+          },
+          "reviewRating": {
+            "worstRating": 1,
+            "bestRating": 5,
+            "ratingValue": 4
+          },
+          "reviewBody": "They were kind, prompt and polite.  Delicious.   When ordering online keep in mind they tend to finish earlier then shown online.  Only thing is the tri tip might have a lot of bristle(fat).  Other then that I got the onion rings, mac n cheese, chicken and tri tip 3 combo for $39!  It was worth it!"
+        },
+        {
+          "@type": "Review",
+          "publisher": "DoorDash",
+          "author": {
+            "@type": "Person",
+            "name": "Antonio M"
+          },
+          "reviewRating": {
+            "worstRating": 1,
+            "bestRating": 5,
+            "ratingValue": 5
+          },
+          "reviewBody": "Best place in town to get barbecue The brisket was on point ￼￼"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+      },
+      "servesCuisine": [
+        "American",
+        "Bar and Grill"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "DoorDash",
+      "url": "http://www.doordash.com",
+      "sameAs": [
+        "https://www.facebook.com/doordash",
+        "https://twitter.com/doordash",
+        "https://www.linkedin.com/company/doordash"
+      ]
+    },
+    {
+      "@type": "Menu",
+      "hasMenuSection": [
+        [
+          {
+            "name": "Most Ordered",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "2 Meat Combo",
+                "description": "Select two meats & choice of one side, complimented with garlic bread or corn bread.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$31.25"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "OG Smash Burger - Double",
+                "description": "Two mouth watering Angus beef patties, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$26.04"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Pulled Pork Sandwich",
+                "description": "Slow smoked tender pulled pork, drizzled with BBQ sauce, piled high on ciabatta bun topped with coleslaw. ",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$22.92"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Tri-Tip Sandwich",
+                "description": "Tender sliced Santa Maria Style Tri-Tip, drizzled with BBQ sauce and served on a ciabatta bun toasted with butter",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$22.92"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "3 Meat Combo",
+                "description": "Select three meats & choice of two sides, complimented with garlic bread  or corn bread.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$41.67"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Barrel Fries - Half Order",
+                "description": "Our most popular fries, in a smaller version! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$15.63"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Mac Daddy Fries",
+                "description": "Golden crispy fries layered with melted cheese, smothered with our homemade mac n’ cheese, bacon crumbles & drizzled with our house-made burger sauce.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$17.71"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Smash Burger Deluxe - Single",
+                "description": "A juicy, smashed beef patty, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$20.83"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Mac N Cheese",
+                "description": "Homemade creamy & cheesy elbow macaroni made with a rich blend of cheddar, butter, and a touch of cream. Baked to golden perfection with a crispy breadcrumb topping.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$7.29"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Classic Quesadilla",
+                "description": "A golden, crispy tortilla folded and grilled to perfection, stuffed with a melty blend of cheeses. Pared with our house made jalapeño ranch & pickled onions\nAdd protein of choice for $3",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$10.42"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "OG Smash Burger - Single",
+                "description": "A mouth watering Angus beef patty, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$20.83"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Side of Meat",
+                "description": "Choose any extra meat to stack onto your dish!",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$12.50"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Barrel Bites",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Mac Daddy Fries",
+                "description": "Golden crispy fries layered with melted cheese, smothered with our homemade mac n’ cheese, bacon crumbles & drizzled with our house-made burger sauce.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$17.71"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Hog Fries",
+                "description": "Golden, crispy fries topped with melted cheese & bacon bites. A crave-worthy combo that hits the spot every time.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$12.50"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Hot Daddy Fries",
+                "description": "Crispy fries topped with creamy cheese sauce, macaroni, and crumbled bacon.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$17.71"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Chicken Wings",
+                "description": "Crispy chicken wings tossed in one of our signature sauces, served with a side house-made ranch or bleu cheese",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$16.67"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Cowboy Candy Hot",
+                "description": "Fresh sliced jalapeños hand-dipped in beer batter and hot cheetos.  fried golden brown, served with a side of ranch for the perfect crunch",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$11.46"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Chili Cheese Fries(Special Only)",
+                "description": "Seasoned crispy fries topped with savory chili, shredded cheddar cheese, and fresh chopped red onion. A loaded, cheesy, hearty favorite!",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$15.63"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Classic Quesadilla",
+                "description": "A golden, crispy tortilla folded and grilled to perfection, stuffed with a melty blend of cheeses. Pared with our house made jalapeño ranch & pickled onions\nAdd protein of choice for $3",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$10.42"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Cowboy Candy",
+                "description": "Fresh sliced jalapeños hand-dipped in beer batter and fried golden brown, served with a side of ranch for the perfect crunch",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$10.42"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Meat Combos",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "3 Meat Combo",
+                "description": "Select three meats & choice of two sides, complimented with garlic bread  or corn bread.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$41.67"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "2 Meat Combo",
+                "description": "Select two meats & choice of one side, complimented with garlic bread or corn bread.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$31.25"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "1 Meat Combo",
+                "description": "Select one meat & choice of one side, complimented with garlic bread or corn bread.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$26.04"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Rustic Favorites",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "OG Smash Burger - Double",
+                "description": "Two mouth watering Angus beef patties, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$26.04"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Barrel Fries - Full Order",
+                "description": "Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$26.04"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "OG Smash Burger - Single",
+                "description": "A mouth watering Angus beef patty, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$20.83"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Smash Burger Deluxe - Double",
+                "description": "Two juicy smashed beef patties, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$26.04"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Smash Burger Deluxe - Single",
+                "description": "A juicy, smashed beef patty, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$20.83"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Loaded Barrel Fries - Full Order",
+                "description": "Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with homemade mac n’ cheese, coleslaw and pickled onions.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$31.25"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Rustic Burger",
+                "description": "Sink your teeth into two grilled Angus beef patties, layered with American cheese & grilled onions, topped with juicy bacon crumble, 2 golden crispy onion rings & drizzled with BBQ sauce. All stacked on a on a brioche bun & paired with a side of fries",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$29.17"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Grilled Cheese Combo",
+                "description": "Toasty ciabatta bread filled with melty American cheese. Served with a side of golden fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$16.67"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Smash Burger Deluxe - Triple",
+                "description": "Three juicy smashed beef patties, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$31.25"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "OG Smash Burger - Triple",
+                "description": "Three mouth watering Angus beef patties, smashed & seared to perfection, layered with  American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$31.25"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Barrel Fries - Half Order",
+                "description": "Our most popular fries, in a smaller version! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$15.63"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Loaded Barrel Fries - Half Order",
+                "description": "Same amazing taste now available in half order! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with homemade mac n’ cheese, coleslaw and pickled onions.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$20.83"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Retail",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Barrel T-Shirt",
+                "description": "Adjustable hat featuring a classic barrel logo, offering a versatile fit suitable for various styles and occasions.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$26.04"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Rustic Sandwiches ",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Tri-Tip Sandwich",
+                "description": "Tender sliced Santa Maria Style Tri-Tip, drizzled with BBQ sauce and served on a ciabatta bun toasted with butter",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$22.92"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Sandwich Chimi Tri-Tip",
+                "description": "Tri-tip sandwich with a side choice. Options include fries, onion rings, mac n cheese, beans, or various salads.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$25.00"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "BBQ Chicken Sandwich",
+                "description": "Juicy seasoned chicken bbq’d over Santa Maria grill, pulled off the bone and piled high on a toasted ciabatta bun, topped with BBQ sauce and coleslaw.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$22.92"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Pulled Pork Sandwich",
+                "description": "Slow smoked tender pulled pork, drizzled with BBQ sauce, piled high on ciabatta bun topped with coleslaw. ",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$22.92"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Brisket Sandwich ",
+                "description": "Smoky brisket on hearty bread. Choice of side, including fries, onion rings, mac n cheese, and more.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$22.92"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Little Barrels",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Kids Smash Burger",
+                "description": "A tasty grilled Angus beef patty topped with melty cheese and a little burger sauce, all on a soft bun,",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$17.71"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Kids Grilled Cheese",
+                "description": "Toasty ciabatta bread filled with melty American cheese. Served warm and golden — perfect for little cheese lovers!",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$16.67"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Fresh Greens",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Fresh Chopped Salad",
+                "description": "Crispy chopped Romaine lettuce with your choice of meat (Tri-Tip, Chicken, Pulled Pork) served with shredded cheese, croutons, cucumbers, tomatoes, topped with pickled onions, a side of Pepperoncini's",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$20.83"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Garden Wrap",
+                "description": "Crisp chopped romaine, shredded cheese, tomatoes, cucumbers, all wrapped in a soft flour tortilla. Paired with your choice of dressing",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$16.67"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Freestyle Picks",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Side of Meat",
+                "description": "Choose any extra meat to stack onto your dish!",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$12.50"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Side Salad",
+                "description": "Fresh cut romaine with, tomatoes, shredded cheese, cucumbers, and croutons.\n",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$8.33"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Corn Bread",
+                "description": "Golden, fluffy cornbread, perfect as a side or for savoring on its own.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Mac N Cheese",
+                "description": "Homemade creamy & cheesy elbow macaroni made with a rich blend of cheddar, butter, and a touch of cream. Baked to golden perfection with a crispy breadcrumb topping.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$7.29"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Barrel Beans",
+                "description": "Smoked barrel beans typically include a blend of seasonings and may feature ingredients like brisket or onions for added depth.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Coleslaw",
+                "description": "Crisp shredded cabbage in a creamy, tangy dressing.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Garlic Bread",
+                "description": "Crisp, buttery toasted bread infused with aromatic garlic and herbs.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Grilled Cheese",
+                "description": "Cheesy delight on toasted bread, perfect for those craving a classic comfort food.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$12.50"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "French Fries",
+                "description": "Golden, crispy, and perfectly seasoned.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$8.33"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Add Meat",
+                "description": "Typically includes a selection of meats such as beef, chicken, or turkey to complement your meal.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$5.21+"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Onion Rings",
+                "description": "Thick-cut onions dipped in our signature beer batter and fried until golden, crispy.",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$8.33"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Beverages",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": " Lemonade ",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Root Beer",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Sweet Tea",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$4.17"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Dr Pepper",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Unsweetened Iced Tea",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$4.17"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Squirt",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Apple Juice",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$2.08"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Coke",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Sprite",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$3.13"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Snacks & Sweets",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Rice Crispy",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$4.17"
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Cookies ",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "$5.21"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Sauce Sides",
+            "hasMenuItem": [
+              {
+                "@type": "MenuItem",
+                "name": "Honey Butter",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Ranch Dressing",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Blue Cheese Dressing",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Burger Sauce",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Chimichurri",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Italian Dressing",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "Jalapeno Ranch",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              },
+              {
+                "@type": "MenuItem",
+                "name": "BBQ Sauce",
+                "description": "",
+                "offers": {
+                  "@type": "Offer",
+                  "price": ""
+                }
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "@context": "http://schema.org/",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the The Rustic Barrel's address?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Rustic Barrel is located at 611 Canal St, King City CA 93930-3503, United States. This is where you will go to get DoorDash Pickup orders, and where Dashers will go to get your DoorDash delivery orders."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does The Rustic Barrel offer delivery or pickup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can browse The Rustic Barrel’s menu and place an order for both Delivery and Pickup on DoorDash. The Rustic Barrel may also offer delivery and pickup on their own or through other delivery services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the most popular dishes at The Rustic Barrel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The dishes most commonly ordered by DoorDash customers at The Rustic Barrel are 2 Meat Combo, OG Smash Burger - Double and Pulled Pork Sandwich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is The Rustic Barrel a DashPass eligible store?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Rustic Barrel offers DashPass benefits like $0 delivery, reduced service fees, and $5 credits back on Pickup orders. If you want to know if a store is DashPass eligible, you can look for the DashPass icon next to their name."
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "King City",
+          "item": "/food-delivery/king-city-ca-restaurants/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "American",
+          "item": "/food-delivery/king-city-ca-restaurants/american/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The Rustic Barrel",
+          "item": "/store/the-rustic-barrel-king-city-34689489/"
+        }
+      ]
+    }
+  ],
+  "all_meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "description": "Get delivery or takeout from The Rustic Barrel at 611 Canal St in King City. Order online and track your order live. No delivery fee on your first order!",
+    "app_version": "2.17727.0",
+    "service_name": "consumer-web-next",
+    "sentry_dsn": "https://f55609756bfb481c8ad0a180c8248883@o17585.ingest.us.sentry.io/6196846",
+    "dd_locale": "en-US",
+    "ssr": "true",
+    "og:title": "Order The Rustic Barrel - King City, CA Menu Delivery [Menu & Prices] | King City - DoorDash",
+    "og:description": "Get delivery or takeout from The Rustic Barrel at 611 Canal St in King City. Order online and track your order live. No delivery fee on your first order!",
+    "og:url": "https://www.doordash.com/store/the-rustic-barrel-king-city-34689489/90022148/?pickup=true&src=yp",
+    "og:locale": "en-US",
+    "og:image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/4847c973-9ca3-45a1-947a-0c42ec8e05ac.png",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Order The Rustic Barrel - King City, CA Menu Delivery [Menu & Prices] | King City - DoorDash",
+    "twitter:description": "Get delivery or takeout from The Rustic Barrel at 611 Canal St in King City. Order online and track your order live. No delivery fee on your first order!",
+    "twitter:image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/4847c973-9ca3-45a1-947a-0c42ec8e05ac.png"
+  }
+}

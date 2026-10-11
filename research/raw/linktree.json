@@ -1,0 +1,92 @@
+{
+  "profile_url": "https://linktr.ee/therusticbarrel_831?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+  "username": null,
+  "display_name": null,
+  "bio": null,
+  "follower_count": null,
+  "links": [
+    {
+      "title": "Order Here!",
+      "url": "https://www.order.online/store/34689489?hideModal=true&pickup=true",
+      "type": "CLASSIC",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    },
+    {
+      "title": "The Rustic Barrel Menu",
+      "url": "https://canva.link/jn02vj7qvspjnja",
+      "type": "CLASSIC",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    },
+    {
+      "title": "Untappd",
+      "url": "https://untp.beer/450efae094",
+      "type": "CLASSIC",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    },
+    {
+      "title": "Follow Our Instagram",
+      "url": "https://www.instagram.com/the_rustic_barrel_?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr",
+      "type": "INSTAGRAM_PROFILE",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    },
+    {
+      "title": "Follow us on TikTok ",
+      "url": "https://www.tiktok.com/@therusticbarrel831?_r=1&_t=zp-99lu2zvrs4u",
+      "type": "TIKTOK_PROFILE",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "url": "",
+      "type": "CONTACT_DETAILS",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    },
+    {
+      "title": "Leave Us a Yelp Review",
+      "url": "https://www.yelp.com/biz/the-rustic-barrel-king-city-2",
+      "type": "CLASSIC",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    },
+    {
+      "title": "Leave Us a Google Review",
+      "url": "https://www.google.com/search?sca_esv=c4dc2b92c0ad888e&rlz=1C1ONGR_enUS1116US1116&sxsrf=AE3TifOZyY6eIufYbq2IWUAj88vFBo_I4g:1752516462794&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E1YyLhpFTJZ4RZvnuvrJMX4NvzQRAz4R1Mv36uW4TQyJSXYuoqRFI2fbwdc6dg0SD5b-hVGX-WrfV64jjyA8u4JzRd9VnGfzzclAthj_x-XhOWk2og%3D%3D&q=The+Rustic+Barrel+Reviews&sa=X&ved=2ahUKEwjbjenJ-LyOAxW0JkQIHQFENpEQ0bkNegQIHxAD&biw=1920&bih=911&dpr=1",
+      "type": "CLASSIC",
+      "thumbnail": null,
+      "raw_keys": [
+        "title",
+        "url"
+      ]
+    }
+  ],
+  "unmapped_keys": {
+    "country": "US"
+  }
+}

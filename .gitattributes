@@ -1,0 +1,23 @@
+# Normalise to LF in the repository.
+#
+# Without this, core.autocrlf on Windows rewrites every text file on checkout,
+# the whole tree shows as modified after a clone, and the deployed HTML can
+# differ byte-for-byte from what the gates tested locally.
+* text=auto eol=lf
+
+# Binary. Never let git try to diff or EOL-convert these.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
+*.gif  binary
+*.mp4  binary
+*.woff binary
+*.woff2 binary
+
+# Keep the design tokens and CSS as plain LF text.
+*.css   text eol=lf
+*.json  text eol=lf
+*.html  text eol=lf
+*.js    text eol=lf
+*.md    text eol=lf

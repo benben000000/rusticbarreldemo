@@ -1,0 +1,9518 @@
+{
+  "photo_count": 108,
+  "video_count": 15,
+  "palette_ranked": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "weight": 388.6,
+      "hue": 0,
+      "sat": 0,
+      "light": 0,
+      "tone": "dark",
+      "chroma": "neutral"
+    },
+    {
+      "hex": "#f30000",
+      "rgb": [
+        243,
+        0,
+        0
+      ],
+      "weight": 279.5,
+      "hue": 0,
+      "sat": 100,
+      "light": 48,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f5ee73",
+      "rgb": [
+        245,
+        238,
+        115
+      ],
+      "weight": 259.9,
+      "hue": 57,
+      "sat": 87,
+      "light": 71,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#55c3f0",
+      "rgb": [
+        85,
+        195,
+        240
+      ],
+      "weight": 255.3,
+      "hue": 197,
+      "sat": 84,
+      "light": 64,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#016925",
+      "rgb": [
+        1,
+        105,
+        37
+      ],
+      "weight": 183.1,
+      "hue": 141,
+      "sat": 98,
+      "light": 21,
+      "tone": "dark",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fbe8d8",
+      "rgb": [
+        251,
+        232,
+        216
+      ],
+      "weight": 182.4,
+      "hue": 27,
+      "sat": 81,
+      "light": 92,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#deb1cb",
+      "rgb": [
+        222,
+        177,
+        203
+      ],
+      "weight": 180.7,
+      "hue": 325,
+      "sat": 41,
+      "light": 78,
+      "tone": "light",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#fd3009",
+      "rgb": [
+        253,
+        48,
+        9
+      ],
+      "weight": 159.4,
+      "hue": 10,
+      "sat": 98,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f3684d",
+      "rgb": [
+        243,
+        104,
+        77
+      ],
+      "weight": 159.2,
+      "hue": 10,
+      "sat": 87,
+      "light": 63,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fefefe",
+      "rgb": [
+        254,
+        254,
+        254
+      ],
+      "weight": 142.1,
+      "hue": 0,
+      "sat": 0,
+      "light": 100,
+      "tone": "light",
+      "chroma": "neutral"
+    },
+    {
+      "hex": "#d5a58a",
+      "rgb": [
+        213,
+        165,
+        138
+      ],
+      "weight": 120.5,
+      "hue": 22,
+      "sat": 47,
+      "light": 69,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#010000",
+      "rgb": [
+        1,
+        0,
+        0
+      ],
+      "weight": 103.6,
+      "hue": 0,
+      "sat": 100,
+      "light": 0,
+      "tone": "dark",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#006925",
+      "rgb": [
+        0,
+        105,
+        37
+      ],
+      "weight": 96.2,
+      "hue": 141,
+      "sat": 100,
+      "light": 21,
+      "tone": "dark",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fbe7d9",
+      "rgb": [
+        251,
+        231,
+        217
+      ],
+      "weight": 91.4,
+      "hue": 25,
+      "sat": 81,
+      "light": 92,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fcf3e3",
+      "rgb": [
+        252,
+        243,
+        227
+      ],
+      "weight": 88.1,
+      "hue": 38,
+      "sat": 81,
+      "light": 94,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#dfb2cb",
+      "rgb": [
+        223,
+        178,
+        203
+      ],
+      "weight": 87.7,
+      "hue": 327,
+      "sat": 41,
+      "light": 79,
+      "tone": "light",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#fcf0de",
+      "rgb": [
+        252,
+        240,
+        222
+      ],
+      "weight": 87.5,
+      "hue": 36,
+      "sat": 83,
+      "light": 93,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#faf7ee",
+      "rgb": [
+        250,
+        247,
+        238
+      ],
+      "weight": 81.9,
+      "hue": 45,
+      "sat": 55,
+      "light": 96,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fb2f08",
+      "rgb": [
+        251,
+        47,
+        8
+      ],
+      "weight": 81.3,
+      "hue": 10,
+      "sat": 97,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fd3008",
+      "rgb": [
+        253,
+        48,
+        8
+      ],
+      "weight": 80.9,
+      "hue": 10,
+      "sat": 98,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fbefde",
+      "rgb": [
+        251,
+        239,
+        222
+      ],
+      "weight": 80.0,
+      "hue": 35,
+      "sat": 78,
+      "light": 93,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fbf9ef",
+      "rgb": [
+        251,
+        249,
+        239
+      ],
+      "weight": 77.0,
+      "hue": 50,
+      "sat": 60,
+      "light": 96,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f9f5ed",
+      "rgb": [
+        249,
+        245,
+        237
+      ],
+      "weight": 76.0,
+      "hue": 40,
+      "sat": 50,
+      "light": 95,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f5f5f5",
+      "rgb": [
+        245,
+        245,
+        245
+      ],
+      "weight": 75.8,
+      "hue": 0,
+      "sat": 0,
+      "light": 96,
+      "tone": "light",
+      "chroma": "neutral"
+    },
+    {
+      "hex": "#fefefd",
+      "rgb": [
+        254,
+        254,
+        253
+      ],
+      "weight": 75.2,
+      "hue": 60,
+      "sat": 33,
+      "light": 99,
+      "tone": "light",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#faf6ed",
+      "rgb": [
+        250,
+        246,
+        237
+      ],
+      "weight": 74.4,
+      "hue": 42,
+      "sat": 57,
+      "light": 95,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fde7e6",
+      "rgb": [
+        253,
+        231,
+        230
+      ],
+      "weight": 74.0,
+      "hue": 3,
+      "sat": 85,
+      "light": 95,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fdc6f8",
+      "rgb": [
+        253,
+        198,
+        248
+      ],
+      "weight": 72.7,
+      "hue": 305,
+      "sat": 93,
+      "light": 88,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#211b19",
+      "rgb": [
+        33,
+        27,
+        25
+      ],
+      "weight": 71.6,
+      "hue": 15,
+      "sat": 14,
+      "light": 11,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#1893e4",
+      "rgb": [
+        24,
+        147,
+        228
+      ],
+      "weight": 71.1,
+      "hue": 204,
+      "sat": 81,
+      "light": 49,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#201917",
+      "rgb": [
+        32,
+        25,
+        23
+      ],
+      "weight": 71.1,
+      "hue": 13,
+      "sat": 16,
+      "light": 11,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#1f1918",
+      "rgb": [
+        31,
+        25,
+        24
+      ],
+      "weight": 70.6,
+      "hue": 9,
+      "sat": 13,
+      "light": 11,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#fbf7f0",
+      "rgb": [
+        251,
+        247,
+        240
+      ],
+      "weight": 69.8,
+      "hue": 38,
+      "sat": 58,
+      "light": 96,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#1894e4",
+      "rgb": [
+        24,
+        148,
+        228
+      ],
+      "weight": 69.7,
+      "hue": 204,
+      "sat": 81,
+      "light": 49,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f4f4f4",
+      "rgb": [
+        244,
+        244,
+        244
+      ],
+      "weight": 69.1,
+      "hue": 0,
+      "sat": 0,
+      "light": 96,
+      "tone": "light",
+      "chroma": "neutral"
+    },
+    {
+      "hex": "#021488",
+      "rgb": [
+        2,
+        20,
+        136
+      ],
+      "weight": 68.1,
+      "hue": 232,
+      "sat": 97,
+      "light": 27,
+      "tone": "dark",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fcc8f6",
+      "rgb": [
+        252,
+        200,
+        246
+      ],
+      "weight": 67.8,
+      "hue": 307,
+      "sat": 90,
+      "light": 89,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#1f1816",
+      "rgb": [
+        31,
+        24,
+        22
+      ],
+      "weight": 67.7,
+      "hue": 13,
+      "sat": 17,
+      "light": 10,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#fb3008",
+      "rgb": [
+        251,
+        48,
+        8
+      ],
+      "weight": 67.3,
+      "hue": 10,
+      "sat": 97,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f2f3f2",
+      "rgb": [
+        242,
+        243,
+        242
+      ],
+      "weight": 67.2,
+      "hue": 120,
+      "sat": 4,
+      "light": 95,
+      "tone": "light",
+      "chroma": "neutral"
+    }
+  ],
+  "palette_earth": [
+    {
+      "hex": "#fbe8d8",
+      "rgb": [
+        251,
+        232,
+        216
+      ],
+      "weight": 182.4,
+      "hue": 27,
+      "sat": 81,
+      "light": 92,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fd3009",
+      "rgb": [
+        253,
+        48,
+        9
+      ],
+      "weight": 159.4,
+      "hue": 10,
+      "sat": 98,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f3684d",
+      "rgb": [
+        243,
+        104,
+        77
+      ],
+      "weight": 159.2,
+      "hue": 10,
+      "sat": 87,
+      "light": 63,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#d5a58a",
+      "rgb": [
+        213,
+        165,
+        138
+      ],
+      "weight": 120.5,
+      "hue": 22,
+      "sat": 47,
+      "light": 69,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fbe7d9",
+      "rgb": [
+        251,
+        231,
+        217
+      ],
+      "weight": 91.4,
+      "hue": 25,
+      "sat": 81,
+      "light": 92,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fcf3e3",
+      "rgb": [
+        252,
+        243,
+        227
+      ],
+      "weight": 88.1,
+      "hue": 38,
+      "sat": 81,
+      "light": 94,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fcf0de",
+      "rgb": [
+        252,
+        240,
+        222
+      ],
+      "weight": 87.5,
+      "hue": 36,
+      "sat": 83,
+      "light": 93,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#faf7ee",
+      "rgb": [
+        250,
+        247,
+        238
+      ],
+      "weight": 81.9,
+      "hue": 45,
+      "sat": 55,
+      "light": 96,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fb2f08",
+      "rgb": [
+        251,
+        47,
+        8
+      ],
+      "weight": 81.3,
+      "hue": 10,
+      "sat": 97,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fd3008",
+      "rgb": [
+        253,
+        48,
+        8
+      ],
+      "weight": 80.9,
+      "hue": 10,
+      "sat": 98,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fbefde",
+      "rgb": [
+        251,
+        239,
+        222
+      ],
+      "weight": 80.0,
+      "hue": 35,
+      "sat": 78,
+      "light": 93,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#fbf9ef",
+      "rgb": [
+        251,
+        249,
+        239
+      ],
+      "weight": 77.0,
+      "hue": 50,
+      "sat": 60,
+      "light": 96,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#f9f5ed",
+      "rgb": [
+        249,
+        245,
+        237
+      ],
+      "weight": 76.0,
+      "hue": 40,
+      "sat": 50,
+      "light": 95,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#faf6ed",
+      "rgb": [
+        250,
+        246,
+        237
+      ],
+      "weight": 74.4,
+      "hue": 42,
+      "sat": 57,
+      "light": 95,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#211b19",
+      "rgb": [
+        33,
+        27,
+        25
+      ],
+      "weight": 71.6,
+      "hue": 15,
+      "sat": 14,
+      "light": 11,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#201917",
+      "rgb": [
+        32,
+        25,
+        23
+      ],
+      "weight": 71.1,
+      "hue": 13,
+      "sat": 16,
+      "light": 11,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#1f1918",
+      "rgb": [
+        31,
+        25,
+        24
+      ],
+      "weight": 70.6,
+      "hue": 9,
+      "sat": 13,
+      "light": 11,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#fbf7f0",
+      "rgb": [
+        251,
+        247,
+        240
+      ],
+      "weight": 69.8,
+      "hue": 38,
+      "sat": 58,
+      "light": 96,
+      "tone": "light",
+      "chroma": "vivid"
+    },
+    {
+      "hex": "#1f1816",
+      "rgb": [
+        31,
+        24,
+        22
+      ],
+      "weight": 67.7,
+      "hue": 13,
+      "sat": 17,
+      "light": 10,
+      "tone": "dark",
+      "chroma": "muted"
+    },
+    {
+      "hex": "#fb3008",
+      "rgb": [
+        251,
+        48,
+        8
+      ],
+      "weight": 67.3,
+      "hue": 10,
+      "sat": 97,
+      "light": 51,
+      "tone": "mid",
+      "chroma": "vivid"
+    }
+  ],
+  "typography_by_source": {
+    "facebook": {
+      "computed_families": [
+        {
+          "family": "Segoe UI Historic",
+          "usage": 100,
+          "sizes": [
+            "12px",
+            "15px",
+            "13px",
+            "20px",
+            "32px",
+            "17px",
+            "1px"
+          ],
+          "weights": [
+            "400",
+            "600",
+            "700"
+          ],
+          "styles": [
+            "normal"
+          ]
+        }
+      ],
+      "declared_font_faces": [],
+      "css_font_families": [],
+      "font_sizes_ranked": [
+        "12px",
+        "15px",
+        "13px",
+        "20px",
+        "32px",
+        "17px",
+        "1px"
+      ],
+      "font_weights_ranked": [
+        "400",
+        "600",
+        "700"
+      ],
+      "letter_spacing_seen": [],
+      "text_transforms": {}
+    },
+    "doordash": {
+      "computed_families": [
+        {
+          "family": "Times New Roman",
+          "usage": 199,
+          "sizes": [
+            "16px",
+            "14px"
+          ],
+          "weights": [
+            "400"
+          ],
+          "styles": [
+            "normal"
+          ]
+        },
+        {
+          "family": "DD Norms",
+          "usage": 129,
+          "sizes": [
+            "14px",
+            "16px",
+            "12px",
+            "20px",
+            "18px",
+            "24px",
+            "32px"
+          ],
+          "weights": [
+            "500",
+            "700",
+            "800"
+          ],
+          "styles": [
+            "normal"
+          ]
+        },
+        {
+          "family": "Arial",
+          "usage": 43,
+          "sizes": [
+            "13.3333px",
+            "16px"
+          ],
+          "weights": [
+            "400"
+          ],
+          "styles": [
+            "normal"
+          ]
+        }
+      ],
+      "declared_font_faces": [],
+      "css_font_families": [],
+      "font_sizes_ranked": [
+        "16px",
+        "14px",
+        "13.3333px",
+        "12px",
+        "20px",
+        "18px",
+        "24px",
+        "32px"
+      ],
+      "font_weights_ranked": [
+        "400",
+        "500",
+        "700",
+        "800"
+      ],
+      "letter_spacing_seen": [
+        "-0.01px",
+        "-0.2px",
+        "-0.5px",
+        "-0.8px"
+      ],
+      "text_transforms": {}
+    },
+    "ubereats": {
+      "computed_families": [
+        {
+          "family": "UberMoveText",
+          "usage": 75,
+          "sizes": [
+            "16px",
+            "14px",
+            "18px"
+          ],
+          "weights": [
+            "400",
+            "500"
+          ],
+          "styles": [
+            "normal"
+          ]
+        },
+        {
+          "family": "UberMove",
+          "usage": 2,
+          "sizes": [
+            "32px",
+            "24px"
+          ],
+          "weights": [
+            "700"
+          ],
+          "styles": [
+            "normal"
+          ]
+        }
+      ],
+      "declared_font_faces": [],
+      "css_font_families": [],
+      "font_sizes_ranked": [
+        "16px",
+        "14px",
+        "18px",
+        "32px",
+        "24px"
+      ],
+      "font_weights_ranked": [
+        "400",
+        "500",
+        "700"
+      ],
+      "letter_spacing_seen": [],
+      "text_transforms": {}
+    },
+    "instagram": {
+      "computed_families": [],
+      "declared_font_faces": [],
+      "css_font_families": [],
+      "font_sizes_ranked": [],
+      "font_weights_ranked": [],
+      "letter_spacing_seen": [],
+      "text_transforms": {}
+    }
+  },
+  "per_file_palette": [
+    {
+      "file": "brand_library/photos/doordash_001_doordash-001.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#2a1f19",
+          "rgb": [
+            42,
+            31,
+            25
+          ],
+          "share": 50.5,
+          "hue": 21,
+          "lightness": 13,
+          "saturation": 25
+        },
+        {
+          "hex": "#d6a486",
+          "rgb": [
+            214,
+            164,
+            134
+          ],
+          "share": 12.4,
+          "hue": 23,
+          "lightness": 68,
+          "saturation": 49
+        },
+        {
+          "hex": "#503124",
+          "rgb": [
+            80,
+            49,
+            36
+          ],
+          "share": 11.2,
+          "hue": 18,
+          "lightness": 23,
+          "saturation": 38
+        },
+        {
+          "hex": "#936a62",
+          "rgb": [
+            147,
+            106,
+            98
+          ],
+          "share": 9.0,
+          "hue": 10,
+          "lightness": 48,
+          "saturation": 20
+        },
+        {
+          "hex": "#cf9e74",
+          "rgb": [
+            207,
+            158,
+            116
+          ],
+          "share": 8.5,
+          "hue": 28,
+          "lightness": 63,
+          "saturation": 49
+        },
+        {
+          "hex": "#6b574e",
+          "rgb": [
+            107,
+            87,
+            78
+          ],
+          "share": 8.4,
+          "hue": 19,
+          "lightness": 36,
+          "saturation": 16
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_002_doordash-002.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f3f3f3",
+          "rgb": [
+            243,
+            243,
+            243
+          ],
+          "share": 49.0,
+          "hue": 0,
+          "lightness": 95,
+          "saturation": 0
+        },
+        {
+          "hex": "#5a5a5a",
+          "rgb": [
+            90,
+            90,
+            90
+          ],
+          "share": 21.6,
+          "hue": 0,
+          "lightness": 35,
+          "saturation": 0
+        },
+        {
+          "hex": "#9f9f9f",
+          "rgb": [
+            159,
+            159,
+            159
+          ],
+          "share": 16.1,
+          "hue": 0,
+          "lightness": 62,
+          "saturation": 0
+        },
+        {
+          "hex": "#303030",
+          "rgb": [
+            48,
+            48,
+            48
+          ],
+          "share": 13.3,
+          "hue": 0,
+          "lightness": 19,
+          "saturation": 0
+        },
+        {
+          "hex": "#3e3e40",
+          "rgb": [
+            62,
+            62,
+            64
+          ],
+          "share": 0.0,
+          "hue": 240,
+          "lightness": 25,
+          "saturation": 2
+        },
+        {
+          "hex": "#bebec0",
+          "rgb": [
+            190,
+            190,
+            192
+          ],
+          "share": 0.0,
+          "hue": 240,
+          "lightness": 75,
+          "saturation": 2
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_003_doordash-003.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fefefe",
+          "rgb": [
+            254,
+            254,
+            254
+          ],
+          "share": 66.2,
+          "hue": 0,
+          "lightness": 100,
+          "saturation": 0
+        },
+        {
+          "hex": "#9d9d9d",
+          "rgb": [
+            157,
+            157,
+            157
+          ],
+          "share": 9.9,
+          "hue": 0,
+          "lightness": 62,
+          "saturation": 0
+        },
+        {
+          "hex": "#676767",
+          "rgb": [
+            103,
+            103,
+            103
+          ],
+          "share": 8.2,
+          "hue": 0,
+          "lightness": 40,
+          "saturation": 0
+        },
+        {
+          "hex": "#d7d7d7",
+          "rgb": [
+            215,
+            215,
+            215
+          ],
+          "share": 7.5,
+          "hue": 0,
+          "lightness": 84,
+          "saturation": 0
+        },
+        {
+          "hex": "#303030",
+          "rgb": [
+            48,
+            48,
+            48
+          ],
+          "share": 4.8,
+          "hue": 0,
+          "lightness": 19,
+          "saturation": 0
+        },
+        {
+          "hex": "#464646",
+          "rgb": [
+            70,
+            70,
+            70
+          ],
+          "share": 3.3,
+          "hue": 0,
+          "lightness": 27,
+          "saturation": 0
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_004_doordash-004.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#d3a68c",
+          "rgb": [
+            211,
+            166,
+            140
+          ],
+          "share": 52.7,
+          "hue": 22,
+          "lightness": 69,
+          "saturation": 45
+        },
+        {
+          "hex": "#2a1f1b",
+          "rgb": [
+            42,
+            31,
+            27
+          ],
+          "share": 11.4,
+          "hue": 16,
+          "lightness": 14,
+          "saturation": 22
+        },
+        {
+          "hex": "#d09d6f",
+          "rgb": [
+            208,
+            157,
+            111
+          ],
+          "share": 9.8,
+          "hue": 28,
+          "lightness": 63,
+          "saturation": 51
+        },
+        {
+          "hex": "#976b61",
+          "rgb": [
+            151,
+            107,
+            97
+          ],
+          "share": 9.6,
+          "hue": 11,
+          "lightness": 49,
+          "saturation": 22
+        },
+        {
+          "hex": "#513125",
+          "rgb": [
+            81,
+            49,
+            37
+          ],
+          "share": 9.1,
+          "hue": 16,
+          "lightness": 23,
+          "saturation": 37
+        },
+        {
+          "hex": "#68574f",
+          "rgb": [
+            104,
+            87,
+            79
+          ],
+          "share": 7.3,
+          "hue": 19,
+          "lightness": 36,
+          "saturation": 14
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_005_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#021488",
+          "rgb": [
+            2,
+            20,
+            136
+          ],
+          "share": 68.1,
+          "hue": 232,
+          "lightness": 27,
+          "saturation": 97
+        },
+        {
+          "hex": "#a5d1ec",
+          "rgb": [
+            165,
+            209,
+            236
+          ],
+          "share": 10.7,
+          "hue": 203,
+          "lightness": 79,
+          "saturation": 65
+        },
+        {
+          "hex": "#1a182a",
+          "rgb": [
+            26,
+            24,
+            42
+          ],
+          "share": 6.9,
+          "hue": 247,
+          "lightness": 13,
+          "saturation": 27
+        },
+        {
+          "hex": "#9da09f",
+          "rgb": [
+            157,
+            160,
+            159
+          ],
+          "share": 5.3,
+          "hue": 160,
+          "lightness": 62,
+          "saturation": 2
+        },
+        {
+          "hex": "#dee5e8",
+          "rgb": [
+            222,
+            229,
+            232
+          ],
+          "share": 5.1,
+          "hue": 198,
+          "lightness": 89,
+          "saturation": 18
+        },
+        {
+          "hex": "#5b6aa4",
+          "rgb": [
+            91,
+            106,
+            164
+          ],
+          "share": 4.0,
+          "hue": 228,
+          "lightness": 50,
+          "saturation": 29
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_006_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#1894e4",
+          "rgb": [
+            24,
+            148,
+            228
+          ],
+          "share": 69.7,
+          "hue": 204,
+          "lightness": 49,
+          "saturation": 81
+        },
+        {
+          "hex": "#db9e5a",
+          "rgb": [
+            219,
+            158,
+            90
+          ],
+          "share": 9.0,
+          "hue": 32,
+          "lightness": 61,
+          "saturation": 64
+        },
+        {
+          "hex": "#e3f1f8",
+          "rgb": [
+            227,
+            241,
+            248
+          ],
+          "share": 8.8,
+          "hue": 200,
+          "lightness": 93,
+          "saturation": 60
+        },
+        {
+          "hex": "#0a76ca",
+          "rgb": [
+            10,
+            118,
+            202
+          ],
+          "share": 4.6,
+          "hue": 206,
+          "lightness": 42,
+          "saturation": 91
+        },
+        {
+          "hex": "#a06234",
+          "rgb": [
+            160,
+            98,
+            52
+          ],
+          "share": 4.4,
+          "hue": 26,
+          "lightness": 42,
+          "saturation": 51
+        },
+        {
+          "hex": "#592f25",
+          "rgb": [
+            89,
+            47,
+            37
+          ],
+          "share": 3.5,
+          "hue": 12,
+          "lightness": 25,
+          "saturation": 41
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_007_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#1893e4",
+          "rgb": [
+            24,
+            147,
+            228
+          ],
+          "share": 71.1,
+          "hue": 204,
+          "lightness": 49,
+          "saturation": 81
+        },
+        {
+          "hex": "#e4f2f9",
+          "rgb": [
+            228,
+            242,
+            249
+          ],
+          "share": 9.1,
+          "hue": 200,
+          "lightness": 94,
+          "saturation": 64
+        },
+        {
+          "hex": "#db9d5b",
+          "rgb": [
+            219,
+            157,
+            91
+          ],
+          "share": 6.9,
+          "hue": 31,
+          "lightness": 61,
+          "saturation": 64
+        },
+        {
+          "hex": "#0a76ca",
+          "rgb": [
+            10,
+            118,
+            202
+          ],
+          "share": 6.0,
+          "hue": 206,
+          "lightness": 42,
+          "saturation": 91
+        },
+        {
+          "hex": "#a26233",
+          "rgb": [
+            162,
+            98,
+            51
+          ],
+          "share": 3.9,
+          "hue": 25,
+          "lightness": 42,
+          "saturation": 52
+        },
+        {
+          "hex": "#592e24",
+          "rgb": [
+            89,
+            46,
+            36
+          ],
+          "share": 3.1,
+          "hue": 11,
+          "lightness": 25,
+          "saturation": 42
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_008_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fcfbfc",
+          "rgb": [
+            252,
+            251,
+            252
+          ],
+          "share": 54.3,
+          "hue": 300,
+          "lightness": 99,
+          "saturation": 14
+        },
+        {
+          "hex": "#6c94b7",
+          "rgb": [
+            108,
+            148,
+            183
+          ],
+          "share": 24.4,
+          "hue": 208,
+          "lightness": 57,
+          "saturation": 34
+        },
+        {
+          "hex": "#cc222b",
+          "rgb": [
+            204,
+            34,
+            43
+          ],
+          "share": 6.4,
+          "hue": 357,
+          "lightness": 47,
+          "saturation": 71
+        },
+        {
+          "hex": "#dc5e5c",
+          "rgb": [
+            220,
+            94,
+            92
+          ],
+          "share": 5.9,
+          "hue": 1,
+          "lightness": 61,
+          "saturation": 65
+        },
+        {
+          "hex": "#a15c2a",
+          "rgb": [
+            161,
+            92,
+            42
+          ],
+          "share": 5.2,
+          "hue": 25,
+          "lightness": 40,
+          "saturation": 59
+        },
+        {
+          "hex": "#df9b58",
+          "rgb": [
+            223,
+            155,
+            88
+          ],
+          "share": 3.7,
+          "hue": 30,
+          "lightness": 61,
+          "saturation": 68
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_009_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fb3008",
+          "rgb": [
+            251,
+            48,
+            8
+          ],
+          "share": 67.3,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 97
+        },
+        {
+          "hex": "#160e0c",
+          "rgb": [
+            22,
+            14,
+            12
+          ],
+          "share": 13.2,
+          "hue": 12,
+          "lightness": 7,
+          "saturation": 29
+        },
+        {
+          "hex": "#dc5e1a",
+          "rgb": [
+            220,
+            94,
+            26
+          ],
+          "share": 5.5,
+          "hue": 21,
+          "lightness": 48,
+          "saturation": 79
+        },
+        {
+          "hex": "#f3910c",
+          "rgb": [
+            243,
+            145,
+            12
+          ],
+          "share": 4.8,
+          "hue": 35,
+          "lightness": 50,
+          "saturation": 91
+        },
+        {
+          "hex": "#a6542b",
+          "rgb": [
+            166,
+            84,
+            43
+          ],
+          "share": 4.6,
+          "hue": 20,
+          "lightness": 41,
+          "saturation": 59
+        },
+        {
+          "hex": "#e3e1dc",
+          "rgb": [
+            227,
+            225,
+            220
+          ],
+          "share": 4.5,
+          "hue": 43,
+          "lightness": 88,
+          "saturation": 11
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_010_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fb2f08",
+          "rgb": [
+            251,
+            47,
+            8
+          ],
+          "share": 81.3,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 97
+        },
+        {
+          "hex": "#160d0b",
+          "rgb": [
+            22,
+            13,
+            11
+          ],
+          "share": 7.7,
+          "hue": 11,
+          "lightness": 6,
+          "saturation": 33
+        },
+        {
+          "hex": "#f3910a",
+          "rgb": [
+            243,
+            145,
+            10
+          ],
+          "share": 2.9,
+          "hue": 35,
+          "lightness": 50,
+          "saturation": 92
+        },
+        {
+          "hex": "#a65427",
+          "rgb": [
+            166,
+            84,
+            39
+          ],
+          "share": 2.9,
+          "hue": 21,
+          "lightness": 40,
+          "saturation": 62
+        },
+        {
+          "hex": "#db6217",
+          "rgb": [
+            219,
+            98,
+            23
+          ],
+          "share": 2.6,
+          "hue": 23,
+          "lightness": 47,
+          "saturation": 81
+        },
+        {
+          "hex": "#e4e2db",
+          "rgb": [
+            228,
+            226,
+            219
+          ],
+          "share": 2.5,
+          "hue": 47,
+          "lightness": 88,
+          "saturation": 14
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_011_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#dfb2cb",
+          "rgb": [
+            223,
+            178,
+            203
+          ],
+          "share": 87.7,
+          "hue": 327,
+          "lightness": 79,
+          "saturation": 41
+        },
+        {
+          "hex": "#fadcaa",
+          "rgb": [
+            250,
+            220,
+            170
+          ],
+          "share": 5.4,
+          "hue": 38,
+          "lightness": 82,
+          "saturation": 89
+        },
+        {
+          "hex": "#235fa4",
+          "rgb": [
+            35,
+            95,
+            164
+          ],
+          "share": 2.1,
+          "hue": 212,
+          "lightness": 39,
+          "saturation": 65
+        },
+        {
+          "hex": "#f0dad9",
+          "rgb": [
+            240,
+            218,
+            217
+          ],
+          "share": 1.9,
+          "hue": 3,
+          "lightness": 90,
+          "saturation": 43
+        },
+        {
+          "hex": "#2a5f73",
+          "rgb": [
+            42,
+            95,
+            115
+          ],
+          "share": 1.5,
+          "hue": 196,
+          "lightness": 31,
+          "saturation": 46
+        },
+        {
+          "hex": "#1295e9",
+          "rgb": [
+            18,
+            149,
+            233
+          ],
+          "share": 1.4,
+          "hue": 203,
+          "lightness": 49,
+          "saturation": 86
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_012_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#deb1cb",
+          "rgb": [
+            222,
+            177,
+            203
+          ],
+          "share": 89.9,
+          "hue": 325,
+          "lightness": 78,
+          "saturation": 41
+        },
+        {
+          "hex": "#f9dcab",
+          "rgb": [
+            249,
+            220,
+            171
+          ],
+          "share": 3.8,
+          "hue": 38,
+          "lightness": 82,
+          "saturation": 87
+        },
+        {
+          "hex": "#f5d5d6",
+          "rgb": [
+            245,
+            213,
+            214
+          ],
+          "share": 2.5,
+          "hue": 358,
+          "lightness": 90,
+          "saturation": 62
+        },
+        {
+          "hex": "#a896a1",
+          "rgb": [
+            168,
+            150,
+            161
+          ],
+          "share": 1.3,
+          "hue": 323,
+          "lightness": 62,
+          "saturation": 9
+        },
+        {
+          "hex": "#2c6074",
+          "rgb": [
+            44,
+            96,
+            116
+          ],
+          "share": 1.3,
+          "hue": 197,
+          "lightness": 31,
+          "saturation": 45
+        },
+        {
+          "hex": "#e0acaa",
+          "rgb": [
+            224,
+            172,
+            170
+          ],
+          "share": 1.3,
+          "hue": 2,
+          "lightness": 77,
+          "saturation": 47
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_013_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#deb1cb",
+          "rgb": [
+            222,
+            177,
+            203
+          ],
+          "share": 90.8,
+          "hue": 325,
+          "lightness": 78,
+          "saturation": 41
+        },
+        {
+          "hex": "#f7d6d8",
+          "rgb": [
+            247,
+            214,
+            216
+          ],
+          "share": 3.1,
+          "hue": 356,
+          "lightness": 90,
+          "saturation": 67
+        },
+        {
+          "hex": "#fadcab",
+          "rgb": [
+            250,
+            220,
+            171
+          ],
+          "share": 2.6,
+          "hue": 37,
+          "lightness": 83,
+          "saturation": 89
+        },
+        {
+          "hex": "#079bf4",
+          "rgb": [
+            7,
+            155,
+            244
+          ],
+          "share": 1.5,
+          "hue": 203,
+          "lightness": 49,
+          "saturation": 94
+        },
+        {
+          "hex": "#a694a0",
+          "rgb": [
+            166,
+            148,
+            160
+          ],
+          "share": 1.0,
+          "hue": 320,
+          "lightness": 62,
+          "saturation": 9
+        },
+        {
+          "hex": "#d6a5af",
+          "rgb": [
+            214,
+            165,
+            175
+          ],
+          "share": 0.9,
+          "hue": 348,
+          "lightness": 74,
+          "saturation": 37
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_014_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbf7f0",
+          "rgb": [
+            251,
+            247,
+            240
+          ],
+          "share": 69.8,
+          "hue": 38,
+          "lightness": 96,
+          "saturation": 58
+        },
+        {
+          "hex": "#da9b56",
+          "rgb": [
+            218,
+            155,
+            86
+          ],
+          "share": 10.7,
+          "hue": 31,
+          "lightness": 60,
+          "saturation": 64
+        },
+        {
+          "hex": "#241212",
+          "rgb": [
+            36,
+            18,
+            18
+          ],
+          "share": 7.0,
+          "hue": 0,
+          "lightness": 11,
+          "saturation": 33
+        },
+        {
+          "hex": "#592718",
+          "rgb": [
+            89,
+            39,
+            24
+          ],
+          "share": 4.7,
+          "hue": 14,
+          "lightness": 22,
+          "saturation": 58
+        },
+        {
+          "hex": "#a35a26",
+          "rgb": [
+            163,
+            90,
+            38
+          ],
+          "share": 4.3,
+          "hue": 25,
+          "lightness": 39,
+          "saturation": 62
+        },
+        {
+          "hex": "#9c6f53",
+          "rgb": [
+            156,
+            111,
+            83
+          ],
+          "share": 3.5,
+          "hue": 23,
+          "lightness": 47,
+          "saturation": 31
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_015_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbf8f0",
+          "rgb": [
+            251,
+            248,
+            240
+          ],
+          "share": 66.3,
+          "hue": 44,
+          "lightness": 96,
+          "saturation": 58
+        },
+        {
+          "hex": "#d99b56",
+          "rgb": [
+            217,
+            155,
+            86
+          ],
+          "share": 8.5,
+          "hue": 32,
+          "lightness": 59,
+          "saturation": 63
+        },
+        {
+          "hex": "#241111",
+          "rgb": [
+            36,
+            17,
+            17
+          ],
+          "share": 7.9,
+          "hue": 0,
+          "lightness": 10,
+          "saturation": 36
+        },
+        {
+          "hex": "#9c582c",
+          "rgb": [
+            156,
+            88,
+            44
+          ],
+          "share": 7.0,
+          "hue": 24,
+          "lightness": 39,
+          "saturation": 56
+        },
+        {
+          "hex": "#5c2918",
+          "rgb": [
+            92,
+            41,
+            24
+          ],
+          "share": 6.6,
+          "hue": 15,
+          "lightness": 23,
+          "saturation": 59
+        },
+        {
+          "hex": "#9f6d4f",
+          "rgb": [
+            159,
+            109,
+            79
+          ],
+          "share": 3.7,
+          "hue": 22,
+          "lightness": 47,
+          "saturation": 34
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_016_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbf9ef",
+          "rgb": [
+            251,
+            249,
+            239
+          ],
+          "share": 77.0,
+          "hue": 50,
+          "lightness": 96,
+          "saturation": 60
+        },
+        {
+          "hex": "#db9b59",
+          "rgb": [
+            219,
+            155,
+            89
+          ],
+          "share": 6.7,
+          "hue": 30,
+          "lightness": 60,
+          "saturation": 64
+        },
+        {
+          "hex": "#241111",
+          "rgb": [
+            36,
+            17,
+            17
+          ],
+          "share": 4.9,
+          "hue": 0,
+          "lightness": 10,
+          "saturation": 36
+        },
+        {
+          "hex": "#9d592a",
+          "rgb": [
+            157,
+            89,
+            42
+          ],
+          "share": 4.7,
+          "hue": 25,
+          "lightness": 39,
+          "saturation": 58
+        },
+        {
+          "hex": "#5c2916",
+          "rgb": [
+            92,
+            41,
+            22
+          ],
+          "share": 4.3,
+          "hue": 16,
+          "lightness": 22,
+          "saturation": 61
+        },
+        {
+          "hex": "#9f6e50",
+          "rgb": [
+            159,
+            110,
+            80
+          ],
+          "share": 2.3,
+          "hue": 23,
+          "lightness": 47,
+          "saturation": 33
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_017_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#e72d0a",
+          "rgb": [
+            231,
+            45,
+            10
+          ],
+          "share": 42.3,
+          "hue": 10,
+          "lightness": 47,
+          "saturation": 92
+        },
+        {
+          "hex": "#fd6e53",
+          "rgb": [
+            253,
+            110,
+            83
+          ],
+          "share": 17.2,
+          "hue": 10,
+          "lightness": 66,
+          "saturation": 98
+        },
+        {
+          "hex": "#fd4f2d",
+          "rgb": [
+            253,
+            79,
+            45
+          ],
+          "share": 13.1,
+          "hue": 10,
+          "lightness": 58,
+          "saturation": 98
+        },
+        {
+          "hex": "#a21e09",
+          "rgb": [
+            162,
+            30,
+            9
+          ],
+          "share": 12.7,
+          "hue": 8,
+          "lightness": 34,
+          "saturation": 89
+        },
+        {
+          "hex": "#fc866e",
+          "rgb": [
+            252,
+            134,
+            110
+          ],
+          "share": 7.6,
+          "hue": 10,
+          "lightness": 71,
+          "saturation": 96
+        },
+        {
+          "hex": "#670f09",
+          "rgb": [
+            103,
+            15,
+            9
+          ],
+          "share": 7.1,
+          "hue": 4,
+          "lightness": 22,
+          "saturation": 84
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_018_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#e92d0a",
+          "rgb": [
+            233,
+            45,
+            10
+          ],
+          "share": 43.1,
+          "hue": 9,
+          "lightness": 48,
+          "saturation": 92
+        },
+        {
+          "hex": "#fd6f53",
+          "rgb": [
+            253,
+            111,
+            83
+          ],
+          "share": 16.6,
+          "hue": 10,
+          "lightness": 66,
+          "saturation": 98
+        },
+        {
+          "hex": "#a21d09",
+          "rgb": [
+            162,
+            29,
+            9
+          ],
+          "share": 13.4,
+          "hue": 8,
+          "lightness": 34,
+          "saturation": 89
+        },
+        {
+          "hex": "#fe4f2d",
+          "rgb": [
+            254,
+            79,
+            45
+          ],
+          "share": 12.4,
+          "hue": 10,
+          "lightness": 59,
+          "saturation": 99
+        },
+        {
+          "hex": "#fc866e",
+          "rgb": [
+            252,
+            134,
+            110
+          ],
+          "share": 7.3,
+          "hue": 10,
+          "lightness": 71,
+          "saturation": 96
+        },
+        {
+          "hex": "#640e09",
+          "rgb": [
+            100,
+            14,
+            9
+          ],
+          "share": 7.1,
+          "hue": 3,
+          "lightness": 21,
+          "saturation": 83
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_019_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#ec2e0a",
+          "rgb": [
+            236,
+            46,
+            10
+          ],
+          "share": 40.4,
+          "hue": 10,
+          "lightness": 48,
+          "saturation": 92
+        },
+        {
+          "hex": "#fe6e52",
+          "rgb": [
+            254,
+            110,
+            82
+          ],
+          "share": 18.5,
+          "hue": 10,
+          "lightness": 66,
+          "saturation": 99
+        },
+        {
+          "hex": "#fe4e2c",
+          "rgb": [
+            254,
+            78,
+            44
+          ],
+          "share": 17.2,
+          "hue": 10,
+          "lightness": 58,
+          "saturation": 99
+        },
+        {
+          "hex": "#a21d09",
+          "rgb": [
+            162,
+            29,
+            9
+          ],
+          "share": 9.9,
+          "hue": 8,
+          "lightness": 34,
+          "saturation": 89
+        },
+        {
+          "hex": "#fd866e",
+          "rgb": [
+            253,
+            134,
+            110
+          ],
+          "share": 7.2,
+          "hue": 10,
+          "lightness": 71,
+          "saturation": 97
+        },
+        {
+          "hex": "#650d09",
+          "rgb": [
+            101,
+            13,
+            9
+          ],
+          "share": 6.8,
+          "hue": 3,
+          "lightness": 22,
+          "saturation": 84
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_020_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#ef2c0e",
+          "rgb": [
+            239,
+            44,
+            14
+          ],
+          "share": 64.6,
+          "hue": 8,
+          "lightness": 50,
+          "saturation": 89
+        },
+        {
+          "hex": "#a11d23",
+          "rgb": [
+            161,
+            29,
+            35
+          ],
+          "share": 17.7,
+          "hue": 357,
+          "lightness": 37,
+          "saturation": 69
+        },
+        {
+          "hex": "#671232",
+          "rgb": [
+            103,
+            18,
+            50
+          ],
+          "share": 12.0,
+          "hue": 337,
+          "lightness": 24,
+          "saturation": 70
+        },
+        {
+          "hex": "#e9d6dc",
+          "rgb": [
+            233,
+            214,
+            220
+          ],
+          "share": 2.4,
+          "hue": 341,
+          "lightness": 88,
+          "saturation": 30
+        },
+        {
+          "hex": "#e35456",
+          "rgb": [
+            227,
+            84,
+            86
+          ],
+          "share": 1.9,
+          "hue": 359,
+          "lightness": 61,
+          "saturation": 72
+        },
+        {
+          "hex": "#d3a5aa",
+          "rgb": [
+            211,
+            165,
+            170
+          ],
+          "share": 1.4,
+          "hue": 353,
+          "lightness": 74,
+          "saturation": 34
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_021_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#e32a10",
+          "rgb": [
+            227,
+            42,
+            16
+          ],
+          "share": 48.4,
+          "hue": 7,
+          "lightness": 48,
+          "saturation": 87
+        },
+        {
+          "hex": "#a01c22",
+          "rgb": [
+            160,
+            28,
+            34
+          ],
+          "share": 28.0,
+          "hue": 357,
+          "lightness": 37,
+          "saturation": 70
+        },
+        {
+          "hex": "#641132",
+          "rgb": [
+            100,
+            17,
+            50
+          ],
+          "share": 21.2,
+          "hue": 336,
+          "lightness": 23,
+          "saturation": 71
+        },
+        {
+          "hex": "#e7d3d7",
+          "rgb": [
+            231,
+            211,
+            215
+          ],
+          "share": 0.8,
+          "hue": 348,
+          "lightness": 87,
+          "saturation": 29
+        },
+        {
+          "hex": "#e05256",
+          "rgb": [
+            224,
+            82,
+            86
+          ],
+          "share": 0.8,
+          "hue": 358,
+          "lightness": 60,
+          "saturation": 70
+        },
+        {
+          "hex": "#d2a4ab",
+          "rgb": [
+            210,
+            164,
+            171
+          ],
+          "share": 0.8,
+          "hue": 351,
+          "lightness": 73,
+          "saturation": 34
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_022_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#e32a11",
+          "rgb": [
+            227,
+            42,
+            17
+          ],
+          "share": 50.5,
+          "hue": 7,
+          "lightness": 48,
+          "saturation": 86
+        },
+        {
+          "hex": "#a11d22",
+          "rgb": [
+            161,
+            29,
+            34
+          ],
+          "share": 30.1,
+          "hue": 358,
+          "lightness": 37,
+          "saturation": 69
+        },
+        {
+          "hex": "#651132",
+          "rgb": [
+            101,
+            17,
+            50
+          ],
+          "share": 15.9,
+          "hue": 336,
+          "lightness": 23,
+          "saturation": 71
+        },
+        {
+          "hex": "#ead7dd",
+          "rgb": [
+            234,
+            215,
+            221
+          ],
+          "share": 1.6,
+          "hue": 341,
+          "lightness": 88,
+          "saturation": 31
+        },
+        {
+          "hex": "#e85053",
+          "rgb": [
+            232,
+            80,
+            83
+          ],
+          "share": 1.0,
+          "hue": 359,
+          "lightness": 61,
+          "saturation": 77
+        },
+        {
+          "hex": "#5d2a4f",
+          "rgb": [
+            93,
+            42,
+            79
+          ],
+          "share": 0.9,
+          "hue": 316,
+          "lightness": 26,
+          "saturation": 38
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_023_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fcc7f6",
+          "rgb": [
+            252,
+            199,
+            246
+          ],
+          "share": 63.4,
+          "hue": 307,
+          "lightness": 88,
+          "saturation": 90
+        },
+        {
+          "hex": "#db1a2a",
+          "rgb": [
+            219,
+            26,
+            42
+          ],
+          "share": 8.6,
+          "hue": 355,
+          "lightness": 48,
+          "saturation": 79
+        },
+        {
+          "hex": "#faa9ed",
+          "rgb": [
+            250,
+            169,
+            237
+          ],
+          "share": 8.5,
+          "hue": 310,
+          "lightness": 82,
+          "saturation": 89
+        },
+        {
+          "hex": "#f2a6ad",
+          "rgb": [
+            242,
+            166,
+            173
+          ],
+          "share": 8.5,
+          "hue": 354,
+          "lightness": 80,
+          "saturation": 75
+        },
+        {
+          "hex": "#a40d15",
+          "rgb": [
+            164,
+            13,
+            21
+          ],
+          "share": 7.7,
+          "hue": 357,
+          "lightness": 35,
+          "saturation": 85
+        },
+        {
+          "hex": "#62180f",
+          "rgb": [
+            98,
+            24,
+            15
+          ],
+          "share": 3.3,
+          "hue": 7,
+          "lightness": 22,
+          "saturation": 73
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_024_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fcc8f6",
+          "rgb": [
+            252,
+            200,
+            246
+          ],
+          "share": 67.8,
+          "hue": 307,
+          "lightness": 89,
+          "saturation": 90
+        },
+        {
+          "hex": "#f9a6ee",
+          "rgb": [
+            249,
+            166,
+            238
+          ],
+          "share": 10.4,
+          "hue": 308,
+          "lightness": 81,
+          "saturation": 87
+        },
+        {
+          "hex": "#f2a4a9",
+          "rgb": [
+            242,
+            164,
+            169
+          ],
+          "share": 8.2,
+          "hue": 356,
+          "lightness": 80,
+          "saturation": 75
+        },
+        {
+          "hex": "#a4090d",
+          "rgb": [
+            164,
+            9,
+            13
+          ],
+          "share": 5.3,
+          "hue": 358,
+          "lightness": 34,
+          "saturation": 90
+        },
+        {
+          "hex": "#de1a24",
+          "rgb": [
+            222,
+            26,
+            36
+          ],
+          "share": 4.9,
+          "hue": 357,
+          "lightness": 49,
+          "saturation": 79
+        },
+        {
+          "hex": "#decdac",
+          "rgb": [
+            222,
+            205,
+            172
+          ],
+          "share": 3.3,
+          "hue": 40,
+          "lightness": 77,
+          "saturation": 43
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_025_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fdc6f8",
+          "rgb": [
+            253,
+            198,
+            248
+          ],
+          "share": 72.7,
+          "hue": 305,
+          "lightness": 88,
+          "saturation": 93
+        },
+        {
+          "hex": "#faa4f1",
+          "rgb": [
+            250,
+            164,
+            241
+          ],
+          "share": 12.2,
+          "hue": 306,
+          "lightness": 81,
+          "saturation": 90
+        },
+        {
+          "hex": "#f2a2a8",
+          "rgb": [
+            242,
+            162,
+            168
+          ],
+          "share": 5.8,
+          "hue": 356,
+          "lightness": 79,
+          "saturation": 75
+        },
+        {
+          "hex": "#a5090d",
+          "rgb": [
+            165,
+            9,
+            13
+          ],
+          "share": 3.8,
+          "hue": 358,
+          "lightness": 34,
+          "saturation": 90
+        },
+        {
+          "hex": "#de1a24",
+          "rgb": [
+            222,
+            26,
+            36
+          ],
+          "share": 3.5,
+          "hue": 357,
+          "lightness": 49,
+          "saturation": 79
+        },
+        {
+          "hex": "#dfcdac",
+          "rgb": [
+            223,
+            205,
+            172
+          ],
+          "share": 2.0,
+          "hue": 39,
+          "lightness": 77,
+          "saturation": 44
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_026_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#016925",
+          "rgb": [
+            1,
+            105,
+            37
+          ],
+          "share": 89.6,
+          "hue": 141,
+          "lightness": 21,
+          "saturation": 98
+        },
+        {
+          "hex": "#dfdedb",
+          "rgb": [
+            223,
+            222,
+            219
+          ],
+          "share": 2.5,
+          "hue": 45,
+          "lightness": 87,
+          "saturation": 6
+        },
+        {
+          "hex": "#5e995a",
+          "rgb": [
+            94,
+            153,
+            90
+          ],
+          "share": 2.4,
+          "hue": 116,
+          "lightness": 48,
+          "saturation": 26
+        },
+        {
+          "hex": "#9da59d",
+          "rgb": [
+            157,
+            165,
+            157
+          ],
+          "share": 2.2,
+          "hue": 120,
+          "lightness": 63,
+          "saturation": 4
+        },
+        {
+          "hex": "#e7d0a3",
+          "rgb": [
+            231,
+            208,
+            163
+          ],
+          "share": 1.9,
+          "hue": 40,
+          "lightness": 77,
+          "saturation": 59
+        },
+        {
+          "hex": "#566255",
+          "rgb": [
+            86,
+            98,
+            85
+          ],
+          "share": 1.6,
+          "hue": 115,
+          "lightness": 36,
+          "saturation": 7
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_027_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#016925",
+          "rgb": [
+            1,
+            105,
+            37
+          ],
+          "share": 93.5,
+          "hue": 141,
+          "lightness": 21,
+          "saturation": 98
+        },
+        {
+          "hex": "#609a59",
+          "rgb": [
+            96,
+            154,
+            89
+          ],
+          "share": 1.5,
+          "hue": 114,
+          "lightness": 48,
+          "saturation": 27
+        },
+        {
+          "hex": "#9da39c",
+          "rgb": [
+            157,
+            163,
+            156
+          ],
+          "share": 1.3,
+          "hue": 111,
+          "lightness": 63,
+          "saturation": 4
+        },
+        {
+          "hex": "#5b6356",
+          "rgb": [
+            91,
+            99,
+            86
+          ],
+          "share": 1.2,
+          "hue": 97,
+          "lightness": 36,
+          "saturation": 7
+        },
+        {
+          "hex": "#ead0a2",
+          "rgb": [
+            234,
+            208,
+            162
+          ],
+          "share": 1.2,
+          "hue": 38,
+          "lightness": 78,
+          "saturation": 63
+        },
+        {
+          "hex": "#e1dfdb",
+          "rgb": [
+            225,
+            223,
+            219
+          ],
+          "share": 1.2,
+          "hue": 40,
+          "lightness": 87,
+          "saturation": 9
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_028_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#006925",
+          "rgb": [
+            0,
+            105,
+            37
+          ],
+          "share": 96.2,
+          "hue": 141,
+          "lightness": 21,
+          "saturation": 100
+        },
+        {
+          "hex": "#9da19f",
+          "rgb": [
+            157,
+            161,
+            159
+          ],
+          "share": 0.9,
+          "hue": 150,
+          "lightness": 62,
+          "saturation": 2
+        },
+        {
+          "hex": "#e3e0d9",
+          "rgb": [
+            227,
+            224,
+            217
+          ],
+          "share": 0.8,
+          "hue": 42,
+          "lightness": 87,
+          "saturation": 15
+        },
+        {
+          "hex": "#edd7a4",
+          "rgb": [
+            237,
+            215,
+            164
+          ],
+          "share": 0.8,
+          "hue": 42,
+          "lightness": 79,
+          "saturation": 67
+        },
+        {
+          "hex": "#60985a",
+          "rgb": [
+            96,
+            152,
+            90
+          ],
+          "share": 0.7,
+          "hue": 114,
+          "lightness": 47,
+          "saturation": 26
+        },
+        {
+          "hex": "#d8a130",
+          "rgb": [
+            216,
+            161,
+            48
+          ],
+          "share": 0.6,
+          "hue": 40,
+          "lightness": 52,
+          "saturation": 68
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_029_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fd3009",
+          "rgb": [
+            253,
+            48,
+            9
+          ],
+          "share": 76.0,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 98
+        },
+        {
+          "hex": "#f44d22",
+          "rgb": [
+            244,
+            77,
+            34
+          ],
+          "share": 9.6,
+          "hue": 12,
+          "lightness": 55,
+          "saturation": 91
+        },
+        {
+          "hex": "#e1e2df",
+          "rgb": [
+            225,
+            226,
+            223
+          ],
+          "share": 5.7,
+          "hue": 80,
+          "lightness": 88,
+          "saturation": 5
+        },
+        {
+          "hex": "#eddfa0",
+          "rgb": [
+            237,
+            223,
+            160
+          ],
+          "share": 3.6,
+          "hue": 49,
+          "lightness": 78,
+          "saturation": 68
+        },
+        {
+          "hex": "#9f2d0f",
+          "rgb": [
+            159,
+            45,
+            15
+          ],
+          "share": 2.9,
+          "hue": 13,
+          "lightness": 34,
+          "saturation": 83
+        },
+        {
+          "hex": "#a54f29",
+          "rgb": [
+            165,
+            79,
+            41
+          ],
+          "share": 2.2,
+          "hue": 18,
+          "lightness": 40,
+          "saturation": 60
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_030_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fd3009",
+          "rgb": [
+            253,
+            48,
+            9
+          ],
+          "share": 83.4,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 98
+        },
+        {
+          "hex": "#e4e3e0",
+          "rgb": [
+            228,
+            227,
+            224
+          ],
+          "share": 4.5,
+          "hue": 45,
+          "lightness": 89,
+          "saturation": 7
+        },
+        {
+          "hex": "#ec5020",
+          "rgb": [
+            236,
+            80,
+            32
+          ],
+          "share": 4.1,
+          "hue": 14,
+          "lightness": 53,
+          "saturation": 84
+        },
+        {
+          "hex": "#eee0a1",
+          "rgb": [
+            238,
+            224,
+            161
+          ],
+          "share": 3.8,
+          "hue": 49,
+          "lightness": 78,
+          "saturation": 69
+        },
+        {
+          "hex": "#e9d35f",
+          "rgb": [
+            233,
+            211,
+            95
+          ],
+          "share": 2.3,
+          "hue": 50,
+          "lightness": 64,
+          "saturation": 76
+        },
+        {
+          "hex": "#d5a724",
+          "rgb": [
+            213,
+            167,
+            36
+          ],
+          "share": 2.0,
+          "hue": 44,
+          "lightness": 49,
+          "saturation": 71
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_031_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fd3008",
+          "rgb": [
+            253,
+            48,
+            8
+          ],
+          "share": 80.9,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 98
+        },
+        {
+          "hex": "#e7e6e2",
+          "rgb": [
+            231,
+            230,
+            226
+          ],
+          "share": 5.4,
+          "hue": 48,
+          "lightness": 90,
+          "saturation": 9
+        },
+        {
+          "hex": "#ed501f",
+          "rgb": [
+            237,
+            80,
+            31
+          ],
+          "share": 5.0,
+          "hue": 14,
+          "lightness": 53,
+          "saturation": 85
+        },
+        {
+          "hex": "#f0e2a2",
+          "rgb": [
+            240,
+            226,
+            162
+          ],
+          "share": 4.7,
+          "hue": 49,
+          "lightness": 79,
+          "saturation": 72
+        },
+        {
+          "hex": "#ead061",
+          "rgb": [
+            234,
+            208,
+            97
+          ],
+          "share": 2.1,
+          "hue": 49,
+          "lightness": 65,
+          "saturation": 77
+        },
+        {
+          "hex": "#a99b97",
+          "rgb": [
+            169,
+            155,
+            151
+          ],
+          "share": 1.8,
+          "hue": 13,
+          "lightness": 63,
+          "saturation": 9
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_032_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbe7e5",
+          "rgb": [
+            251,
+            231,
+            229
+          ],
+          "share": 60.1,
+          "hue": 5,
+          "lightness": 94,
+          "saturation": 73
+        },
+        {
+          "hex": "#e12504",
+          "rgb": [
+            225,
+            37,
+            4
+          ],
+          "share": 14.1,
+          "hue": 9,
+          "lightness": 45,
+          "saturation": 97
+        },
+        {
+          "hex": "#a11a04",
+          "rgb": [
+            161,
+            26,
+            4
+          ],
+          "share": 12.7,
+          "hue": 8,
+          "lightness": 32,
+          "saturation": 95
+        },
+        {
+          "hex": "#e7d3a2",
+          "rgb": [
+            231,
+            211,
+            162
+          ],
+          "share": 5.3,
+          "hue": 43,
+          "lightness": 77,
+          "saturation": 59
+        },
+        {
+          "hex": "#936423",
+          "rgb": [
+            147,
+            100,
+            35
+          ],
+          "share": 4.3,
+          "hue": 35,
+          "lightness": 36,
+          "saturation": 62
+        },
+        {
+          "hex": "#6f4f1e",
+          "rgb": [
+            111,
+            79,
+            30
+          ],
+          "share": 3.5,
+          "hue": 36,
+          "lightness": 28,
+          "saturation": 57
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_033_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fce7e5",
+          "rgb": [
+            252,
+            231,
+            229
+          ],
+          "share": 57.4,
+          "hue": 5,
+          "lightness": 94,
+          "saturation": 79
+        },
+        {
+          "hex": "#e82604",
+          "rgb": [
+            232,
+            38,
+            4
+          ],
+          "share": 21.7,
+          "hue": 9,
+          "lightness": 46,
+          "saturation": 97
+        },
+        {
+          "hex": "#a41c05",
+          "rgb": [
+            164,
+            28,
+            5
+          ],
+          "share": 9.9,
+          "hue": 9,
+          "lightness": 33,
+          "saturation": 94
+        },
+        {
+          "hex": "#e3d29f",
+          "rgb": [
+            227,
+            210,
+            159
+          ],
+          "share": 4.3,
+          "hue": 45,
+          "lightness": 76,
+          "saturation": 55
+        },
+        {
+          "hex": "#946425",
+          "rgb": [
+            148,
+            100,
+            37
+          ],
+          "share": 3.6,
+          "hue": 34,
+          "lightness": 36,
+          "saturation": 60
+        },
+        {
+          "hex": "#6e4f20",
+          "rgb": [
+            110,
+            79,
+            32
+          ],
+          "share": 3.1,
+          "hue": 36,
+          "lightness": 28,
+          "saturation": 55
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_034_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fde7e6",
+          "rgb": [
+            253,
+            231,
+            230
+          ],
+          "share": 74.0,
+          "hue": 3,
+          "lightness": 95,
+          "saturation": 85
+        },
+        {
+          "hex": "#f02704",
+          "rgb": [
+            240,
+            39,
+            4
+          ],
+          "share": 16.4,
+          "hue": 9,
+          "lightness": 48,
+          "saturation": 97
+        },
+        {
+          "hex": "#e9d79e",
+          "rgb": [
+            233,
+            215,
+            158
+          ],
+          "share": 3.3,
+          "hue": 46,
+          "lightness": 77,
+          "saturation": 63
+        },
+        {
+          "hex": "#976b23",
+          "rgb": [
+            151,
+            107,
+            35
+          ],
+          "share": 2.6,
+          "hue": 37,
+          "lightness": 36,
+          "saturation": 62
+        },
+        {
+          "hex": "#d9a31a",
+          "rgb": [
+            217,
+            163,
+            26
+          ],
+          "share": 2.0,
+          "hue": 43,
+          "lightness": 48,
+          "saturation": 79
+        },
+        {
+          "hex": "#704e1a",
+          "rgb": [
+            112,
+            78,
+            26
+          ],
+          "share": 1.7,
+          "hue": 36,
+          "lightness": 27,
+          "saturation": 62
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_035_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "share": 51.5,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 0
+        },
+        {
+          "hex": "#fe2f07",
+          "rgb": [
+            254,
+            47,
+            7
+          ],
+          "share": 39.0,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 99
+        },
+        {
+          "hex": "#ffcfbb",
+          "rgb": [
+            255,
+            207,
+            187
+          ],
+          "share": 5.2,
+          "hue": 18,
+          "lightness": 87,
+          "saturation": 100
+        },
+        {
+          "hex": "#fdbb44",
+          "rgb": [
+            253,
+            187,
+            68
+          ],
+          "share": 3.2,
+          "hue": 39,
+          "lightness": 63,
+          "saturation": 98
+        },
+        {
+          "hex": "#601504",
+          "rgb": [
+            96,
+            21,
+            4
+          ],
+          "share": 0.5,
+          "hue": 11,
+          "lightness": 20,
+          "saturation": 92
+        },
+        {
+          "hex": "#ffd5c1",
+          "rgb": [
+            255,
+            213,
+            193
+          ],
+          "share": 0.5,
+          "hue": 19,
+          "lightness": 88,
+          "saturation": 100
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_036_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "share": 71.2,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 0
+        },
+        {
+          "hex": "#fea200",
+          "rgb": [
+            254,
+            162,
+            0
+          ],
+          "share": 25.4,
+          "hue": 38,
+          "lightness": 50,
+          "saturation": 100
+        },
+        {
+          "hex": "#02ad2d",
+          "rgb": [
+            2,
+            173,
+            45
+          ],
+          "share": 2.6,
+          "hue": 135,
+          "lightness": 34,
+          "saturation": 98
+        },
+        {
+          "hex": "#ec7700",
+          "rgb": [
+            236,
+            119,
+            0
+          ],
+          "share": 0.3,
+          "hue": 30,
+          "lightness": 46,
+          "saturation": 100
+        },
+        {
+          "hex": "#a05e00",
+          "rgb": [
+            160,
+            94,
+            0
+          ],
+          "share": 0.3,
+          "hue": 35,
+          "lightness": 31,
+          "saturation": 100
+        },
+        {
+          "hex": "#563100",
+          "rgb": [
+            86,
+            49,
+            0
+          ],
+          "share": 0.2,
+          "hue": 34,
+          "lightness": 17,
+          "saturation": 100
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_037_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#a3bbd4",
+          "rgb": [
+            163,
+            187,
+            212
+          ],
+          "share": 53.7,
+          "hue": 211,
+          "lightness": 74,
+          "saturation": 36
+        },
+        {
+          "hex": "#b1c2d7",
+          "rgb": [
+            177,
+            194,
+            215
+          ],
+          "share": 17.1,
+          "hue": 213,
+          "lightness": 77,
+          "saturation": 32
+        },
+        {
+          "hex": "#a7aaa1",
+          "rgb": [
+            167,
+            170,
+            161
+          ],
+          "share": 8.7,
+          "hue": 80,
+          "lightness": 65,
+          "saturation": 5
+        },
+        {
+          "hex": "#9f9961",
+          "rgb": [
+            159,
+            153,
+            97
+          ],
+          "share": 7.7,
+          "hue": 54,
+          "lightness": 50,
+          "saturation": 24
+        },
+        {
+          "hex": "#dfd2d2",
+          "rgb": [
+            223,
+            210,
+            210
+          ],
+          "share": 7.2,
+          "hue": 0,
+          "lightness": 85,
+          "saturation": 17
+        },
+        {
+          "hex": "#5e6120",
+          "rgb": [
+            94,
+            97,
+            32
+          ],
+          "share": 5.7,
+          "hue": 63,
+          "lightness": 25,
+          "saturation": 50
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_038_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#a0bad6",
+          "rgb": [
+            160,
+            186,
+            214
+          ],
+          "share": 58.9,
+          "hue": 211,
+          "lightness": 73,
+          "saturation": 40
+        },
+        {
+          "hex": "#b1c2d7",
+          "rgb": [
+            177,
+            194,
+            215
+          ],
+          "share": 17.5,
+          "hue": 213,
+          "lightness": 77,
+          "saturation": 32
+        },
+        {
+          "hex": "#a9aa9f",
+          "rgb": [
+            169,
+            170,
+            159
+          ],
+          "share": 6.6,
+          "hue": 65,
+          "lightness": 65,
+          "saturation": 6
+        },
+        {
+          "hex": "#9f9a62",
+          "rgb": [
+            159,
+            154,
+            98
+          ],
+          "share": 6.4,
+          "hue": 55,
+          "lightness": 50,
+          "saturation": 24
+        },
+        {
+          "hex": "#e2d3d4",
+          "rgb": [
+            226,
+            211,
+            212
+          ],
+          "share": 5.4,
+          "hue": 356,
+          "lightness": 86,
+          "saturation": 21
+        },
+        {
+          "hex": "#5c611f",
+          "rgb": [
+            92,
+            97,
+            31
+          ],
+          "share": 5.1,
+          "hue": 65,
+          "lightness": 25,
+          "saturation": 52
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_039_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#a2bbd6",
+          "rgb": [
+            162,
+            187,
+            214
+          ],
+          "share": 52.7,
+          "hue": 211,
+          "lightness": 74,
+          "saturation": 39
+        },
+        {
+          "hex": "#b1c2d7",
+          "rgb": [
+            177,
+            194,
+            215
+          ],
+          "share": 25.3,
+          "hue": 213,
+          "lightness": 77,
+          "saturation": 32
+        },
+        {
+          "hex": "#a9aca4",
+          "rgb": [
+            169,
+            172,
+            164
+          ],
+          "share": 7.1,
+          "hue": 83,
+          "lightness": 66,
+          "saturation": 5
+        },
+        {
+          "hex": "#dfd2d4",
+          "rgb": [
+            223,
+            210,
+            212
+          ],
+          "share": 6.6,
+          "hue": 351,
+          "lightness": 85,
+          "saturation": 17
+        },
+        {
+          "hex": "#d5a7a8",
+          "rgb": [
+            213,
+            167,
+            168
+          ],
+          "share": 4.3,
+          "hue": 359,
+          "lightness": 75,
+          "saturation": 35
+        },
+        {
+          "hex": "#9c9861",
+          "rgb": [
+            156,
+            152,
+            97
+          ],
+          "share": 4.0,
+          "hue": 56,
+          "lightness": 50,
+          "saturation": 23
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_040_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f5ee73",
+          "rgb": [
+            245,
+            238,
+            115
+          ],
+          "share": 83.8,
+          "hue": 57,
+          "lightness": 71,
+          "saturation": 87
+        },
+        {
+          "hex": "#9d2220",
+          "rgb": [
+            157,
+            34,
+            32
+          ],
+          "share": 4.6,
+          "hue": 1,
+          "lightness": 37,
+          "saturation": 66
+        },
+        {
+          "hex": "#deddd7",
+          "rgb": [
+            222,
+            221,
+            215
+          ],
+          "share": 3.9,
+          "hue": 51,
+          "lightness": 86,
+          "saturation": 10
+        },
+        {
+          "hex": "#ec9d11",
+          "rgb": [
+            236,
+            157,
+            17
+          ],
+          "share": 2.8,
+          "hue": 38,
+          "lightness": 50,
+          "saturation": 87
+        },
+        {
+          "hex": "#dca25d",
+          "rgb": [
+            220,
+            162,
+            93
+          ],
+          "share": 2.6,
+          "hue": 33,
+          "lightness": 61,
+          "saturation": 64
+        },
+        {
+          "hex": "#a65a28",
+          "rgb": [
+            166,
+            90,
+            40
+          ],
+          "share": 2.2,
+          "hue": 24,
+          "lightness": 40,
+          "saturation": 61
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_041_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f5ee73",
+          "rgb": [
+            245,
+            238,
+            115
+          ],
+          "share": 87.7,
+          "hue": 57,
+          "lightness": 71,
+          "saturation": 87
+        },
+        {
+          "hex": "#9c2020",
+          "rgb": [
+            156,
+            32,
+            32
+          ],
+          "share": 3.4,
+          "hue": 0,
+          "lightness": 37,
+          "saturation": 66
+        },
+        {
+          "hex": "#dfded8",
+          "rgb": [
+            223,
+            222,
+            216
+          ],
+          "share": 2.9,
+          "hue": 51,
+          "lightness": 86,
+          "saturation": 10
+        },
+        {
+          "hex": "#ed9f0f",
+          "rgb": [
+            237,
+            159,
+            15
+          ],
+          "share": 2.3,
+          "hue": 39,
+          "lightness": 49,
+          "saturation": 88
+        },
+        {
+          "hex": "#dca15e",
+          "rgb": [
+            220,
+            161,
+            94
+          ],
+          "share": 1.9,
+          "hue": 32,
+          "lightness": 62,
+          "saturation": 64
+        },
+        {
+          "hex": "#a45b28",
+          "rgb": [
+            164,
+            91,
+            40
+          ],
+          "share": 1.7,
+          "hue": 25,
+          "lightness": 40,
+          "saturation": 61
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_042_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f5ee73",
+          "rgb": [
+            245,
+            238,
+            115
+          ],
+          "share": 88.4,
+          "hue": 57,
+          "lightness": 71,
+          "saturation": 87
+        },
+        {
+          "hex": "#9b1f1f",
+          "rgb": [
+            155,
+            31,
+            31
+          ],
+          "share": 3.3,
+          "hue": 0,
+          "lightness": 36,
+          "saturation": 67
+        },
+        {
+          "hex": "#e0dfd9",
+          "rgb": [
+            224,
+            223,
+            217
+          ],
+          "share": 3.2,
+          "hue": 51,
+          "lightness": 86,
+          "saturation": 10
+        },
+        {
+          "hex": "#ee9d0f",
+          "rgb": [
+            238,
+            157,
+            15
+          ],
+          "share": 2.0,
+          "hue": 38,
+          "lightness": 50,
+          "saturation": 88
+        },
+        {
+          "hex": "#dba15d",
+          "rgb": [
+            219,
+            161,
+            93
+          ],
+          "share": 1.7,
+          "hue": 32,
+          "lightness": 61,
+          "saturation": 64
+        },
+        {
+          "hex": "#a65a27",
+          "rgb": [
+            166,
+            90,
+            39
+          ],
+          "share": 1.4,
+          "hue": 24,
+          "lightness": 40,
+          "saturation": 62
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_043_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#55c3f0",
+          "rgb": [
+            85,
+            195,
+            240
+          ],
+          "share": 79.8,
+          "hue": 197,
+          "lightness": 64,
+          "saturation": 84
+        },
+        {
+          "hex": "#4dacd4",
+          "rgb": [
+            77,
+            172,
+            212
+          ],
+          "share": 5.8,
+          "hue": 198,
+          "lightness": 57,
+          "saturation": 61
+        },
+        {
+          "hex": "#232123",
+          "rgb": [
+            35,
+            33,
+            35
+          ],
+          "share": 4.0,
+          "hue": 300,
+          "lightness": 13,
+          "saturation": 3
+        },
+        {
+          "hex": "#d81d1b",
+          "rgb": [
+            216,
+            29,
+            27
+          ],
+          "share": 3.6,
+          "hue": 1,
+          "lightness": 48,
+          "saturation": 78
+        },
+        {
+          "hex": "#d9dae0",
+          "rgb": [
+            217,
+            218,
+            224
+          ],
+          "share": 3.5,
+          "hue": 231,
+          "lightness": 86,
+          "saturation": 10
+        },
+        {
+          "hex": "#0a095a",
+          "rgb": [
+            10,
+            9,
+            90
+          ],
+          "share": 3.2,
+          "hue": 241,
+          "lightness": 19,
+          "saturation": 82
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_044_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#55c3f0",
+          "rgb": [
+            85,
+            195,
+            240
+          ],
+          "share": 91.3,
+          "hue": 197,
+          "lightness": 64,
+          "saturation": 84
+        },
+        {
+          "hex": "#04035e",
+          "rgb": [
+            4,
+            3,
+            94
+          ],
+          "share": 3.3,
+          "hue": 241,
+          "lightness": 19,
+          "saturation": 94
+        },
+        {
+          "hex": "#d6d8e0",
+          "rgb": [
+            214,
+            216,
+            224
+          ],
+          "share": 2.0,
+          "hue": 228,
+          "lightness": 86,
+          "saturation": 14
+        },
+        {
+          "hex": "#fbc804",
+          "rgb": [
+            251,
+            200,
+            4
+          ],
+          "share": 1.2,
+          "hue": 48,
+          "lightness": 50,
+          "saturation": 97
+        },
+        {
+          "hex": "#fa7202",
+          "rgb": [
+            250,
+            114,
+            2
+          ],
+          "share": 1.1,
+          "hue": 27,
+          "lightness": 49,
+          "saturation": 98
+        },
+        {
+          "hex": "#d80802",
+          "rgb": [
+            216,
+            8,
+            2
+          ],
+          "share": 1.1,
+          "hue": 2,
+          "lightness": 43,
+          "saturation": 98
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_045_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#55c3f0",
+          "rgb": [
+            85,
+            195,
+            240
+          ],
+          "share": 84.2,
+          "hue": 197,
+          "lightness": 64,
+          "saturation": 84
+        },
+        {
+          "hex": "#fdc801",
+          "rgb": [
+            253,
+            200,
+            1
+          ],
+          "share": 4.6,
+          "hue": 47,
+          "lightness": 50,
+          "saturation": 99
+        },
+        {
+          "hex": "#01025f",
+          "rgb": [
+            1,
+            2,
+            95
+          ],
+          "share": 3.7,
+          "hue": 239,
+          "lightness": 19,
+          "saturation": 98
+        },
+        {
+          "hex": "#fd7500",
+          "rgb": [
+            253,
+            117,
+            0
+          ],
+          "share": 3.6,
+          "hue": 28,
+          "lightness": 50,
+          "saturation": 100
+        },
+        {
+          "hex": "#d70400",
+          "rgb": [
+            215,
+            4,
+            0
+          ],
+          "share": 3.2,
+          "hue": 1,
+          "lightness": 42,
+          "saturation": 100
+        },
+        {
+          "hex": "#fea100",
+          "rgb": [
+            254,
+            161,
+            0
+          ],
+          "share": 0.7,
+          "hue": 38,
+          "lightness": 50,
+          "saturation": 100
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_046_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#9cddfa",
+          "rgb": [
+            156,
+            221,
+            250
+          ],
+          "share": 57.2,
+          "hue": 199,
+          "lightness": 80,
+          "saturation": 90
+        },
+        {
+          "hex": "#dfe8ee",
+          "rgb": [
+            223,
+            232,
+            238
+          ],
+          "share": 34.9,
+          "hue": 204,
+          "lightness": 90,
+          "saturation": 31
+        },
+        {
+          "hex": "#e8d260",
+          "rgb": [
+            232,
+            210,
+            96
+          ],
+          "share": 2.4,
+          "hue": 50,
+          "lightness": 64,
+          "saturation": 75
+        },
+        {
+          "hex": "#ead39f",
+          "rgb": [
+            234,
+            211,
+            159
+          ],
+          "share": 1.9,
+          "hue": 42,
+          "lightness": 77,
+          "saturation": 64
+        },
+        {
+          "hex": "#dfa65d",
+          "rgb": [
+            223,
+            166,
+            93
+          ],
+          "share": 1.9,
+          "hue": 34,
+          "lightness": 62,
+          "saturation": 67
+        },
+        {
+          "hex": "#1f58a0",
+          "rgb": [
+            31,
+            88,
+            160
+          ],
+          "share": 1.7,
+          "hue": 213,
+          "lightness": 37,
+          "saturation": 68
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_047_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#9bddfa",
+          "rgb": [
+            155,
+            221,
+            250
+          ],
+          "share": 57.9,
+          "hue": 198,
+          "lightness": 79,
+          "saturation": 90
+        },
+        {
+          "hex": "#dfe7ee",
+          "rgb": [
+            223,
+            231,
+            238
+          ],
+          "share": 33.8,
+          "hue": 208,
+          "lightness": 90,
+          "saturation": 31
+        },
+        {
+          "hex": "#e3d35e",
+          "rgb": [
+            227,
+            211,
+            94
+          ],
+          "share": 2.8,
+          "hue": 53,
+          "lightness": 63,
+          "saturation": 70
+        },
+        {
+          "hex": "#e5d49e",
+          "rgb": [
+            229,
+            212,
+            158
+          ],
+          "share": 2.0,
+          "hue": 46,
+          "lightness": 76,
+          "saturation": 58
+        },
+        {
+          "hex": "#dda55b",
+          "rgb": [
+            221,
+            165,
+            91
+          ],
+          "share": 1.8,
+          "hue": 34,
+          "lightness": 61,
+          "saturation": 66
+        },
+        {
+          "hex": "#9fa0a6",
+          "rgb": [
+            159,
+            160,
+            166
+          ],
+          "share": 1.6,
+          "hue": 231,
+          "lightness": 64,
+          "saturation": 4
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_048_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#9fddfa",
+          "rgb": [
+            159,
+            221,
+            250
+          ],
+          "share": 61.8,
+          "hue": 199,
+          "lightness": 80,
+          "saturation": 90
+        },
+        {
+          "hex": "#d8e8f1",
+          "rgb": [
+            216,
+            232,
+            241
+          ],
+          "share": 30.7,
+          "hue": 202,
+          "lightness": 90,
+          "saturation": 47
+        },
+        {
+          "hex": "#e8d45d",
+          "rgb": [
+            232,
+            212,
+            93
+          ],
+          "share": 2.2,
+          "hue": 51,
+          "lightness": 64,
+          "saturation": 75
+        },
+        {
+          "hex": "#e0a45a",
+          "rgb": [
+            224,
+            164,
+            90
+          ],
+          "share": 2.0,
+          "hue": 33,
+          "lightness": 62,
+          "saturation": 68
+        },
+        {
+          "hex": "#edd79d",
+          "rgb": [
+            237,
+            215,
+            157
+          ],
+          "share": 1.8,
+          "hue": 43,
+          "lightness": 77,
+          "saturation": 69
+        },
+        {
+          "hex": "#0f1120",
+          "rgb": [
+            15,
+            17,
+            32
+          ],
+          "share": 1.5,
+          "hue": 233,
+          "lightness": 9,
+          "saturation": 36
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_049_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "share": 53.0,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 0
+        },
+        {
+          "hex": "#fecfbb",
+          "rgb": [
+            254,
+            207,
+            187
+          ],
+          "share": 30.8,
+          "hue": 18,
+          "lightness": 86,
+          "saturation": 97
+        },
+        {
+          "hex": "#b61000",
+          "rgb": [
+            182,
+            16,
+            0
+          ],
+          "share": 6.0,
+          "hue": 5,
+          "lightness": 36,
+          "saturation": 100
+        },
+        {
+          "hex": "#fe2f07",
+          "rgb": [
+            254,
+            47,
+            7
+          ],
+          "share": 5.4,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 99
+        },
+        {
+          "hex": "#fe8a00",
+          "rgb": [
+            254,
+            138,
+            0
+          ],
+          "share": 3.5,
+          "hue": 33,
+          "lightness": 50,
+          "saturation": 100
+        },
+        {
+          "hex": "#fed5c2",
+          "rgb": [
+            254,
+            213,
+            194
+          ],
+          "share": 1.3,
+          "hue": 19,
+          "lightness": 88,
+          "saturation": 97
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_050_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#6a559c",
+          "rgb": [
+            106,
+            85,
+            156
+          ],
+          "share": 67.1,
+          "hue": 258,
+          "lightness": 47,
+          "saturation": 29
+        },
+        {
+          "hex": "#9875cc",
+          "rgb": [
+            152,
+            117,
+            204
+          ],
+          "share": 8.7,
+          "hue": 264,
+          "lightness": 63,
+          "saturation": 46
+        },
+        {
+          "hex": "#b38ae4",
+          "rgb": [
+            179,
+            138,
+            228
+          ],
+          "share": 7.6,
+          "hue": 267,
+          "lightness": 72,
+          "saturation": 62
+        },
+        {
+          "hex": "#dda15f",
+          "rgb": [
+            221,
+            161,
+            95
+          ],
+          "share": 5.7,
+          "hue": 31,
+          "lightness": 62,
+          "saturation": 65
+        },
+        {
+          "hex": "#c797f7",
+          "rgb": [
+            199,
+            151,
+            247
+          ],
+          "share": 5.7,
+          "hue": 270,
+          "lightness": 78,
+          "saturation": 86
+        },
+        {
+          "hex": "#2b255c",
+          "rgb": [
+            43,
+            37,
+            92
+          ],
+          "share": 5.1,
+          "hue": 247,
+          "lightness": 25,
+          "saturation": 43
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_051_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#68539b",
+          "rgb": [
+            104,
+            83,
+            155
+          ],
+          "share": 65.2,
+          "hue": 258,
+          "lightness": 47,
+          "saturation": 30
+        },
+        {
+          "hex": "#b289e4",
+          "rgb": [
+            178,
+            137,
+            228
+          ],
+          "share": 8.8,
+          "hue": 267,
+          "lightness": 72,
+          "saturation": 63
+        },
+        {
+          "hex": "#9875cb",
+          "rgb": [
+            152,
+            117,
+            203
+          ],
+          "share": 8.6,
+          "hue": 264,
+          "lightness": 63,
+          "saturation": 45
+        },
+        {
+          "hex": "#29245b",
+          "rgb": [
+            41,
+            36,
+            91
+          ],
+          "share": 6.5,
+          "hue": 245,
+          "lightness": 25,
+          "saturation": 43
+        },
+        {
+          "hex": "#dea05f",
+          "rgb": [
+            222,
+            160,
+            95
+          ],
+          "share": 5.5,
+          "hue": 31,
+          "lightness": 62,
+          "saturation": 66
+        },
+        {
+          "hex": "#8968b2",
+          "rgb": [
+            137,
+            104,
+            178
+          ],
+          "share": 5.3,
+          "hue": 267,
+          "lightness": 55,
+          "saturation": 32
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_052_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#6e57a0",
+          "rgb": [
+            110,
+            87,
+            160
+          ],
+          "share": 49.9,
+          "hue": 259,
+          "lightness": 48,
+          "saturation": 30
+        },
+        {
+          "hex": "#b289e5",
+          "rgb": [
+            178,
+            137,
+            229
+          ],
+          "share": 14.7,
+          "hue": 267,
+          "lightness": 72,
+          "saturation": 64
+        },
+        {
+          "hex": "#9975cc",
+          "rgb": [
+            153,
+            117,
+            204
+          ],
+          "share": 14.5,
+          "hue": 265,
+          "lightness": 63,
+          "saturation": 46
+        },
+        {
+          "hex": "#8668b7",
+          "rgb": [
+            134,
+            104,
+            183
+          ],
+          "share": 7.7,
+          "hue": 263,
+          "lightness": 56,
+          "saturation": 35
+        },
+        {
+          "hex": "#c596f7",
+          "rgb": [
+            197,
+            150,
+            247
+          ],
+          "share": 7.4,
+          "hue": 269,
+          "lightness": 78,
+          "saturation": 86
+        },
+        {
+          "hex": "#2b265e",
+          "rgb": [
+            43,
+            38,
+            94
+          ],
+          "share": 5.8,
+          "hue": 245,
+          "lightness": 26,
+          "saturation": 42
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_053_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f3684d",
+          "rgb": [
+            243,
+            104,
+            77
+          ],
+          "share": 46.3,
+          "hue": 10,
+          "lightness": 63,
+          "saturation": 87
+        },
+        {
+          "hex": "#ec4d33",
+          "rgb": [
+            236,
+            77,
+            51
+          ],
+          "share": 20.3,
+          "hue": 8,
+          "lightness": 56,
+          "saturation": 83
+        },
+        {
+          "hex": "#e42b15",
+          "rgb": [
+            228,
+            43,
+            21
+          ],
+          "share": 18.0,
+          "hue": 6,
+          "lightness": 49,
+          "saturation": 83
+        },
+        {
+          "hex": "#211f18",
+          "rgb": [
+            33,
+            31,
+            24
+          ],
+          "share": 5.3,
+          "hue": 47,
+          "lightness": 11,
+          "saturation": 16
+        },
+        {
+          "hex": "#a4a4a2",
+          "rgb": [
+            164,
+            164,
+            162
+          ],
+          "share": 5.2,
+          "hue": 60,
+          "lightness": 64,
+          "saturation": 1
+        },
+        {
+          "hex": "#dcdedd",
+          "rgb": [
+            220,
+            222,
+            221
+          ],
+          "share": 5.0,
+          "hue": 150,
+          "lightness": 87,
+          "saturation": 3
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_054_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f3684d",
+          "rgb": [
+            243,
+            104,
+            77
+          ],
+          "share": 52.4,
+          "hue": 10,
+          "lightness": 63,
+          "saturation": 87
+        },
+        {
+          "hex": "#ed4e35",
+          "rgb": [
+            237,
+            78,
+            53
+          ],
+          "share": 28.0,
+          "hue": 8,
+          "lightness": 57,
+          "saturation": 84
+        },
+        {
+          "hex": "#e73720",
+          "rgb": [
+            231,
+            55,
+            32
+          ],
+          "share": 9.5,
+          "hue": 7,
+          "lightness": 52,
+          "saturation": 81
+        },
+        {
+          "hex": "#22211a",
+          "rgb": [
+            34,
+            33,
+            26
+          ],
+          "share": 3.7,
+          "hue": 53,
+          "lightness": 12,
+          "saturation": 13
+        },
+        {
+          "hex": "#a4a4a2",
+          "rgb": [
+            164,
+            164,
+            162
+          ],
+          "share": 3.4,
+          "hue": 60,
+          "lightness": 64,
+          "saturation": 1
+        },
+        {
+          "hex": "#dcdddc",
+          "rgb": [
+            220,
+            221,
+            220
+          ],
+          "share": 3.1,
+          "hue": 120,
+          "lightness": 86,
+          "saturation": 1
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_055_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f3684d",
+          "rgb": [
+            243,
+            104,
+            77
+          ],
+          "share": 60.5,
+          "hue": 10,
+          "lightness": 63,
+          "saturation": 87
+        },
+        {
+          "hex": "#ed4e35",
+          "rgb": [
+            237,
+            78,
+            53
+          ],
+          "share": 29.0,
+          "hue": 8,
+          "lightness": 57,
+          "saturation": 84
+        },
+        {
+          "hex": "#a3a3a1",
+          "rgb": [
+            163,
+            163,
+            161
+          ],
+          "share": 2.9,
+          "hue": 60,
+          "lightness": 64,
+          "saturation": 1
+        },
+        {
+          "hex": "#22201a",
+          "rgb": [
+            34,
+            32,
+            26
+          ],
+          "share": 2.8,
+          "hue": 45,
+          "lightness": 12,
+          "saturation": 13
+        },
+        {
+          "hex": "#dddedd",
+          "rgb": [
+            221,
+            222,
+            221
+          ],
+          "share": 2.7,
+          "hue": 120,
+          "lightness": 87,
+          "saturation": 1
+        },
+        {
+          "hex": "#605f5b",
+          "rgb": [
+            96,
+            95,
+            91
+          ],
+          "share": 2.1,
+          "hue": 48,
+          "lightness": 37,
+          "saturation": 3
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_056_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbe8d8",
+          "rgb": [
+            251,
+            232,
+            216
+          ],
+          "share": 90.3,
+          "hue": 27,
+          "lightness": 92,
+          "saturation": 81
+        },
+        {
+          "hex": "#e61b0f",
+          "rgb": [
+            230,
+            27,
+            15
+          ],
+          "share": 4.3,
+          "hue": 3,
+          "lightness": 48,
+          "saturation": 88
+        },
+        {
+          "hex": "#eaa898",
+          "rgb": [
+            234,
+            168,
+            152
+          ],
+          "share": 2.2,
+          "hue": 12,
+          "lightness": 76,
+          "saturation": 66
+        },
+        {
+          "hex": "#efd0aa",
+          "rgb": [
+            239,
+            208,
+            170
+          ],
+          "share": 1.6,
+          "hue": 33,
+          "lightness": 80,
+          "saturation": 68
+        },
+        {
+          "hex": "#e49d6b",
+          "rgb": [
+            228,
+            157,
+            107
+          ],
+          "share": 1.0,
+          "hue": 25,
+          "lightness": 66,
+          "saturation": 69
+        },
+        {
+          "hex": "#aba366",
+          "rgb": [
+            171,
+            163,
+            102
+          ],
+          "share": 0.7,
+          "hue": 53,
+          "lightness": 54,
+          "saturation": 29
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_057_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbe8d8",
+          "rgb": [
+            251,
+            232,
+            216
+          ],
+          "share": 92.1,
+          "hue": 27,
+          "lightness": 92,
+          "saturation": 81
+        },
+        {
+          "hex": "#e01511",
+          "rgb": [
+            224,
+            21,
+            17
+          ],
+          "share": 3.3,
+          "hue": 1,
+          "lightness": 47,
+          "saturation": 86
+        },
+        {
+          "hex": "#e8ac99",
+          "rgb": [
+            232,
+            172,
+            153
+          ],
+          "share": 1.9,
+          "hue": 14,
+          "lightness": 75,
+          "saturation": 63
+        },
+        {
+          "hex": "#edd3ad",
+          "rgb": [
+            237,
+            211,
+            173
+          ],
+          "share": 1.6,
+          "hue": 36,
+          "lightness": 80,
+          "saturation": 64
+        },
+        {
+          "hex": "#e09f68",
+          "rgb": [
+            224,
+            159,
+            104
+          ],
+          "share": 0.6,
+          "hue": 28,
+          "lightness": 64,
+          "saturation": 66
+        },
+        {
+          "hex": "#a89f65",
+          "rgb": [
+            168,
+            159,
+            101
+          ],
+          "share": 0.5,
+          "hue": 52,
+          "lightness": 53,
+          "saturation": 28
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_058_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbe7d9",
+          "rgb": [
+            251,
+            231,
+            217
+          ],
+          "share": 91.4,
+          "hue": 25,
+          "lightness": 92,
+          "saturation": 81
+        },
+        {
+          "hex": "#e81b10",
+          "rgb": [
+            232,
+            27,
+            16
+          ],
+          "share": 3.9,
+          "hue": 3,
+          "lightness": 49,
+          "saturation": 87
+        },
+        {
+          "hex": "#ecd3aa",
+          "rgb": [
+            236,
+            211,
+            170
+          ],
+          "share": 1.7,
+          "hue": 37,
+          "lightness": 80,
+          "saturation": 63
+        },
+        {
+          "hex": "#e7ac98",
+          "rgb": [
+            231,
+            172,
+            152
+          ],
+          "share": 1.6,
+          "hue": 15,
+          "lightness": 75,
+          "saturation": 62
+        },
+        {
+          "hex": "#e19e68",
+          "rgb": [
+            225,
+            158,
+            104
+          ],
+          "share": 0.7,
+          "hue": 27,
+          "lightness": 65,
+          "saturation": 67
+        },
+        {
+          "hex": "#e6695f",
+          "rgb": [
+            230,
+            105,
+            95
+          ],
+          "share": 0.7,
+          "hue": 4,
+          "lightness": 64,
+          "saturation": 73
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_059_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "share": 65.6,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 0
+        },
+        {
+          "hex": "#fecfbb",
+          "rgb": [
+            254,
+            207,
+            187
+          ],
+          "share": 10.5,
+          "hue": 18,
+          "lightness": 86,
+          "saturation": 97
+        },
+        {
+          "hex": "#a8eaea",
+          "rgb": [
+            168,
+            234,
+            234
+          ],
+          "share": 8.6,
+          "hue": 180,
+          "lightness": 79,
+          "saturation": 61
+        },
+        {
+          "hex": "#f52c0c",
+          "rgb": [
+            245,
+            44,
+            12
+          ],
+          "share": 6.2,
+          "hue": 8,
+          "lightness": 50,
+          "saturation": 92
+        },
+        {
+          "hex": "#fdf4f1",
+          "rgb": [
+            253,
+            244,
+            241
+          ],
+          "share": 4.7,
+          "hue": 15,
+          "lightness": 97,
+          "saturation": 75
+        },
+        {
+          "hex": "#404140",
+          "rgb": [
+            64,
+            65,
+            64
+          ],
+          "share": 4.4,
+          "hue": 120,
+          "lightness": 25,
+          "saturation": 1
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_060_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#9676c9",
+          "rgb": [
+            150,
+            118,
+            201
+          ],
+          "share": 37.8,
+          "hue": 263,
+          "lightness": 63,
+          "saturation": 43
+        },
+        {
+          "hex": "#d6e0fe",
+          "rgb": [
+            214,
+            224,
+            254
+          ],
+          "share": 19.5,
+          "hue": 225,
+          "lightness": 92,
+          "saturation": 95
+        },
+        {
+          "hex": "#030303",
+          "rgb": [
+            3,
+            3,
+            3
+          ],
+          "share": 18.3,
+          "hue": 0,
+          "lightness": 1,
+          "saturation": 0
+        },
+        {
+          "hex": "#404041",
+          "rgb": [
+            64,
+            64,
+            65
+          ],
+          "share": 14.3,
+          "hue": 240,
+          "lightness": 25,
+          "saturation": 1
+        },
+        {
+          "hex": "#fbba44",
+          "rgb": [
+            251,
+            186,
+            68
+          ],
+          "share": 6.3,
+          "hue": 39,
+          "lightness": 63,
+          "saturation": 96
+        },
+        {
+          "hex": "#a6d77b",
+          "rgb": [
+            166,
+            215,
+            123
+          ],
+          "share": 3.8,
+          "hue": 92,
+          "lightness": 66,
+          "saturation": 53
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_061_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fcbb43",
+          "rgb": [
+            252,
+            187,
+            67
+          ],
+          "share": 39.2,
+          "hue": 39,
+          "lightness": 63,
+          "saturation": 97
+        },
+        {
+          "hex": "#010000",
+          "rgb": [
+            1,
+            0,
+            0
+          ],
+          "share": 27.3,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 100
+        },
+        {
+          "hex": "#fd8b03",
+          "rgb": [
+            253,
+            139,
+            3
+          ],
+          "share": 17.5,
+          "hue": 33,
+          "lightness": 50,
+          "saturation": 98
+        },
+        {
+          "hex": "#f82d0b",
+          "rgb": [
+            248,
+            45,
+            11
+          ],
+          "share": 5.6,
+          "hue": 9,
+          "lightness": 51,
+          "saturation": 94
+        },
+        {
+          "hex": "#d3defd",
+          "rgb": [
+            211,
+            222,
+            253
+          ],
+          "share": 5.3,
+          "hue": 224,
+          "lightness": 91,
+          "saturation": 91
+        },
+        {
+          "hex": "#b61000",
+          "rgb": [
+            182,
+            16,
+            0
+          ],
+          "share": 5.1,
+          "hue": 5,
+          "lightness": 36,
+          "saturation": 100
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_062_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f30000",
+          "rgb": [
+            243,
+            0,
+            0
+          ],
+          "share": 92.2,
+          "hue": 0,
+          "lightness": 48,
+          "saturation": 100
+        },
+        {
+          "hex": "#6c2814",
+          "rgb": [
+            108,
+            40,
+            20
+          ],
+          "share": 2.2,
+          "hue": 14,
+          "lightness": 25,
+          "saturation": 69
+        },
+        {
+          "hex": "#e4945f",
+          "rgb": [
+            228,
+            148,
+            95
+          ],
+          "share": 2.0,
+          "hue": 24,
+          "lightness": 63,
+          "saturation": 71
+        },
+        {
+          "hex": "#9a2b16",
+          "rgb": [
+            154,
+            43,
+            22
+          ],
+          "share": 1.4,
+          "hue": 10,
+          "lightness": 35,
+          "saturation": 75
+        },
+        {
+          "hex": "#d96553",
+          "rgb": [
+            217,
+            101,
+            83
+          ],
+          "share": 1.2,
+          "hue": 8,
+          "lightness": 59,
+          "saturation": 64
+        },
+        {
+          "hex": "#d55a23",
+          "rgb": [
+            213,
+            90,
+            35
+          ],
+          "share": 1.0,
+          "hue": 19,
+          "lightness": 49,
+          "saturation": 72
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_063_npp-retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f30000",
+          "rgb": [
+            243,
+            0,
+            0
+          ],
+          "share": 93.2,
+          "hue": 0,
+          "lightness": 48,
+          "saturation": 100
+        },
+        {
+          "hex": "#6b2814",
+          "rgb": [
+            107,
+            40,
+            20
+          ],
+          "share": 1.9,
+          "hue": 14,
+          "lightness": 25,
+          "saturation": 69
+        },
+        {
+          "hex": "#e5935f",
+          "rgb": [
+            229,
+            147,
+            95
+          ],
+          "share": 1.7,
+          "hue": 23,
+          "lightness": 64,
+          "saturation": 72
+        },
+        {
+          "hex": "#9a2b16",
+          "rgb": [
+            154,
+            43,
+            22
+          ],
+          "share": 1.2,
+          "hue": 10,
+          "lightness": 35,
+          "saturation": 75
+        },
+        {
+          "hex": "#d96554",
+          "rgb": [
+            217,
+            101,
+            84
+          ],
+          "share": 1.0,
+          "hue": 8,
+          "lightness": 59,
+          "saturation": 64
+        },
+        {
+          "hex": "#d65a23",
+          "rgb": [
+            214,
+            90,
+            35
+          ],
+          "share": 0.8,
+          "hue": 18,
+          "lightness": 49,
+          "saturation": 72
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_064_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f30000",
+          "rgb": [
+            243,
+            0,
+            0
+          ],
+          "share": 94.1,
+          "hue": 0,
+          "lightness": 48,
+          "saturation": 100
+        },
+        {
+          "hex": "#6a2713",
+          "rgb": [
+            106,
+            39,
+            19
+          ],
+          "share": 1.7,
+          "hue": 14,
+          "lightness": 25,
+          "saturation": 70
+        },
+        {
+          "hex": "#e5935e",
+          "rgb": [
+            229,
+            147,
+            94
+          ],
+          "share": 1.5,
+          "hue": 24,
+          "lightness": 63,
+          "saturation": 72
+        },
+        {
+          "hex": "#9a2c16",
+          "rgb": [
+            154,
+            44,
+            22
+          ],
+          "share": 1.0,
+          "hue": 10,
+          "lightness": 35,
+          "saturation": 75
+        },
+        {
+          "hex": "#da6453",
+          "rgb": [
+            218,
+            100,
+            83
+          ],
+          "share": 0.8,
+          "hue": 8,
+          "lightness": 59,
+          "saturation": 65
+        },
+        {
+          "hex": "#d65a24",
+          "rgb": [
+            214,
+            90,
+            36
+          ],
+          "share": 0.8,
+          "hue": 18,
+          "lightness": 49,
+          "saturation": 71
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_065_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "share": 61.8,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 0
+        },
+        {
+          "hex": "#e7242b",
+          "rgb": [
+            231,
+            36,
+            43
+          ],
+          "share": 26.1,
+          "hue": 358,
+          "lightness": 52,
+          "saturation": 80
+        },
+        {
+          "hex": "#ece8e8",
+          "rgb": [
+            236,
+            232,
+            232
+          ],
+          "share": 5.3,
+          "hue": 0,
+          "lightness": 92,
+          "saturation": 10
+        },
+        {
+          "hex": "#ea5459",
+          "rgb": [
+            234,
+            84,
+            89
+          ],
+          "share": 4.0,
+          "hue": 358,
+          "lightness": 62,
+          "saturation": 78
+        },
+        {
+          "hex": "#dca39f",
+          "rgb": [
+            220,
+            163,
+            159
+          ],
+          "share": 2.0,
+          "hue": 4,
+          "lightness": 74,
+          "saturation": 47
+        },
+        {
+          "hex": "#ea3c41",
+          "rgb": [
+            234,
+            60,
+            65
+          ],
+          "share": 0.8,
+          "hue": 358,
+          "lightness": 58,
+          "saturation": 81
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_066_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fefefe",
+          "rgb": [
+            254,
+            254,
+            254
+          ],
+          "share": 75.9,
+          "hue": 0,
+          "lightness": 100,
+          "saturation": 0
+        },
+        {
+          "hex": "#e48b60",
+          "rgb": [
+            228,
+            139,
+            96
+          ],
+          "share": 13.0,
+          "hue": 20,
+          "lightness": 64,
+          "saturation": 71
+        },
+        {
+          "hex": "#049447",
+          "rgb": [
+            4,
+            148,
+            71
+          ],
+          "share": 4.6,
+          "hue": 148,
+          "lightness": 30,
+          "saturation": 95
+        },
+        {
+          "hex": "#fde275",
+          "rgb": [
+            253,
+            226,
+            117
+          ],
+          "share": 2.6,
+          "hue": 48,
+          "lightness": 73,
+          "saturation": 97
+        },
+        {
+          "hex": "#67241b",
+          "rgb": [
+            103,
+            36,
+            27
+          ],
+          "share": 2.0,
+          "hue": 7,
+          "lightness": 25,
+          "saturation": 58
+        },
+        {
+          "hex": "#dd653e",
+          "rgb": [
+            221,
+            101,
+            62
+          ],
+          "share": 1.9,
+          "hue": 15,
+          "lightness": 55,
+          "saturation": 70
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_067_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fefefd",
+          "rgb": [
+            254,
+            254,
+            253
+          ],
+          "share": 75.2,
+          "hue": 60,
+          "lightness": 99,
+          "saturation": 33
+        },
+        {
+          "hex": "#ae5420",
+          "rgb": [
+            174,
+            84,
+            32
+          ],
+          "share": 11.9,
+          "hue": 22,
+          "lightness": 40,
+          "saturation": 69
+        },
+        {
+          "hex": "#d78235",
+          "rgb": [
+            215,
+            130,
+            53
+          ],
+          "share": 6.2,
+          "hue": 29,
+          "lightness": 53,
+          "saturation": 67
+        },
+        {
+          "hex": "#cc742f",
+          "rgb": [
+            204,
+            116,
+            47
+          ],
+          "share": 2.9,
+          "hue": 26,
+          "lightness": 49,
+          "saturation": 63
+        },
+        {
+          "hex": "#e9a551",
+          "rgb": [
+            233,
+            165,
+            81
+          ],
+          "share": 2.8,
+          "hue": 33,
+          "lightness": 62,
+          "saturation": 78
+        },
+        {
+          "hex": "#e2d0aa",
+          "rgb": [
+            226,
+            208,
+            170
+          ],
+          "share": 1.1,
+          "hue": 41,
+          "lightness": 78,
+          "saturation": 49
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_068_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fbefde",
+          "rgb": [
+            251,
+            239,
+            222
+          ],
+          "share": 80.0,
+          "hue": 35,
+          "lightness": 93,
+          "saturation": 78
+        },
+        {
+          "hex": "#ea9828",
+          "rgb": [
+            234,
+            152,
+            40
+          ],
+          "share": 5.7,
+          "hue": 35,
+          "lightness": 54,
+          "saturation": 82
+        },
+        {
+          "hex": "#e9a855",
+          "rgb": [
+            233,
+            168,
+            85
+          ],
+          "share": 4.3,
+          "hue": 34,
+          "lightness": 62,
+          "saturation": 77
+        },
+        {
+          "hex": "#d66816",
+          "rgb": [
+            214,
+            104,
+            22
+          ],
+          "share": 3.6,
+          "hue": 26,
+          "lightness": 46,
+          "saturation": 81
+        },
+        {
+          "hex": "#a7a09b",
+          "rgb": [
+            167,
+            160,
+            155
+          ],
+          "share": 3.2,
+          "hue": 25,
+          "lightness": 63,
+          "saturation": 6
+        },
+        {
+          "hex": "#a12120",
+          "rgb": [
+            161,
+            33,
+            32
+          ],
+          "share": 3.1,
+          "hue": 0,
+          "lightness": 38,
+          "saturation": 67
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_069_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fcf0de",
+          "rgb": [
+            252,
+            240,
+            222
+          ],
+          "share": 87.5,
+          "hue": 36,
+          "lightness": 93,
+          "saturation": 83
+        },
+        {
+          "hex": "#e99628",
+          "rgb": [
+            233,
+            150,
+            40
+          ],
+          "share": 3.7,
+          "hue": 34,
+          "lightness": 54,
+          "saturation": 81
+        },
+        {
+          "hex": "#e8a754",
+          "rgb": [
+            232,
+            167,
+            84
+          ],
+          "share": 2.5,
+          "hue": 34,
+          "lightness": 62,
+          "saturation": 76
+        },
+        {
+          "hex": "#9f2021",
+          "rgb": [
+            159,
+            32,
+            33
+          ],
+          "share": 2.2,
+          "hue": 360,
+          "lightness": 37,
+          "saturation": 66
+        },
+        {
+          "hex": "#69271b",
+          "rgb": [
+            105,
+            39,
+            27
+          ],
+          "share": 2.1,
+          "hue": 9,
+          "lightness": 26,
+          "saturation": 59
+        },
+        {
+          "hex": "#d16b1a",
+          "rgb": [
+            209,
+            107,
+            26
+          ],
+          "share": 2.0,
+          "hue": 27,
+          "lightness": 46,
+          "saturation": 78
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_070_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fcf3e3",
+          "rgb": [
+            252,
+            243,
+            227
+          ],
+          "share": 88.1,
+          "hue": 38,
+          "lightness": 94,
+          "saturation": 81
+        },
+        {
+          "hex": "#a21919",
+          "rgb": [
+            162,
+            25,
+            25
+          ],
+          "share": 3.0,
+          "hue": 0,
+          "lightness": 37,
+          "saturation": 73
+        },
+        {
+          "hex": "#e99824",
+          "rgb": [
+            233,
+            152,
+            36
+          ],
+          "share": 2.9,
+          "hue": 35,
+          "lightness": 53,
+          "saturation": 82
+        },
+        {
+          "hex": "#662214",
+          "rgb": [
+            102,
+            34,
+            20
+          ],
+          "share": 2.7,
+          "hue": 10,
+          "lightness": 24,
+          "saturation": 67
+        },
+        {
+          "hex": "#d36b18",
+          "rgb": [
+            211,
+            107,
+            24
+          ],
+          "share": 1.7,
+          "hue": 27,
+          "lightness": 46,
+          "saturation": 80
+        },
+        {
+          "hex": "#ce101e",
+          "rgb": [
+            206,
+            16,
+            30
+          ],
+          "share": 1.6,
+          "hue": 356,
+          "lightness": 44,
+          "saturation": 86
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_071_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#4f6037",
+          "rgb": [
+            79,
+            96,
+            55
+          ],
+          "share": 48.7,
+          "hue": 85,
+          "lightness": 30,
+          "saturation": 27
+        },
+        {
+          "hex": "#c89731",
+          "rgb": [
+            200,
+            151,
+            49
+          ],
+          "share": 14.0,
+          "hue": 41,
+          "lightness": 49,
+          "saturation": 61
+        },
+        {
+          "hex": "#305126",
+          "rgb": [
+            48,
+            81,
+            38
+          ],
+          "share": 13.7,
+          "hue": 106,
+          "lightness": 23,
+          "saturation": 36
+        },
+        {
+          "hex": "#606c47",
+          "rgb": [
+            96,
+            108,
+            71
+          ],
+          "share": 13.5,
+          "hue": 79,
+          "lightness": 35,
+          "saturation": 21
+        },
+        {
+          "hex": "#1f3517",
+          "rgb": [
+            31,
+            53,
+            23
+          ],
+          "share": 5.1,
+          "hue": 104,
+          "lightness": 15,
+          "saturation": 39
+        },
+        {
+          "hex": "#a01515",
+          "rgb": [
+            160,
+            21,
+            21
+          ],
+          "share": 5.0,
+          "hue": 0,
+          "lightness": 35,
+          "saturation": 77
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_072_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#636e47",
+          "rgb": [
+            99,
+            110,
+            71
+          ],
+          "share": 43.0,
+          "hue": 77,
+          "lightness": 35,
+          "saturation": 22
+        },
+        {
+          "hex": "#314e26",
+          "rgb": [
+            49,
+            78,
+            38
+          ],
+          "share": 17.6,
+          "hue": 104,
+          "lightness": 23,
+          "saturation": 34
+        },
+        {
+          "hex": "#4e5f36",
+          "rgb": [
+            78,
+            95,
+            54
+          ],
+          "share": 15.4,
+          "hue": 85,
+          "lightness": 29,
+          "saturation": 28
+        },
+        {
+          "hex": "#c79832",
+          "rgb": [
+            199,
+            152,
+            50
+          ],
+          "share": 11.1,
+          "hue": 41,
+          "lightness": 49,
+          "saturation": 60
+        },
+        {
+          "hex": "#1e3616",
+          "rgb": [
+            30,
+            54,
+            22
+          ],
+          "share": 7.3,
+          "hue": 105,
+          "lightness": 15,
+          "saturation": 42
+        },
+        {
+          "hex": "#3453a7",
+          "rgb": [
+            52,
+            83,
+            167
+          ],
+          "share": 5.6,
+          "hue": 224,
+          "lightness": 43,
+          "saturation": 53
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_073_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#010000",
+          "rgb": [
+            1,
+            0,
+            0
+          ],
+          "share": 76.3,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 100
+        },
+        {
+          "hex": "#d9d9d9",
+          "rgb": [
+            217,
+            217,
+            217
+          ],
+          "share": 11.0,
+          "hue": 0,
+          "lightness": 85,
+          "saturation": 0
+        },
+        {
+          "hex": "#6c87f8",
+          "rgb": [
+            108,
+            135,
+            248
+          ],
+          "share": 3.8,
+          "hue": 228,
+          "lightness": 70,
+          "saturation": 91
+        },
+        {
+          "hex": "#454545",
+          "rgb": [
+            69,
+            69,
+            69
+          ],
+          "share": 3.7,
+          "hue": 0,
+          "lightness": 27,
+          "saturation": 0
+        },
+        {
+          "hex": "#9676c9",
+          "rgb": [
+            150,
+            118,
+            201
+          ],
+          "share": 3.0,
+          "hue": 263,
+          "lightness": 63,
+          "saturation": 43
+        },
+        {
+          "hex": "#961c36",
+          "rgb": [
+            150,
+            28,
+            54
+          ],
+          "share": 2.2,
+          "hue": 347,
+          "lightness": 35,
+          "saturation": 69
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_074_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#020202",
+          "rgb": [
+            2,
+            2,
+            2
+          ],
+          "share": 64.2,
+          "hue": 0,
+          "lightness": 1,
+          "saturation": 0
+        },
+        {
+          "hex": "#e9effd",
+          "rgb": [
+            233,
+            239,
+            253
+          ],
+          "share": 16.0,
+          "hue": 222,
+          "lightness": 95,
+          "saturation": 83
+        },
+        {
+          "hex": "#414141",
+          "rgb": [
+            65,
+            65,
+            65
+          ],
+          "share": 10.2,
+          "hue": 0,
+          "lightness": 25,
+          "saturation": 0
+        },
+        {
+          "hex": "#9677c8",
+          "rgb": [
+            150,
+            119,
+            200
+          ],
+          "share": 4.4,
+          "hue": 263,
+          "lightness": 63,
+          "saturation": 42
+        },
+        {
+          "hex": "#b60f00",
+          "rgb": [
+            182,
+            15,
+            0
+          ],
+          "share": 2.7,
+          "hue": 5,
+          "lightness": 36,
+          "saturation": 100
+        },
+        {
+          "hex": "#6c87f9",
+          "rgb": [
+            108,
+            135,
+            249
+          ],
+          "share": 2.5,
+          "hue": 229,
+          "lightness": 70,
+          "saturation": 92
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_075_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "share": 85.5,
+          "hue": 0,
+          "lightness": 0,
+          "saturation": 0
+        },
+        {
+          "hex": "#fecfbb",
+          "rgb": [
+            254,
+            207,
+            187
+          ],
+          "share": 4.7,
+          "hue": 18,
+          "lightness": 86,
+          "saturation": 97
+        },
+        {
+          "hex": "#a8eaea",
+          "rgb": [
+            168,
+            234,
+            234
+          ],
+          "share": 3.9,
+          "hue": 180,
+          "lightness": 79,
+          "saturation": 61
+        },
+        {
+          "hex": "#fc2e07",
+          "rgb": [
+            252,
+            46,
+            7
+          ],
+          "share": 2.1,
+          "hue": 10,
+          "lightness": 51,
+          "saturation": 98
+        },
+        {
+          "hex": "#424241",
+          "rgb": [
+            66,
+            66,
+            65
+          ],
+          "share": 2.1,
+          "hue": 60,
+          "lightness": 26,
+          "saturation": 1
+        },
+        {
+          "hex": "#814320",
+          "rgb": [
+            129,
+            67,
+            32
+          ],
+          "share": 1.7,
+          "hue": 22,
+          "lightness": 32,
+          "saturation": 60
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_076_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f9f5ed",
+          "rgb": [
+            249,
+            245,
+            237
+          ],
+          "share": 76.0,
+          "hue": 40,
+          "lightness": 95,
+          "saturation": 50
+        },
+        {
+          "hex": "#eed79c",
+          "rgb": [
+            238,
+            215,
+            156
+          ],
+          "share": 6.2,
+          "hue": 43,
+          "lightness": 77,
+          "saturation": 71
+        },
+        {
+          "hex": "#dfa561",
+          "rgb": [
+            223,
+            165,
+            97
+          ],
+          "share": 5.4,
+          "hue": 32,
+          "lightness": 63,
+          "saturation": 66
+        },
+        {
+          "hex": "#5d2715",
+          "rgb": [
+            93,
+            39,
+            21
+          ],
+          "share": 4.7,
+          "hue": 15,
+          "lightness": 22,
+          "saturation": 63
+        },
+        {
+          "hex": "#21181d",
+          "rgb": [
+            33,
+            24,
+            29
+          ],
+          "share": 4.1,
+          "hue": 327,
+          "lightness": 11,
+          "saturation": 16
+        },
+        {
+          "hex": "#ebcd6f",
+          "rgb": [
+            235,
+            205,
+            111
+          ],
+          "share": 3.7,
+          "hue": 45,
+          "lightness": 68,
+          "saturation": 76
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_077_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#faf6ed",
+          "rgb": [
+            250,
+            246,
+            237
+          ],
+          "share": 74.4,
+          "hue": 42,
+          "lightness": 95,
+          "saturation": 57
+        },
+        {
+          "hex": "#f0db99",
+          "rgb": [
+            240,
+            219,
+            153
+          ],
+          "share": 6.5,
+          "hue": 46,
+          "lightness": 77,
+          "saturation": 74
+        },
+        {
+          "hex": "#dda362",
+          "rgb": [
+            221,
+            163,
+            98
+          ],
+          "share": 5.2,
+          "hue": 32,
+          "lightness": 63,
+          "saturation": 64
+        },
+        {
+          "hex": "#602815",
+          "rgb": [
+            96,
+            40,
+            21
+          ],
+          "share": 5.0,
+          "hue": 15,
+          "lightness": 23,
+          "saturation": 64
+        },
+        {
+          "hex": "#1f1920",
+          "rgb": [
+            31,
+            25,
+            32
+          ],
+          "share": 4.5,
+          "hue": 291,
+          "lightness": 11,
+          "saturation": 12
+        },
+        {
+          "hex": "#a29b9d",
+          "rgb": [
+            162,
+            155,
+            157
+          ],
+          "share": 4.5,
+          "hue": 343,
+          "lightness": 62,
+          "saturation": 4
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_078_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#faf7ee",
+          "rgb": [
+            250,
+            247,
+            238
+          ],
+          "share": 81.9,
+          "hue": 45,
+          "lightness": 96,
+          "saturation": 55
+        },
+        {
+          "hex": "#f0d89f",
+          "rgb": [
+            240,
+            216,
+            159
+          ],
+          "share": 5.8,
+          "hue": 42,
+          "lightness": 78,
+          "saturation": 73
+        },
+        {
+          "hex": "#242d52",
+          "rgb": [
+            36,
+            45,
+            82
+          ],
+          "share": 3.7,
+          "hue": 228,
+          "lightness": 23,
+          "saturation": 39
+        },
+        {
+          "hex": "#e4aa5d",
+          "rgb": [
+            228,
+            170,
+            93
+          ],
+          "share": 3.1,
+          "hue": 34,
+          "lightness": 63,
+          "saturation": 71
+        },
+        {
+          "hex": "#f0cd70",
+          "rgb": [
+            240,
+            205,
+            112
+          ],
+          "share": 3.0,
+          "hue": 44,
+          "lightness": 69,
+          "saturation": 81
+        },
+        {
+          "hex": "#d3b4a3",
+          "rgb": [
+            211,
+            180,
+            163
+          ],
+          "share": 2.5,
+          "hue": 21,
+          "lightness": 73,
+          "saturation": 35
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_079_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fefdfa",
+          "rgb": [
+            254,
+            253,
+            250
+          ],
+          "share": 50.0,
+          "hue": 45,
+          "lightness": 99,
+          "saturation": 67
+        },
+        {
+          "hex": "#0025fd",
+          "rgb": [
+            0,
+            37,
+            253
+          ],
+          "share": 19.7,
+          "hue": 231,
+          "lightness": 50,
+          "saturation": 100
+        },
+        {
+          "hex": "#fd0000",
+          "rgb": [
+            253,
+            0,
+            0
+          ],
+          "share": 15.6,
+          "hue": 0,
+          "lightness": 50,
+          "saturation": 100
+        },
+        {
+          "hex": "#0d0e9b",
+          "rgb": [
+            13,
+            14,
+            155
+          ],
+          "share": 10.5,
+          "hue": 240,
+          "lightness": 33,
+          "saturation": 85
+        },
+        {
+          "hex": "#090510",
+          "rgb": [
+            9,
+            5,
+            16
+          ],
+          "share": 3.4,
+          "hue": 262,
+          "lightness": 4,
+          "saturation": 52
+        },
+        {
+          "hex": "#020b59",
+          "rgb": [
+            2,
+            11,
+            89
+          ],
+          "share": 0.8,
+          "hue": 234,
+          "lightness": 18,
+          "saturation": 96
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_080_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#fcfcfc",
+          "rgb": [
+            252,
+            252,
+            252
+          ],
+          "share": 43.6,
+          "hue": 0,
+          "lightness": 99,
+          "saturation": 0
+        },
+        {
+          "hex": "#0024f5",
+          "rgb": [
+            0,
+            36,
+            245
+          ],
+          "share": 30.7,
+          "hue": 231,
+          "lightness": 48,
+          "saturation": 100
+        },
+        {
+          "hex": "#060409",
+          "rgb": [
+            6,
+            4,
+            9
+          ],
+          "share": 9.4,
+          "hue": 264,
+          "lightness": 3,
+          "saturation": 38
+        },
+        {
+          "hex": "#0b0f9d",
+          "rgb": [
+            11,
+            15,
+            157
+          ],
+          "share": 8.1,
+          "hue": 238,
+          "lightness": 33,
+          "saturation": 87
+        },
+        {
+          "hex": "#e60000",
+          "rgb": [
+            230,
+            0,
+            0
+          ],
+          "share": 6.5,
+          "hue": 0,
+          "lightness": 45,
+          "saturation": 100
+        },
+        {
+          "hex": "#49a3fd",
+          "rgb": [
+            73,
+            163,
+            253
+          ],
+          "share": 1.8,
+          "hue": 210,
+          "lightness": 64,
+          "saturation": 98
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_081_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f2f3f2",
+          "rgb": [
+            242,
+            243,
+            242
+          ],
+          "share": 67.2,
+          "hue": 120,
+          "lightness": 95,
+          "saturation": 4
+        },
+        {
+          "hex": "#6aba6b",
+          "rgb": [
+            106,
+            186,
+            107
+          ],
+          "share": 25.6,
+          "hue": 121,
+          "lightness": 57,
+          "saturation": 37
+        },
+        {
+          "hex": "#9ea0ab",
+          "rgb": [
+            158,
+            160,
+            171
+          ],
+          "share": 2.1,
+          "hue": 231,
+          "lightness": 65,
+          "saturation": 7
+        },
+        {
+          "hex": "#2b2c2b",
+          "rgb": [
+            43,
+            44,
+            43
+          ],
+          "share": 2.0,
+          "hue": 120,
+          "lightness": 17,
+          "saturation": 1
+        },
+        {
+          "hex": "#71c174",
+          "rgb": [
+            113,
+            193,
+            116
+          ],
+          "share": 1.8,
+          "hue": 122,
+          "lightness": 60,
+          "saturation": 39
+        },
+        {
+          "hex": "#195fa0",
+          "rgb": [
+            25,
+            95,
+            160
+          ],
+          "share": 1.3,
+          "hue": 209,
+          "lightness": 36,
+          "saturation": 73
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_082_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f4f4f4",
+          "rgb": [
+            244,
+            244,
+            244
+          ],
+          "share": 69.1,
+          "hue": 0,
+          "lightness": 96,
+          "saturation": 0
+        },
+        {
+          "hex": "#6ab96a",
+          "rgb": [
+            106,
+            185,
+            106
+          ],
+          "share": 23.3,
+          "hue": 120,
+          "lightness": 57,
+          "saturation": 36
+        },
+        {
+          "hex": "#145fa2",
+          "rgb": [
+            20,
+            95,
+            162
+          ],
+          "share": 2.5,
+          "hue": 208,
+          "lightness": 36,
+          "saturation": 78
+        },
+        {
+          "hex": "#1e95d8",
+          "rgb": [
+            30,
+            149,
+            216
+          ],
+          "share": 2.2,
+          "hue": 202,
+          "lightness": 48,
+          "saturation": 76
+        },
+        {
+          "hex": "#58a5dc",
+          "rgb": [
+            88,
+            165,
+            220
+          ],
+          "share": 1.5,
+          "hue": 205,
+          "lightness": 60,
+          "saturation": 65
+        },
+        {
+          "hex": "#9aa0a8",
+          "rgb": [
+            154,
+            160,
+            168
+          ],
+          "share": 1.3,
+          "hue": 214,
+          "lightness": 63,
+          "saturation": 7
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_083_retina-large.png",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#f5f5f5",
+          "rgb": [
+            245,
+            245,
+            245
+          ],
+          "share": 75.8,
+          "hue": 0,
+          "lightness": 96,
+          "saturation": 0
+        },
+        {
+          "hex": "#69b86a",
+          "rgb": [
+            105,
+            184,
+            106
+          ],
+          "share": 16.7,
+          "hue": 121,
+          "lightness": 57,
+          "saturation": 36
+        },
+        {
+          "hex": "#97a19e",
+          "rgb": [
+            151,
+            161,
+            158
+          ],
+          "share": 2.4,
+          "hue": 162,
+          "lightness": 61,
+          "saturation": 5
+        },
+        {
+          "hex": "#1690d6",
+          "rgb": [
+            22,
+            144,
+            214
+          ],
+          "share": 2.1,
+          "hue": 202,
+          "lightness": 46,
+          "saturation": 81
+        },
+        {
+          "hex": "#0b66a8",
+          "rgb": [
+            11,
+            102,
+            168
+          ],
+          "share": 1.6,
+          "hue": 205,
+          "lightness": 35,
+          "saturation": 88
+        },
+        {
+          "hex": "#71c074",
+          "rgb": [
+            113,
+            192,
+            116
+          ],
+          "share": 1.3,
+          "hue": 122,
+          "lightness": 60,
+          "saturation": 39
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_084_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#9e5b16",
+          "rgb": [
+            158,
+            91,
+            22
+          ],
+          "share": 44.1,
+          "hue": 30,
+          "lightness": 35,
+          "saturation": 76
+        },
+        {
+          "hex": "#5f2b0e",
+          "rgb": [
+            95,
+            43,
+            14
+          ],
+          "share": 23.4,
+          "hue": 21,
+          "lightness": 21,
+          "saturation": 74
+        },
+        {
+          "hex": "#2e2113",
+          "rgb": [
+            46,
+            33,
+            19
+          ],
+          "share": 13.2,
+          "hue": 31,
+          "lightness": 13,
+          "saturation": 42
+        },
+        {
+          "hex": "#6b4722",
+          "rgb": [
+            107,
+            71,
+            34
+          ],
+          "share": 7.6,
+          "hue": 30,
+          "lightness": 28,
+          "saturation": 52
+        },
+        {
+          "hex": "#8e3206",
+          "rgb": [
+            142,
+            50,
+            6
+          ],
+          "share": 6.1,
+          "hue": 19,
+          "lightness": 29,
+          "saturation": 92
+        },
+        {
+          "hex": "#9c714c",
+          "rgb": [
+            156,
+            113,
+            76
+          ],
+          "share": 5.6,
+          "hue": 28,
+          "lightness": 45,
+          "saturation": 34
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_085_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#d5a58a",
+          "rgb": [
+            213,
+            165,
+            138
+          ],
+          "share": 60.5,
+          "hue": 22,
+          "lightness": 69,
+          "saturation": 47
+        },
+        {
+          "hex": "#2a1f1c",
+          "rgb": [
+            42,
+            31,
+            28
+          ],
+          "share": 8.7,
+          "hue": 13,
+          "lightness": 14,
+          "saturation": 20
+        },
+        {
+          "hex": "#966c62",
+          "rgb": [
+            150,
+            108,
+            98
+          ],
+          "share": 8.4,
+          "hue": 12,
+          "lightness": 49,
+          "saturation": 21
+        },
+        {
+          "hex": "#d09d70",
+          "rgb": [
+            208,
+            157,
+            112
+          ],
+          "share": 8.1,
+          "hue": 28,
+          "lightness": 63,
+          "saturation": 51
+        },
+        {
+          "hex": "#513126",
+          "rgb": [
+            81,
+            49,
+            38
+          ],
+          "share": 7.5,
+          "hue": 15,
+          "lightness": 23,
+          "saturation": 36
+        },
+        {
+          "hex": "#ad9b92",
+          "rgb": [
+            173,
+            155,
+            146
+          ],
+          "share": 6.9,
+          "hue": 20,
+          "lightness": 63,
+          "saturation": 14
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_086_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#e2dfdd",
+          "rgb": [
+            226,
+            223,
+            221
+          ],
+          "share": 37.5,
+          "hue": 24,
+          "lightness": 88,
+          "saturation": 8
+        },
+        {
+          "hex": "#271d1a",
+          "rgb": [
+            39,
+            29,
+            26
+          ],
+          "share": 24.9,
+          "hue": 14,
+          "lightness": 13,
+          "saturation": 20
+        },
+        {
+          "hex": "#5f5551",
+          "rgb": [
+            95,
+            85,
+            81
+          ],
+          "share": 21.7,
+          "hue": 17,
+          "lightness": 35,
+          "saturation": 8
+        },
+        {
+          "hex": "#533024",
+          "rgb": [
+            83,
+            48,
+            36
+          ],
+          "share": 9.0,
+          "hue": 15,
+          "lightness": 23,
+          "saturation": 39
+        },
+        {
+          "hex": "#aba19c",
+          "rgb": [
+            171,
+            161,
+            156
+          ],
+          "share": 3.9,
+          "hue": 20,
+          "lightness": 64,
+          "saturation": 8
+        },
+        {
+          "hex": "#9b4d23",
+          "rgb": [
+            155,
+            77,
+            35
+          ],
+          "share": 3.0,
+          "hue": 21,
+          "lightness": 37,
+          "saturation": 63
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_087_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#1f1918",
+          "rgb": [
+            31,
+            25,
+            24
+          ],
+          "share": 70.6,
+          "hue": 9,
+          "lightness": 11,
+          "saturation": 13
+        },
+        {
+          "hex": "#8d7569",
+          "rgb": [
+            141,
+            117,
+            105
+          ],
+          "share": 11.7,
+          "hue": 20,
+          "lightness": 48,
+          "saturation": 15
+        },
+        {
+          "hex": "#6e6059",
+          "rgb": [
+            110,
+            96,
+            89
+          ],
+          "share": 7.8,
+          "hue": 20,
+          "lightness": 39,
+          "saturation": 11
+        },
+        {
+          "hex": "#9e8475",
+          "rgb": [
+            158,
+            132,
+            117
+          ],
+          "share": 4.5,
+          "hue": 22,
+          "lightness": 54,
+          "saturation": 17
+        },
+        {
+          "hex": "#542c1d",
+          "rgb": [
+            84,
+            44,
+            29
+          ],
+          "share": 3.2,
+          "hue": 16,
+          "lightness": 22,
+          "saturation": 49
+        },
+        {
+          "hex": "#f0d1a4",
+          "rgb": [
+            240,
+            209,
+            164
+          ],
+          "share": 2.1,
+          "hue": 36,
+          "lightness": 79,
+          "saturation": 72
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_088_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#b59e8d",
+          "rgb": [
+            181,
+            158,
+            141
+          ],
+          "share": 36.3,
+          "hue": 25,
+          "lightness": 63,
+          "saturation": 21
+        },
+        {
+          "hex": "#e0a660",
+          "rgb": [
+            224,
+            166,
+            96
+          ],
+          "share": 14.7,
+          "hue": 33,
+          "lightness": 63,
+          "saturation": 67
+        },
+        {
+          "hex": "#652716",
+          "rgb": [
+            101,
+            39,
+            22
+          ],
+          "share": 14.3,
+          "hue": 13,
+          "lightness": 24,
+          "saturation": 64
+        },
+        {
+          "hex": "#cbaf99",
+          "rgb": [
+            203,
+            175,
+            153
+          ],
+          "share": 13.7,
+          "hue": 26,
+          "lightness": 70,
+          "saturation": 32
+        },
+        {
+          "hex": "#9a5929",
+          "rgb": [
+            154,
+            89,
+            41
+          ],
+          "share": 11.6,
+          "hue": 25,
+          "lightness": 38,
+          "saturation": 58
+        },
+        {
+          "hex": "#9d6c52",
+          "rgb": [
+            157,
+            108,
+            82
+          ],
+          "share": 9.4,
+          "hue": 21,
+          "lightness": 47,
+          "saturation": 31
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_089_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#aca097",
+          "rgb": [
+            172,
+            160,
+            151
+          ],
+          "share": 46.0,
+          "hue": 26,
+          "lightness": 63,
+          "saturation": 11
+        },
+        {
+          "hex": "#ae8e6b",
+          "rgb": [
+            174,
+            142,
+            107
+          ],
+          "share": 16.2,
+          "hue": 31,
+          "lightness": 55,
+          "saturation": 29
+        },
+        {
+          "hex": "#c7a78f",
+          "rgb": [
+            199,
+            167,
+            143
+          ],
+          "share": 13.5,
+          "hue": 26,
+          "lightness": 67,
+          "saturation": 33
+        },
+        {
+          "hex": "#171212",
+          "rgb": [
+            23,
+            18,
+            18
+          ],
+          "share": 8.2,
+          "hue": 0,
+          "lightness": 8,
+          "saturation": 12
+        },
+        {
+          "hex": "#986d54",
+          "rgb": [
+            152,
+            109,
+            84
+          ],
+          "share": 8.1,
+          "hue": 22,
+          "lightness": 46,
+          "saturation": 29
+        },
+        {
+          "hex": "#572e1a",
+          "rgb": [
+            87,
+            46,
+            26
+          ],
+          "share": 8.0,
+          "hue": 20,
+          "lightness": 22,
+          "saturation": 54
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_090_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#211b19",
+          "rgb": [
+            33,
+            27,
+            25
+          ],
+          "share": 71.6,
+          "hue": 15,
+          "lightness": 11,
+          "saturation": 14
+        },
+        {
+          "hex": "#9b8578",
+          "rgb": [
+            155,
+            133,
+            120
+          ],
+          "share": 6.9,
+          "hue": 22,
+          "lightness": 54,
+          "saturation": 15
+        },
+        {
+          "hex": "#8f776a",
+          "rgb": [
+            143,
+            119,
+            106
+          ],
+          "share": 6.8,
+          "hue": 21,
+          "lightness": 49,
+          "saturation": 15
+        },
+        {
+          "hex": "#a8948a",
+          "rgb": [
+            168,
+            148,
+            138
+          ],
+          "share": 6.2,
+          "hue": 20,
+          "lightness": 60,
+          "saturation": 15
+        },
+        {
+          "hex": "#6b5d56",
+          "rgb": [
+            107,
+            93,
+            86
+          ],
+          "share": 5.1,
+          "hue": 20,
+          "lightness": 38,
+          "saturation": 11
+        },
+        {
+          "hex": "#562c1a",
+          "rgb": [
+            86,
+            44,
+            26
+          ],
+          "share": 3.4,
+          "hue": 18,
+          "lightness": 22,
+          "saturation": 54
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_091_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#5f5450",
+          "rgb": [
+            95,
+            84,
+            80
+          ],
+          "share": 44.1,
+          "hue": 16,
+          "lightness": 34,
+          "saturation": 9
+        },
+        {
+          "hex": "#2a211d",
+          "rgb": [
+            42,
+            33,
+            29
+          ],
+          "share": 28.1,
+          "hue": 18,
+          "lightness": 14,
+          "saturation": 18
+        },
+        {
+          "hex": "#473832",
+          "rgb": [
+            71,
+            56,
+            50
+          ],
+          "share": 12.2,
+          "hue": 17,
+          "lightness": 24,
+          "saturation": 17
+        },
+        {
+          "hex": "#534a33",
+          "rgb": [
+            83,
+            74,
+            51
+          ],
+          "share": 7.1,
+          "hue": 43,
+          "lightness": 26,
+          "saturation": 24
+        },
+        {
+          "hex": "#e6e3df",
+          "rgb": [
+            230,
+            227,
+            223
+          ],
+          "share": 4.7,
+          "hue": 34,
+          "lightness": 89,
+          "saturation": 12
+        },
+        {
+          "hex": "#d8ac99",
+          "rgb": [
+            216,
+            172,
+            153
+          ],
+          "share": 3.8,
+          "hue": 18,
+          "lightness": 72,
+          "saturation": 45
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_092_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#1f1816",
+          "rgb": [
+            31,
+            24,
+            22
+          ],
+          "share": 67.7,
+          "hue": 13,
+          "lightness": 10,
+          "saturation": 17
+        },
+        {
+          "hex": "#aa9b94",
+          "rgb": [
+            170,
+            155,
+            148
+          ],
+          "share": 10.1,
+          "hue": 19,
+          "lightness": 62,
+          "saturation": 11
+        },
+        {
+          "hex": "#e2dcd5",
+          "rgb": [
+            226,
+            220,
+            213
+          ],
+          "share": 7.3,
+          "hue": 32,
+          "lightness": 86,
+          "saturation": 18
+        },
+        {
+          "hex": "#695b54",
+          "rgb": [
+            105,
+            91,
+            84
+          ],
+          "share": 5.6,
+          "hue": 20,
+          "lightness": 37,
+          "saturation": 11
+        },
+        {
+          "hex": "#eaa25c",
+          "rgb": [
+            234,
+            162,
+            92
+          ],
+          "share": 5.4,
+          "hue": 30,
+          "lightness": 64,
+          "saturation": 77
+        },
+        {
+          "hex": "#8f7668",
+          "rgb": [
+            143,
+            118,
+            104
+          ],
+          "share": 4.0,
+          "hue": 22,
+          "lightness": 48,
+          "saturation": 16
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_093_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#b08b54",
+          "rgb": [
+            176,
+            139,
+            84
+          ],
+          "share": 43.2,
+          "hue": 36,
+          "lightness": 51,
+          "saturation": 37
+        },
+        {
+          "hex": "#9b5e1f",
+          "rgb": [
+            155,
+            94,
+            31
+          ],
+          "share": 18.0,
+          "hue": 30,
+          "lightness": 36,
+          "saturation": 67
+        },
+        {
+          "hex": "#cca05c",
+          "rgb": [
+            204,
+            160,
+            92
+          ],
+          "share": 11.7,
+          "hue": 36,
+          "lightness": 58,
+          "saturation": 52
+        },
+        {
+          "hex": "#6c4f29",
+          "rgb": [
+            108,
+            79,
+            41
+          ],
+          "share": 11.3,
+          "hue": 34,
+          "lightness": 29,
+          "saturation": 45
+        },
+        {
+          "hex": "#533318",
+          "rgb": [
+            83,
+            51,
+            24
+          ],
+          "share": 8.7,
+          "hue": 27,
+          "lightness": 21,
+          "saturation": 55
+        },
+        {
+          "hex": "#987549",
+          "rgb": [
+            152,
+            117,
+            73
+          ],
+          "share": 7.1,
+          "hue": 33,
+          "lightness": 44,
+          "saturation": 35
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_094_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#e4e1e0",
+          "rgb": [
+            228,
+            225,
+            224
+          ],
+          "share": 37.0,
+          "hue": 15,
+          "lightness": 89,
+          "saturation": 7
+        },
+        {
+          "hex": "#635754",
+          "rgb": [
+            99,
+            87,
+            84
+          ],
+          "share": 26.2,
+          "hue": 12,
+          "lightness": 36,
+          "saturation": 8
+        },
+        {
+          "hex": "#261c19",
+          "rgb": [
+            38,
+            28,
+            25
+          ],
+          "share": 20.1,
+          "hue": 14,
+          "lightness": 12,
+          "saturation": 21
+        },
+        {
+          "hex": "#502e26",
+          "rgb": [
+            80,
+            46,
+            38
+          ],
+          "share": 8.3,
+          "hue": 11,
+          "lightness": 23,
+          "saturation": 36
+        },
+        {
+          "hex": "#aba39f",
+          "rgb": [
+            171,
+            163,
+            159
+          ],
+          "share": 5.9,
+          "hue": 20,
+          "lightness": 65,
+          "saturation": 7
+        },
+        {
+          "hex": "#ceb1a6",
+          "rgb": [
+            206,
+            177,
+            166
+          ],
+          "share": 2.6,
+          "hue": 16,
+          "lightness": 73,
+          "saturation": 29
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_095_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#675e57",
+          "rgb": [
+            103,
+            94,
+            87
+          ],
+          "share": 43.4,
+          "hue": 26,
+          "lightness": 37,
+          "saturation": 8
+        },
+        {
+          "hex": "#2b2220",
+          "rgb": [
+            43,
+            34,
+            32
+          ],
+          "share": 14.0,
+          "hue": 11,
+          "lightness": 15,
+          "saturation": 15
+        },
+        {
+          "hex": "#533321",
+          "rgb": [
+            83,
+            51,
+            33
+          ],
+          "share": 12.5,
+          "hue": 22,
+          "lightness": 23,
+          "saturation": 43
+        },
+        {
+          "hex": "#9a6426",
+          "rgb": [
+            154,
+            100,
+            38
+          ],
+          "share": 11.9,
+          "hue": 32,
+          "lightness": 38,
+          "saturation": 60
+        },
+        {
+          "hex": "#664a31",
+          "rgb": [
+            102,
+            74,
+            49
+          ],
+          "share": 9.3,
+          "hue": 28,
+          "lightness": 30,
+          "saturation": 35
+        },
+        {
+          "hex": "#a5a295",
+          "rgb": [
+            165,
+            162,
+            149
+          ],
+          "share": 8.9,
+          "hue": 49,
+          "lightness": 62,
+          "saturation": 8
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_096_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#201917",
+          "rgb": [
+            32,
+            25,
+            23
+          ],
+          "share": 71.1,
+          "hue": 13,
+          "lightness": 11,
+          "saturation": 16
+        },
+        {
+          "hex": "#8b7366",
+          "rgb": [
+            139,
+            115,
+            102
+          ],
+          "share": 8.9,
+          "hue": 21,
+          "lightness": 47,
+          "saturation": 15
+        },
+        {
+          "hex": "#6f5d53",
+          "rgb": [
+            111,
+            93,
+            83
+          ],
+          "share": 8.2,
+          "hue": 21,
+          "lightness": 38,
+          "saturation": 14
+        },
+        {
+          "hex": "#e79c57",
+          "rgb": [
+            231,
+            156,
+            87
+          ],
+          "share": 4.3,
+          "hue": 29,
+          "lightness": 62,
+          "saturation": 75
+        },
+        {
+          "hex": "#4d3629",
+          "rgb": [
+            77,
+            54,
+            41
+          ],
+          "share": 4.0,
+          "hue": 22,
+          "lightness": 23,
+          "saturation": 31
+        },
+        {
+          "hex": "#dc7320",
+          "rgb": [
+            220,
+            115,
+            32
+          ],
+          "share": 3.4,
+          "hue": 26,
+          "lightness": 49,
+          "saturation": 75
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/doordash_097_retina-large.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#9f561a",
+          "rgb": [
+            159,
+            86,
+            26
+          ],
+          "share": 55.4,
+          "hue": 27,
+          "lightness": 36,
+          "saturation": 72
+        },
+        {
+          "hex": "#662d11",
+          "rgb": [
+            102,
+            45,
+            17
+          ],
+          "share": 12.3,
+          "hue": 20,
+          "lightness": 23,
+          "saturation": 71
+        },
+        {
+          "hex": "#c8b59e",
+          "rgb": [
+            200,
+            181,
+            158
+          ],
+          "share": 11.2,
+          "hue": 33,
+          "lightness": 70,
+          "saturation": 28
+        },
+        {
+          "hex": "#cd9b65",
+          "rgb": [
+            205,
+            155,
+            101
+          ],
+          "share": 7.1,
+          "hue": 31,
+          "lightness": 60,
+          "saturation": 51
+        },
+        {
+          "hex": "#b28e6a",
+          "rgb": [
+            178,
+            142,
+            106
+          ],
+          "share": 7.1,
+          "hue": 30,
+          "lightness": 56,
+          "saturation": 32
+        },
+        {
+          "hex": "#b6a898",
+          "rgb": [
+            182,
+            168,
+            152
+          ],
+          "share": 6.9,
+          "hue": 32,
+          "lightness": 65,
+          "saturation": 17
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/instagram_001_831959179-17924606103424936-6629754591414443095-.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#180e0a",
+          "rgb": [
+            24,
+            14,
+            10
+          ],
+          "share": 62.7,
+          "hue": 17,
+          "lightness": 7,
+          "saturation": 41
+        },
+        {
+          "hex": "#582a12",
+          "rgb": [
+            88,
+            42,
+            18
+          ],
+          "share": 15.7,
+          "hue": 21,
+          "lightness": 21,
+          "saturation": 66
+        },
+        {
+          "hex": "#ed9f0f",
+          "rgb": [
+            237,
+            159,
+            15
+          ],
+          "share": 8.5,
+          "hue": 39,
+          "lightness": 49,
+          "saturation": 88
+        },
+        {
+          "hex": "#a25713",
+          "rgb": [
+            162,
+            87,
+            19
+          ],
+          "share": 7.0,
+          "hue": 29,
+          "lightness": 35,
+          "saturation": 79
+        },
+        {
+          "hex": "#ce6c0f",
+          "rgb": [
+            206,
+            108,
+            15
+          ],
+          "share": 3.2,
+          "hue": 29,
+          "lightness": 43,
+          "saturation": 86
+        },
+        {
+          "hex": "#f5e5ce",
+          "rgb": [
+            245,
+            229,
+            206
+          ],
+          "share": 3.0,
+          "hue": 35,
+          "lightness": 88,
+          "saturation": 66
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/instagram_002_808136450-17921944980424936-2042201715035785642-.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#555968",
+          "rgb": [
+            85,
+            89,
+            104
+          ],
+          "share": 46.7,
+          "hue": 227,
+          "lightness": 37,
+          "saturation": 10
+        },
+        {
+          "hex": "#e09d58",
+          "rgb": [
+            224,
+            157,
+            88
+          ],
+          "share": 14.3,
+          "hue": 30,
+          "lightness": 61,
+          "saturation": 69
+        },
+        {
+          "hex": "#9e5f29",
+          "rgb": [
+            158,
+            95,
+            41
+          ],
+          "share": 11.2,
+          "hue": 28,
+          "lightness": 39,
+          "saturation": 59
+        },
+        {
+          "hex": "#221c1f",
+          "rgb": [
+            34,
+            28,
+            31
+          ],
+          "share": 10.8,
+          "hue": 330,
+          "lightness": 12,
+          "saturation": 10
+        },
+        {
+          "hex": "#592d16",
+          "rgb": [
+            89,
+            45,
+            22
+          ],
+          "share": 8.9,
+          "hue": 21,
+          "lightness": 22,
+          "saturation": 60
+        },
+        {
+          "hex": "#63728b",
+          "rgb": [
+            99,
+            114,
+            139
+          ],
+          "share": 8.1,
+          "hue": 218,
+          "lightness": 47,
+          "saturation": 17
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/instagram_003_800000894-17921175351424936-7466831351318102490-.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#151b25",
+          "rgb": [
+            21,
+            27,
+            37
+          ],
+          "share": 56.0,
+          "hue": 218,
+          "lightness": 11,
+          "saturation": 28
+        },
+        {
+          "hex": "#512a18",
+          "rgb": [
+            81,
+            42,
+            24
+          ],
+          "share": 17.8,
+          "hue": 19,
+          "lightness": 21,
+          "saturation": 54
+        },
+        {
+          "hex": "#f3ead9",
+          "rgb": [
+            243,
+            234,
+            217
+          ],
+          "share": 14.6,
+          "hue": 39,
+          "lightness": 90,
+          "saturation": 52
+        },
+        {
+          "hex": "#6b472d",
+          "rgb": [
+            107,
+            71,
+            45
+          ],
+          "share": 4.1,
+          "hue": 25,
+          "lightness": 30,
+          "saturation": 41
+        },
+        {
+          "hex": "#615e5d",
+          "rgb": [
+            97,
+            94,
+            93
+          ],
+          "share": 3.8,
+          "hue": 15,
+          "lightness": 37,
+          "saturation": 2
+        },
+        {
+          "hex": "#a3a09d",
+          "rgb": [
+            163,
+            160,
+            157
+          ],
+          "share": 3.6,
+          "hue": 30,
+          "lightness": 63,
+          "saturation": 3
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/instagram_004_785943833-17919240615424936-8999996747219792206-.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#150c07",
+          "rgb": [
+            21,
+            12,
+            7
+          ],
+          "share": 65.1,
+          "hue": 21,
+          "lightness": 5,
+          "saturation": 50
+        },
+        {
+          "hex": "#5a260e",
+          "rgb": [
+            90,
+            38,
+            14
+          ],
+          "share": 15.0,
+          "hue": 19,
+          "lightness": 20,
+          "saturation": 73
+        },
+        {
+          "hex": "#9d5a1f",
+          "rgb": [
+            157,
+            90,
+            31
+          ],
+          "share": 8.7,
+          "hue": 28,
+          "lightness": 37,
+          "saturation": 67
+        },
+        {
+          "hex": "#d9c8b3",
+          "rgb": [
+            217,
+            200,
+            179
+          ],
+          "share": 4.2,
+          "hue": 33,
+          "lightness": 78,
+          "saturation": 33
+        },
+        {
+          "hex": "#6b481f",
+          "rgb": [
+            107,
+            72,
+            31
+          ],
+          "share": 3.6,
+          "hue": 32,
+          "lightness": 27,
+          "saturation": 55
+        },
+        {
+          "hex": "#675c54",
+          "rgb": [
+            103,
+            92,
+            84
+          ],
+          "share": 3.4,
+          "hue": 25,
+          "lightness": 37,
+          "saturation": 10
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/instagram_005_776985045-17917633629424936-541630585167932369-n.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#201513",
+          "rgb": [
+            32,
+            21,
+            19
+          ],
+          "share": 48.3,
+          "hue": 9,
+          "lightness": 10,
+          "saturation": 25
+        },
+        {
+          "hex": "#d3b48d",
+          "rgb": [
+            211,
+            180,
+            141
+          ],
+          "share": 19.3,
+          "hue": 33,
+          "lightness": 69,
+          "saturation": 44
+        },
+        {
+          "hex": "#4d2319",
+          "rgb": [
+            77,
+            35,
+            25
+          ],
+          "share": 10.7,
+          "hue": 12,
+          "lightness": 20,
+          "saturation": 51
+        },
+        {
+          "hex": "#c7a176",
+          "rgb": [
+            199,
+            161,
+            118
+          ],
+          "share": 10.3,
+          "hue": 32,
+          "lightness": 62,
+          "saturation": 42
+        },
+        {
+          "hex": "#b08f6d",
+          "rgb": [
+            176,
+            143,
+            109
+          ],
+          "share": 6.6,
+          "hue": 30,
+          "lightness": 56,
+          "saturation": 30
+        },
+        {
+          "hex": "#dec4a0",
+          "rgb": [
+            222,
+            196,
+            160
+          ],
+          "share": 4.8,
+          "hue": 35,
+          "lightness": 75,
+          "saturation": 48
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/instagram_006_773492598-17917130250424936-2369788459495129287-.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#1f1610",
+          "rgb": [
+            31,
+            22,
+            16
+          ],
+          "share": 46.5,
+          "hue": 24,
+          "lightness": 9,
+          "saturation": 32
+        },
+        {
+          "hex": "#ceb498",
+          "rgb": [
+            206,
+            180,
+            152
+          ],
+          "share": 25.1,
+          "hue": 31,
+          "lightness": 70,
+          "saturation": 36
+        },
+        {
+          "hex": "#af8e6c",
+          "rgb": [
+            175,
+            142,
+            108
+          ],
+          "share": 9.0,
+          "hue": 30,
+          "lightness": 55,
+          "saturation": 30
+        },
+        {
+          "hex": "#4d2e1c",
+          "rgb": [
+            77,
+            46,
+            28
+          ],
+          "share": 8.7,
+          "hue": 22,
+          "lightness": 21,
+          "saturation": 47
+        },
+        {
+          "hex": "#664a30",
+          "rgb": [
+            102,
+            74,
+            48
+          ],
+          "share": 5.4,
+          "hue": 29,
+          "lightness": 29,
+          "saturation": 36
+        },
+        {
+          "hex": "#d9c3aa",
+          "rgb": [
+            217,
+            195,
+            170
+          ],
+          "share": 5.3,
+          "hue": 32,
+          "lightness": 76,
+          "saturation": 38
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/yelp_001_yelp-001.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#665f5c",
+          "rgb": [
+            102,
+            95,
+            92
+          ],
+          "share": 46.9,
+          "hue": 18,
+          "lightness": 38,
+          "saturation": 5
+        },
+        {
+          "hex": "#1a1c24",
+          "rgb": [
+            26,
+            28,
+            36
+          ],
+          "share": 21.4,
+          "hue": 228,
+          "lightness": 12,
+          "saturation": 16
+        },
+        {
+          "hex": "#9fa39f",
+          "rgb": [
+            159,
+            163,
+            159
+          ],
+          "share": 17.3,
+          "hue": 120,
+          "lightness": 63,
+          "saturation": 2
+        },
+        {
+          "hex": "#dbddde",
+          "rgb": [
+            219,
+            221,
+            222
+          ],
+          "share": 6.5,
+          "hue": 200,
+          "lightness": 86,
+          "saturation": 4
+        },
+        {
+          "hex": "#2a344b",
+          "rgb": [
+            42,
+            52,
+            75
+          ],
+          "share": 4.0,
+          "hue": 222,
+          "lightness": 23,
+          "saturation": 28
+        },
+        {
+          "hex": "#54453a",
+          "rgb": [
+            84,
+            69,
+            58
+          ],
+          "share": 4.0,
+          "hue": 25,
+          "lightness": 28,
+          "saturation": 18
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/yelp_002_yelp-002.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#625b56",
+          "rgb": [
+            98,
+            91,
+            86
+          ],
+          "share": 45.1,
+          "hue": 25,
+          "lightness": 36,
+          "saturation": 7
+        },
+        {
+          "hex": "#a39f9c",
+          "rgb": [
+            163,
+            159,
+            156
+          ],
+          "share": 20.3,
+          "hue": 26,
+          "lightness": 63,
+          "saturation": 4
+        },
+        {
+          "hex": "#241f1d",
+          "rgb": [
+            36,
+            31,
+            29
+          ],
+          "share": 18.0,
+          "hue": 17,
+          "lightness": 13,
+          "saturation": 11
+        },
+        {
+          "hex": "#554c37",
+          "rgb": [
+            85,
+            76,
+            55
+          ],
+          "share": 6.4,
+          "hue": 42,
+          "lightness": 27,
+          "saturation": 21
+        },
+        {
+          "hex": "#49382e",
+          "rgb": [
+            73,
+            56,
+            46
+          ],
+          "share": 6.4,
+          "hue": 22,
+          "lightness": 23,
+          "saturation": 23
+        },
+        {
+          "hex": "#d8d3d5",
+          "rgb": [
+            216,
+            211,
+            213
+          ],
+          "share": 3.9,
+          "hue": 336,
+          "lightness": 84,
+          "saturation": 6
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/yelp_003_yelp-003.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#ac895e",
+          "rgb": [
+            172,
+            137,
+            94
+          ],
+          "share": 49.3,
+          "hue": 33,
+          "lightness": 52,
+          "saturation": 32
+        },
+        {
+          "hex": "#947456",
+          "rgb": [
+            148,
+            116,
+            86
+          ],
+          "share": 13.6,
+          "hue": 29,
+          "lightness": 46,
+          "saturation": 26
+        },
+        {
+          "hex": "#aca197",
+          "rgb": [
+            172,
+            161,
+            151
+          ],
+          "share": 12.5,
+          "hue": 29,
+          "lightness": 63,
+          "saturation": 11
+        },
+        {
+          "hex": "#231914",
+          "rgb": [
+            35,
+            25,
+            20
+          ],
+          "share": 11.1,
+          "hue": 20,
+          "lightness": 11,
+          "saturation": 27
+        },
+        {
+          "hex": "#513120",
+          "rgb": [
+            81,
+            49,
+            32
+          ],
+          "share": 7.2,
+          "hue": 21,
+          "lightness": 22,
+          "saturation": 43
+        },
+        {
+          "hex": "#6d5b50",
+          "rgb": [
+            109,
+            91,
+            80
+          ],
+          "share": 6.3,
+          "hue": 23,
+          "lightness": 37,
+          "saturation": 15
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/yelp_004_yelp-004.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#d5a58a",
+          "rgb": [
+            213,
+            165,
+            138
+          ],
+          "share": 60.0,
+          "hue": 22,
+          "lightness": 69,
+          "saturation": 47
+        },
+        {
+          "hex": "#2a1f1b",
+          "rgb": [
+            42,
+            31,
+            27
+          ],
+          "share": 8.7,
+          "hue": 16,
+          "lightness": 14,
+          "saturation": 22
+        },
+        {
+          "hex": "#d09d70",
+          "rgb": [
+            208,
+            157,
+            112
+          ],
+          "share": 8.5,
+          "hue": 28,
+          "lightness": 63,
+          "saturation": 51
+        },
+        {
+          "hex": "#966c62",
+          "rgb": [
+            150,
+            108,
+            98
+          ],
+          "share": 8.3,
+          "hue": 12,
+          "lightness": 49,
+          "saturation": 21
+        },
+        {
+          "hex": "#513127",
+          "rgb": [
+            81,
+            49,
+            39
+          ],
+          "share": 7.6,
+          "hue": 14,
+          "lightness": 24,
+          "saturation": 35
+        },
+        {
+          "hex": "#ad9b92",
+          "rgb": [
+            173,
+            155,
+            146
+          ],
+          "share": 7.0,
+          "hue": 20,
+          "lightness": 63,
+          "saturation": 14
+        }
+      ]
+    },
+    {
+      "file": "brand_library/photos/yelp_005_yelp-005.jpg",
+      "source": "",
+      "palette": [
+        {
+          "hex": "#93735d",
+          "rgb": [
+            147,
+            115,
+            93
+          ],
+          "share": 44.7,
+          "hue": 24,
+          "lightness": 47,
+          "saturation": 22
+        },
+        {
+          "hex": "#a59b96",
+          "rgb": [
+            165,
+            155,
+            150
+          ],
+          "share": 16.5,
+          "hue": 20,
+          "lightness": 62,
+          "saturation": 8
+        },
+        {
+          "hex": "#a6886f",
+          "rgb": [
+            166,
+            136,
+            111
+          ],
+          "share": 13.8,
+          "hue": 27,
+          "lightness": 54,
+          "saturation": 24
+        },
+        {
+          "hex": "#201b1a",
+          "rgb": [
+            32,
+            27,
+            26
+          ],
+          "share": 12.1,
+          "hue": 10,
+          "lightness": 11,
+          "saturation": 10
+        },
+        {
+          "hex": "#91622b",
+          "rgb": [
+            145,
+            98,
+            43
+          ],
+          "share": 7.4,
+          "hue": 32,
+          "lightness": 37,
+          "saturation": 54
+        },
+        {
+          "hex": "#665d59",
+          "rgb": [
+            102,
+            93,
+            89
+          ],
+          "share": 5.5,
+          "hue": 18,
+          "lightness": 37,
+          "saturation": 7
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "file": "brand_library/videos/instagram-reels_001_reel.mp4",
+      "bytes": 190865
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_002_reel.mp4",
+      "bytes": 1813604
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_003_reel.mp4",
+      "bytes": 2043972
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_004_reel.mp4",
+      "bytes": 1335807
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_005_reel.mp4",
+      "bytes": 210054
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_006_reel.mp4",
+      "bytes": 178326
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_007_reel.mp4",
+      "bytes": 4394851
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_008_reel.mp4",
+      "bytes": 1466392
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_009_reel.mp4",
+      "bytes": 167351
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_010_reel.mp4",
+      "bytes": 4115484
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_011_reel.mp4",
+      "bytes": 1892816
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_012_reel.mp4",
+      "bytes": 129141
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_013_reel.mp4",
+      "bytes": 5636937
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_014_reel.mp4",
+      "bytes": 6816411
+    },
+    {
+      "file": "brand_library/videos/instagram-reels_015_reel.mp4",
+      "bytes": 6388261
+    }
+  ]
+}

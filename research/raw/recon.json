@@ -1,0 +1,50 @@
+[
+  {
+    "key": "yelp",
+    "url": "https://www.yelp.com/biz/the-rustic-barrel-king-city-2",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  },
+  {
+    "key": "doordash",
+    "url": "https://doordash.com/store/34689489?src=yp&pickup=true",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  },
+  {
+    "key": "ubereats",
+    "url": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  },
+  {
+    "key": "facebook",
+    "url": "https://www.facebook.com/therusticbarreltaphouse",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  },
+  {
+    "key": "instagram",
+    "url": "https://www.instagram.com/the_rustic_barrel_/",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  },
+  {
+    "key": "site_therusticbarrel_com",
+    "url": "https://www.therusticbarrel.com",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  },
+  {
+    "key": "site_therusticbarrel831_com",
+    "url": "https://www.therusticbarrel831.com",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  },
+  {
+    "key": "site_rusticbarrel_com",
+    "url": "https://www.rusticbarrel.com",
+    "verdict": "ERROR: TypeError",
+    "error": "Invalid argument type: Expected `bool`, got `int` - at `$.network_idle`"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "ubereats": {
+    "file": "partner-ubereats.svg",
+    "source_url": "https://www.ubereats.com/_static/97c43f8974e6c876.svg",
+    "note": "Official Uber Eats horizontal wordmark (134x24) from the live storefront. Single-colour fill recoloured to Bone #F3EAD9 for the dark card - the standard permitted partner treatment."
+  },
+  "doordash": {
+    "file": "partner-doordash.png",
+    "source_url": "https://img.cdn4dd.com/s/managed/catex/logo*.png",
+    "note": "Official DoorDash brand mark from their own CDN, alpha recoloured to Bone. Consider requesting the co-marketing pack from the DoorDash merchant portal for the vector original."
+  }
+}

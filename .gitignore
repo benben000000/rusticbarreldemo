@@ -1,0 +1,31 @@
+# --- toolchains and vendored clones ---------------------------------------
+.venv/
+.browsers/
+Scrapling/
+__pycache__/
+*.pyc
+*.pyo
+
+# --- scraped media ---------------------------------------------------------
+# research/ is ~1 GB once media is counted: 604 MB of .png (Dribbble captures),
+# 246 MB of .jpg, 107 MB of .mp4. GitHub hard-rejects any single file over
+# 100 MB, so this could never be committed as-is.
+#
+# Ignored by extension rather than by directory, so the ~3.5 MB of parsed JSON
+# under research/brand/ - which is what the generator scripts actually read -
+# still lands in the repo. A fresh clone can rebuild every page from it.
+research/**/*.png
+research/**/*.jpg
+research/**/*.jpeg
+research/**/*.webp
+research/**/*.gif
+research/**/*.mp4
+research/**/*.html
+research/**/*.bin
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

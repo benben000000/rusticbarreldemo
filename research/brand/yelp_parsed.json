@@ -1,0 +1,930 @@
+{
+  "source": "Yelp (authenticated session)",
+  "url": "https://www.yelp.com/biz/the-rustic-barrel-king-city-2",
+  "name": "The Rustic Barrel",
+  "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lWJx_zncaVNgy9O6vM_t2w/l.jpg",
+  "telephone": "(831) 601-1397",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "611 Canal St",
+    "addressLocality": "King City",
+    "addressRegion": "CA",
+    "postalCode": "93930",
+    "addressCountry": "US"
+  },
+  "address_formatted": "611 Canal St, King City, CA 93930",
+  "rating": "4.6",
+  "review_count": "59",
+  "price_range": "$$",
+  "categories": [
+    "Beer Bar"
+  ],
+  "hours": {
+    "Mon": "11:30 am – 9:00 pm",
+    "Tue": "Closed",
+    "Wed": "11:30 am – 9:00 pm",
+    "Thu": "11:30 am – 9:00 pm",
+    "Fri": "11:30 am – 9:00 pm",
+    "Sat": "12:00 pm – 9:00 pm",
+    "Sun": "12:00 pm – 8:00 pm"
+  },
+  "geo": {},
+  "amenities": [],
+  "reviews_recovered": [
+    {
+      "author": "",
+      "date": "",
+      "rating": null,
+      "text": "Business video 1 of 1 for The Rustic Barrel uploaded on December 2025 captioned &quot;Mac daddy fries! 10/10 ask for a side of jalapeño ranch!&quot;"
+    }
+  ],
+  "review_count_in_page": 17,
+  "user_photos": [
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/lWJx_zncaVNgy9O6vM_t2w/l.jpg",
+      "caption": "The Rustic Barrel - The Rustic Burger, two angus beef patties, grilled onions topped with bacon crumble and two golden beer battered onion rings. - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-18",
+      "keywords": [
+        "burger",
+        "burgers",
+        "food"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/QWMF9UeFQ1HGFVc_Qrg2Pw/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-15",
+      "keywords": [
+        "interior"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/DeCrNC6EX4hDBSyEqDbZbA/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-15",
+      "keywords": [
+        "poultry",
+        "chicken wings",
+        "bbq chicken",
+        "bbq wings",
+        "food",
+        "fried chicken wings",
+        "chicken",
+        "chicken wings and fried chicken",
+        "fried chicken"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/1EJx6C_-Kn6YDdEWWT696Q/l.jpg",
+      "caption": "The Rustic Barrel - Sweet chili chicken wings - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/4j-W2XWbYvNGWzWlcw39Sg/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-15",
+      "keywords": [
+        "steak",
+        "food"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/YAiPaziejMmlKQuLq8gxkw/l.jpg",
+      "caption": "The Rustic Barrel - Sneak peek of our Santa Maria Styled Tri-Tip - King City, CA",
+      "author": "Mike W.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/d60YZxY5GF-MdPLwwiok6w/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "Mike W.",
+      "rating": "5",
+      "date": "2026-04-03",
+      "keywords": []
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/3i-qGcPKs-We8WfpwnKZQA/l.jpg",
+      "caption": "The Rustic Barrel - Come in and enjoy sum run - King City, CA",
+      "author": "Tiffany T.",
+      "rating": "5",
+      "date": "2026-04-20",
+      "keywords": [
+        "sushi and sashimi",
+        "food",
+        "sashimi",
+        "sushi"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/5qZek7VUTbc0Fg6uOV_95g/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "Franky Z.",
+      "rating": "5",
+      "date": "2026-06-29",
+      "keywords": [
+        "pizza",
+        "menu"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/bAVISk1UF1CYl3orJGaHYg/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2026-06-29",
+      "keywords": [
+        "combos",
+        "meat combos",
+        "ribs",
+        "bbq ribs",
+        "food",
+        "meat combo",
+        "meat"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Id4RG8wZgSZrx77QsWf1Tg/l.jpg",
+      "caption": "The Rustic Barrel - Two,, 2 meat combos. Tri-tip, Ribs, homemade mac n cheese and garlic bread - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/UXqlb9x2zLjp5RrshAVAwg/l.jpg",
+      "caption": "The Rustic Barrel - 3 Meat Combo - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2026-01-23",
+      "keywords": [
+        "combo",
+        "food",
+        "3",
+        "meat combos",
+        "meat",
+        "ribs",
+        "combos",
+        "3 meat combo",
+        "bbq ribs",
+        "meat combo"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Bu5XawbtCnVdAWeQjSAdFg/l.jpg",
+      "caption": "The Rustic Barrel - Multi-Tap bar - King City, CA",
+      "author": "Ruben Z.",
+      "rating": "5",
+      "date": "2026-07-20",
+      "keywords": [
+        "interior"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/C-B1y7xOqceF6bAzQtQKgA/l.jpg",
+      "caption": "The Rustic Barrel - Our 3 meat combo with double tri-tip, ribs, fries, side salad and corn bread. - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "food"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/XcVYvoWmGRdv5514qeGyxg/l.jpg",
+      "caption": "The Rustic Barrel - Our 3 meat combo with double tri-tip, ribs, fries, side salad and corn bread. - King City, CA",
+      "author": "Tubz L.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/-vh3S4SYXHDF4mBMqwow2w/l.jpg",
+      "caption": "The Rustic Barrel - Don&apos;t miss a game, watch your favorite sports with us! - King City, CA",
+      "author": "Tubz L.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/wpWrB6fDhRlpJwNp5BLnNA/l.jpg",
+      "caption": "The Rustic Barrel - Don&apos;t miss a game, watch your favorite sports with us! - King City, CA",
+      "author": "T A.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "salad",
+        "salads",
+        "food"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/_OrA-5pvJR8fr9KNfSKDuw/l.jpg",
+      "caption": "The Rustic Barrel - Dark Wolf and Bad Apple - King City, CA",
+      "author": "T A.",
+      "rating": "4",
+      "date": "2026-06-28",
+      "keywords": [
+        "drink"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/0thWzi9NNre0ndqFoxj1Kg/l.jpg",
+      "caption": "The Rustic Barrel - 3 meat plate with mac and side salad - King City, CA",
+      "author": "E W.",
+      "rating": "5",
+      "date": "2026-08-25",
+      "keywords": [
+        "3 meat combo",
+        "food",
+        "meat",
+        "combo",
+        "3",
+        "meat combo"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/-xp7YhPP6act5bjhVGNFpg/l.jpg",
+      "caption": "The Rustic Barrel - Take a break and play a few games. - King City, CA",
+      "author": "T A.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/WOElVSN_tCCibEn5xklLvA/l.jpg",
+      "caption": "The Rustic Barrel - Take a break and play a few games. - King City, CA",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "tri tip",
+        "meat combos",
+        "bagels",
+        "combos",
+        "tri",
+        "tip",
+        "tri-tip",
+        "food",
+        "bagel",
+        "meat combo",
+        "tri-tip sandwich",
+        "meat",
+        "sandwich"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/DSKmNd63jN6FmpWWcUYSBg/l.jpg",
+      "caption": "The Rustic Barrel - The Deluxe Smash Burger - King City, CA",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "burger",
+        "burgers",
+        "food"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/gY4T4Ueg-wTiCwihNY_d3g/l.jpg",
+      "caption": "The Rustic Barrel - The Deluxe Smash Burger - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/0nPPBYJUM1VVm61rHCN_1Q/l.jpg",
+      "caption": "The Rustic Barrel - Can&apos;t decide on what drink to order? Grab a beer flight and enjoy! - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/WOElVSN_tCCibEn5xklLvA/258s.jpg",
+      "caption": "Tri-tip Sandwich",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2025-12-30",
+      "keywords": [
+        "tri tip",
+        "meat combos",
+        "bagels",
+        "combos",
+        "tri",
+        "tip",
+        "tri-tip",
+        "food",
+        "bagel",
+        "meat combo",
+        "tri-tip sandwich",
+        "meat",
+        "sandwich"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/UXqlb9x2zLjp5RrshAVAwg/258s.jpg",
+      "caption": "3 Meat Combo",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2026-01-22",
+      "keywords": [
+        "combo",
+        "food",
+        "3",
+        "meat combos",
+        "meat",
+        "ribs",
+        "combos",
+        "3 meat combo",
+        "bbq ribs",
+        "meat combo"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/OHjfg7wgEKosRmgQYB6jxw/258s.jpg",
+      "caption": "Pulled Pork Sandwich",
+      "author": "Ruben Z.",
+      "rating": "5",
+      "date": "2025-10-29",
+      "keywords": [
+        "pulled pork sandwich",
+        "pulled",
+        "sandwich",
+        "food",
+        "pulled pork",
+        "pork",
+        "tri",
+        "tri-tip",
+        "tip",
+        "tri-tip sandwich",
+        "tri tip",
+        "meat",
+        "bbq pork"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/DSKmNd63jN6FmpWWcUYSBg/258s.jpg",
+      "caption": "Smash Burger",
+      "author": "Tammy P.",
+      "rating": "5",
+      "date": "2025-11-17",
+      "keywords": [
+        "burger",
+        "burgers",
+        "food"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/bAVISk1UF1CYl3orJGaHYg/258s.jpg",
+      "caption": "Smash Burger",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-17",
+      "keywords": [
+        "combos",
+        "meat combos",
+        "ribs",
+        "bbq ribs",
+        "food",
+        "meat combo",
+        "meat"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/hfRigs32fPHlZDuOmp4NEA/258s.jpg",
+      "caption": "Meat Combos",
+      "author": "Victoria S.",
+      "rating": "5",
+      "date": "2025-11-17",
+      "keywords": [
+        "food",
+        "mac daddy",
+        "mac",
+        "waffles",
+        "daddy"
+      ]
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/CY5I9P2ADCyXSrSogAqcwg/258s.jpg",
+      "caption": "Chopped Brisket Sandwich",
+      "author": "Victoria S.",
+      "rating": "5",
+      "date": "2026-07-19",
+      "keywords": [
+        "brisket",
+        "sandwich",
+        "chopped brisket sandwich",
+        "food",
+        "bbq brisket",
+        "sandwiches",
+        "brisket sandwich",
+        "chopped"
+      ]
+    }
+  ],
+  "user_photos_downloaded": [
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/lWJx_zncaVNgy9O6vM_t2w/l.jpg",
+      "caption": "The Rustic Barrel - The Rustic Burger, two angus beef patties, grilled onions topped with bacon crumble and two golden beer battered onion rings. - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-18",
+      "keywords": [
+        "burger",
+        "burgers",
+        "food"
+      ],
+      "file": "media/photos/l-957bd4cd.jpg",
+      "bytes": 18753
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/QWMF9UeFQ1HGFVc_Qrg2Pw/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-15",
+      "keywords": [
+        "interior"
+      ],
+      "file": "media/photos/l-cc64d0e3.jpg",
+      "bytes": 25226
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/DeCrNC6EX4hDBSyEqDbZbA/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-15",
+      "keywords": [
+        "poultry",
+        "chicken wings",
+        "bbq chicken",
+        "bbq wings",
+        "food",
+        "fried chicken wings",
+        "chicken",
+        "chicken wings and fried chicken",
+        "fried chicken"
+      ],
+      "file": "media/photos/l-c274a9e2.jpg",
+      "bytes": 21667
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/1EJx6C_-Kn6YDdEWWT696Q/l.jpg",
+      "caption": "The Rustic Barrel - Sweet chili chicken wings - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ],
+      "file": "media/photos/l-a1f89b28.jpg",
+      "bytes": 18858
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/4j-W2XWbYvNGWzWlcw39Sg/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-15",
+      "keywords": [
+        "steak",
+        "food"
+      ],
+      "file": "media/photos/l-8667d752.jpg",
+      "bytes": 24195
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/YAiPaziejMmlKQuLq8gxkw/l.jpg",
+      "caption": "The Rustic Barrel - Sneak peek of our Santa Maria Styled Tri-Tip - King City, CA",
+      "author": "Mike W.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ],
+      "file": "media/photos/l-4508f5d9.jpg",
+      "bytes": 26716
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/d60YZxY5GF-MdPLwwiok6w/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "Mike W.",
+      "rating": "5",
+      "date": "2026-04-03",
+      "keywords": [],
+      "file": "media/photos/l-26397d71.jpg",
+      "bytes": 50919
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/3i-qGcPKs-We8WfpwnKZQA/l.jpg",
+      "caption": "The Rustic Barrel - Come in and enjoy sum run - King City, CA",
+      "author": "Tiffany T.",
+      "rating": "5",
+      "date": "2026-04-20",
+      "keywords": [
+        "sushi and sashimi",
+        "food",
+        "sashimi",
+        "sushi"
+      ],
+      "file": "media/photos/l-373f54c0.jpg",
+      "bytes": 22820
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/5qZek7VUTbc0Fg6uOV_95g/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "Franky Z.",
+      "rating": "5",
+      "date": "2026-06-29",
+      "keywords": [
+        "pizza",
+        "menu"
+      ],
+      "file": "media/photos/l-3d039c6e.jpg",
+      "bytes": 65653
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/bAVISk1UF1CYl3orJGaHYg/l.jpg",
+      "caption": "The Rustic Barrel - King City, CA",
+      "author": "",
+      "rating": null,
+      "date": "2026-06-29",
+      "keywords": [
+        "combos",
+        "meat combos",
+        "ribs",
+        "bbq ribs",
+        "food",
+        "meat combo",
+        "meat"
+      ],
+      "file": "media/photos/l-e063291f.jpg",
+      "bytes": 31269
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Id4RG8wZgSZrx77QsWf1Tg/l.jpg",
+      "caption": "The Rustic Barrel - Two,, 2 meat combos. Tri-tip, Ribs, homemade mac n cheese and garlic bread - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ],
+      "file": "media/photos/l-dd7e3ed4.jpg",
+      "bytes": 33286
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/UXqlb9x2zLjp5RrshAVAwg/l.jpg",
+      "caption": "The Rustic Barrel - 3 Meat Combo - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2026-01-23",
+      "keywords": [
+        "combo",
+        "food",
+        "3",
+        "meat combos",
+        "meat",
+        "ribs",
+        "combos",
+        "3 meat combo",
+        "bbq ribs",
+        "meat combo"
+      ],
+      "file": "media/photos/l-a880958f.jpg",
+      "bytes": 41717
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Bu5XawbtCnVdAWeQjSAdFg/l.jpg",
+      "caption": "The Rustic Barrel - Multi-Tap bar - King City, CA",
+      "author": "Ruben Z.",
+      "rating": "5",
+      "date": "2026-07-20",
+      "keywords": [
+        "interior"
+      ],
+      "file": "media/photos/l-d774c985.jpg",
+      "bytes": 26011
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/C-B1y7xOqceF6bAzQtQKgA/l.jpg",
+      "caption": "The Rustic Barrel - Our 3 meat combo with double tri-tip, ribs, fries, side salad and corn bread. - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "food"
+      ],
+      "file": "media/photos/l-fc33e20b.jpg",
+      "bytes": 42898
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/XcVYvoWmGRdv5514qeGyxg/l.jpg",
+      "caption": "The Rustic Barrel - Our 3 meat combo with double tri-tip, ribs, fries, side salad and corn bread. - King City, CA",
+      "author": "Tubz L.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ],
+      "file": "media/photos/l-cd2e7253.jpg",
+      "bytes": 18926
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/-vh3S4SYXHDF4mBMqwow2w/l.jpg",
+      "caption": "The Rustic Barrel - Don&apos;t miss a game, watch your favorite sports with us! - King City, CA",
+      "author": "Tubz L.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ],
+      "file": "media/photos/l-47e783bc.jpg",
+      "bytes": 28483
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/wpWrB6fDhRlpJwNp5BLnNA/l.jpg",
+      "caption": "The Rustic Barrel - Don&apos;t miss a game, watch your favorite sports with us! - King City, CA",
+      "author": "T A.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "salad",
+        "salads",
+        "food"
+      ],
+      "file": "media/photos/l-cd6b362c.jpg",
+      "bytes": 18605
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/_OrA-5pvJR8fr9KNfSKDuw/l.jpg",
+      "caption": "The Rustic Barrel - Dark Wolf and Bad Apple - King City, CA",
+      "author": "T A.",
+      "rating": "4",
+      "date": "2026-06-28",
+      "keywords": [
+        "drink"
+      ],
+      "file": "media/photos/l-2b584f79.jpg",
+      "bytes": 24662
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/0thWzi9NNre0ndqFoxj1Kg/l.jpg",
+      "caption": "The Rustic Barrel - 3 meat plate with mac and side salad - King City, CA",
+      "author": "E W.",
+      "rating": "5",
+      "date": "2026-08-25",
+      "keywords": [
+        "3 meat combo",
+        "food",
+        "meat",
+        "combo",
+        "3",
+        "meat combo"
+      ],
+      "file": "media/photos/l-58303084.jpg",
+      "bytes": 19902
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/-xp7YhPP6act5bjhVGNFpg/l.jpg",
+      "caption": "The Rustic Barrel - Take a break and play a few games. - King City, CA",
+      "author": "T A.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "interior"
+      ],
+      "file": "media/photos/l-6d97ae2d.jpg",
+      "bytes": 28841
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/WOElVSN_tCCibEn5xklLvA/l.jpg",
+      "caption": "The Rustic Barrel - Take a break and play a few games. - King City, CA",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "tri tip",
+        "meat combos",
+        "bagels",
+        "combos",
+        "tri",
+        "tip",
+        "tri-tip",
+        "food",
+        "bagel",
+        "meat combo",
+        "tri-tip sandwich",
+        "meat",
+        "sandwich"
+      ],
+      "file": "media/photos/l-2e3842f2.jpg",
+      "bytes": 46334
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/DSKmNd63jN6FmpWWcUYSBg/l.jpg",
+      "caption": "The Rustic Barrel - The Deluxe Smash Burger - King City, CA",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2025-11-18",
+      "keywords": [
+        "burger",
+        "burgers",
+        "food"
+      ],
+      "file": "media/photos/l-28876fbf.jpg",
+      "bytes": 22517
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/gY4T4Ueg-wTiCwihNY_d3g/l.jpg",
+      "caption": "The Rustic Barrel - The Deluxe Smash Burger - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ],
+      "file": "media/photos/l-0a483d2e.jpg",
+      "bytes": 33944
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/0nPPBYJUM1VVm61rHCN_1Q/l.jpg",
+      "caption": "The Rustic Barrel - Can&apos;t decide on what drink to order? Grab a beer flight and enjoy! - King City, CA",
+      "author": "Patrick T.",
+      "rating": "5",
+      "date": "2025-11-18",
+      "keywords": [
+        "drink"
+      ],
+      "file": "media/photos/l-5282ad7e.jpg",
+      "bytes": 21842
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/WOElVSN_tCCibEn5xklLvA/258s.jpg",
+      "caption": "Tri-tip Sandwich",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2025-12-30",
+      "keywords": [
+        "tri tip",
+        "meat combos",
+        "bagels",
+        "combos",
+        "tri",
+        "tip",
+        "tri-tip",
+        "food",
+        "bagel",
+        "meat combo",
+        "tri-tip sandwich",
+        "meat",
+        "sandwich"
+      ],
+      "file": "media/photos/258s-bbc48ec2.jpg",
+      "bytes": 16908
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/UXqlb9x2zLjp5RrshAVAwg/258s.jpg",
+      "caption": "3 Meat Combo",
+      "author": "Arley D.",
+      "rating": "4",
+      "date": "2026-01-22",
+      "keywords": [
+        "combo",
+        "food",
+        "3",
+        "meat combos",
+        "meat",
+        "ribs",
+        "combos",
+        "3 meat combo",
+        "bbq ribs",
+        "meat combo"
+      ],
+      "file": "media/photos/258s-e7c3e537.jpg",
+      "bytes": 15583
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/OHjfg7wgEKosRmgQYB6jxw/258s.jpg",
+      "caption": "Pulled Pork Sandwich",
+      "author": "Ruben Z.",
+      "rating": "5",
+      "date": "2025-10-29",
+      "keywords": [
+        "pulled pork sandwich",
+        "pulled",
+        "sandwich",
+        "food",
+        "pulled pork",
+        "pork",
+        "tri",
+        "tri-tip",
+        "tip",
+        "tri-tip sandwich",
+        "tri tip",
+        "meat",
+        "bbq pork"
+      ],
+      "file": "media/photos/258s-9c992162.jpg",
+      "bytes": 17572
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/DSKmNd63jN6FmpWWcUYSBg/258s.jpg",
+      "caption": "Smash Burger",
+      "author": "Tammy P.",
+      "rating": "5",
+      "date": "2025-11-17",
+      "keywords": [
+        "burger",
+        "burgers",
+        "food"
+      ],
+      "file": "media/photos/258s-523870f0.jpg",
+      "bytes": 14216
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/bAVISk1UF1CYl3orJGaHYg/258s.jpg",
+      "caption": "Smash Burger",
+      "author": "",
+      "rating": null,
+      "date": "2025-11-17",
+      "keywords": [
+        "combos",
+        "meat combos",
+        "ribs",
+        "bbq ribs",
+        "food",
+        "meat combo",
+        "meat"
+      ],
+      "file": "media/photos/258s-42d0bcb3.jpg",
+      "bytes": 18858
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/hfRigs32fPHlZDuOmp4NEA/258s.jpg",
+      "caption": "Meat Combos",
+      "author": "Victoria S.",
+      "rating": "5",
+      "date": "2025-11-17",
+      "keywords": [
+        "food",
+        "mac daddy",
+        "mac",
+        "waffles",
+        "daddy"
+      ],
+      "file": "media/photos/258s-6374babe.jpg",
+      "bytes": 16946
+    },
+    {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/CY5I9P2ADCyXSrSogAqcwg/258s.jpg",
+      "caption": "Chopped Brisket Sandwich",
+      "author": "Victoria S.",
+      "rating": "5",
+      "date": "2026-07-19",
+      "keywords": [
+        "brisket",
+        "sandwich",
+        "chopped brisket sandwich",
+        "food",
+        "bbq brisket",
+        "sandwiches",
+        "brisket sandwich",
+        "chopped"
+      ],
+      "file": "media/photos/258s-89fd74a9.jpg",
+      "bytes": 14033
+    }
+  ]
+}

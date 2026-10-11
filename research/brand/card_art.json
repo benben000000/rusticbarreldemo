@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "taproom",
+    "source": "yelp bphoto Bu5XawbtCnVdAWeQjSAdFg",
+    "source_file": "orig-Bu5XawbtCnVdAWeQjSAdFg.jpg",
+    "source_size": "750x1000",
+    "crop": "square, focal (0.4, 0.75), side 0.34",
+    "alt": "The multi-tap bar: a hand-lettered chalkboard listing California craft above a row of tap handles",
+    "variants": [
+      "card-taproom-160.webp",
+      "card-taproom-320.webp"
+    ]
+  },
+  {
+    "slug": "santamaria",
+    "source": "yelp bphoto C-B1y7xOqceF6bAzQtQKgA",
+    "source_file": "orig-C-B1y7xOqceF6bAzQtQKgA.jpg",
+    "source_size": "1000x750",
+    "crop": "square, focal (0.5, 0.52), side 0.86",
+    "alt": "A three-meat plate: sliced Santa Maria tri-tip, slow-smoked ribs, house fries and a side salad",
+    "variants": [
+      "card-santamaria-160.webp",
+      "card-santamaria-320.webp"
+    ]
+  },
+  {
+    "slug": "bigscreen",
+    "source": "yelp bphoto -vh3S4SYXHDF4mBMqwow2w",
+    "source_file": "orig--vh3S4SYXHDF4mBMqwow2w.jpg",
+    "source_size": "750x1000",
+    "crop": "square, focal (0.45, 0.35), side 0.38",
+    "alt": "A row of four wall-mounted screens showing live sport above the bar's chalkboard beer list",
+    "variants": [
+      "card-bigscreen-160.webp",
+      "card-bigscreen-320.webp"
+    ]
+  }
+]

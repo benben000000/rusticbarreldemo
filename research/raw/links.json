@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Order Here!",
+    "url": "https://www.order.online/store/34689489?hideModal=true&pickup=true",
+    "kind": "ordering",
+    "host": "www.order.online"
+  },
+  {
+    "title": "The Rustic Barrel Menu",
+    "url": "https://canva.link/jn02vj7qvspjnja",
+    "kind": "menu",
+    "host": "canva.link"
+  },
+  {
+    "title": "Untappd",
+    "url": "https://untp.beer/450efae094",
+    "kind": "beer",
+    "host": "untp.beer"
+  },
+  {
+    "title": "Follow Our Instagram",
+    "url": "https://www.instagram.com/the_rustic_barrel_?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr",
+    "kind": "social-image",
+    "host": "www.instagram.com"
+  },
+  {
+    "title": "Follow us on TikTok ",
+    "url": "https://www.tiktok.com/@therusticbarrel831?_r=1&_t=zp-99lu2zvrs4u",
+    "kind": "social-video",
+    "host": "www.tiktok.com"
+  },
+  {
+    "title": "Leave Us a Yelp Review",
+    "url": "https://www.yelp.com/biz/the-rustic-barrel-king-city-2",
+    "kind": "review",
+    "host": "www.yelp.com"
+  },
+  {
+    "title": "Leave Us a Google Review",
+    "url": "https://www.google.com/search?sca_esv=c4dc2b92c0ad888e&rlz=1C1ONGR_enUS1116US1116&sxsrf=AE3TifOZyY6eIufYbq2IWUAj88vFBo_I4g:1752516462794&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E1YyLhpFTJZ4RZvnuvrJMX4NvzQRAz4R1Mv36uW4TQyJSXYuoqRFI2fbwdc6dg0SD5b-hVGX-WrfV64jjyA8u4JzRd9VnGfzzclAthj_x-XhOWk2og%3D%3D&q=The+Rustic+Barrel+Reviews&sa=X&ved=2ahUKEwjbjenJ-LyOAxW0JkQIHQFENpEQ0bkNegQIHxAD&biw=1920&bih=911&dpr=1",
+    "kind": "review",
+    "host": "www.google.com"
+  }
+]

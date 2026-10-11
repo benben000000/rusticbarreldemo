@@ -1,0 +1,156 @@
+[
+  {
+    "item": "Garden Wrap",
+    "menu_price": 14.0,
+    "doordash_price": 16.67,
+    "delta": 2.67,
+    "pct": 19.1
+  },
+  {
+    "item": "Dr. Pepper",
+    "menu_price": 3.0,
+    "doordash_price": 3.13,
+    "delta": 0.13,
+    "pct": 4.3
+  },
+  {
+    "item": "Squirt",
+    "menu_price": 3.0,
+    "doordash_price": 3.13,
+    "delta": 0.13,
+    "pct": 4.3
+  },
+  {
+    "item": "Classic Quesadilla",
+    "menu_price": 10.0,
+    "doordash_price": 10.42,
+    "delta": 0.42,
+    "pct": 4.2
+  },
+  {
+    "item": "Chicken Wings",
+    "menu_price": 16.0,
+    "doordash_price": 16.67,
+    "delta": 0.67,
+    "pct": 4.2
+  },
+  {
+    "item": "Hot Daddy Fries",
+    "menu_price": 17.0,
+    "doordash_price": 17.71,
+    "delta": 0.71,
+    "pct": 4.2
+  },
+  {
+    "item": "Rustic Burger",
+    "menu_price": 28.0,
+    "doordash_price": 29.17,
+    "delta": 1.17,
+    "pct": 4.2
+  },
+  {
+    "item": "Cowboy Candy",
+    "menu_price": 10.0,
+    "doordash_price": 10.42,
+    "delta": 0.42,
+    "pct": 4.2
+  },
+  {
+    "item": "Chicken Wings",
+    "menu_price": 16.0,
+    "doordash_price": 16.67,
+    "delta": 0.67,
+    "pct": 4.2
+  },
+  {
+    "item": "Hog Fries",
+    "menu_price": 12.0,
+    "doordash_price": 12.5,
+    "delta": 0.5,
+    "pct": 4.2
+  },
+  {
+    "item": "Mac Daddy Fries",
+    "menu_price": 17.0,
+    "doordash_price": 17.71,
+    "delta": 0.71,
+    "pct": 4.2
+  },
+  {
+    "item": "Rustic Burger",
+    "menu_price": 28.0,
+    "doordash_price": 29.17,
+    "delta": 1.17,
+    "pct": 4.2
+  },
+  {
+    "item": "Cowboy Candy",
+    "menu_price": 10.0,
+    "doordash_price": 10.42,
+    "delta": 0.42,
+    "pct": 4.2
+  },
+  {
+    "item": "Pulled Pork Sandwich",
+    "menu_price": 22.0,
+    "doordash_price": 22.92,
+    "delta": 0.92,
+    "pct": 4.2
+  },
+  {
+    "item": "Side of Meat",
+    "menu_price": 12.0,
+    "doordash_price": 12.5,
+    "delta": 0.5,
+    "pct": 4.2
+  },
+  {
+    "item": "Tri-Tip Sandwich",
+    "menu_price": 22.0,
+    "doordash_price": 22.92,
+    "delta": 0.92,
+    "pct": 4.2
+  },
+  {
+    "item": "Pulled Pork Sandwich",
+    "menu_price": 22.0,
+    "doordash_price": 22.92,
+    "delta": 0.92,
+    "pct": 4.2
+  },
+  {
+    "item": "BBQ Chicken Sandwich",
+    "menu_price": 22.0,
+    "doordash_price": 22.92,
+    "delta": 0.92,
+    "pct": 4.2
+  },
+  {
+    "item": "Side of Meat",
+    "menu_price": 12.0,
+    "doordash_price": 12.5,
+    "delta": 0.5,
+    "pct": 4.2
+  },
+  {
+    "item": "French Fries",
+    "menu_price": 8.0,
+    "doordash_price": 8.33,
+    "delta": 0.33,
+    "pct": 4.1
+  },
+  {
+    "item": "Onion Rings",
+    "menu_price": 8.0,
+    "doordash_price": 8.33,
+    "delta": 0.33,
+    "pct": 4.1
+  },
+  {
+    "item": "Apple Juice",
+    "menu_price": 3.0,
+    "doordash_price": 2.08,
+    "delta": -0.92,
+    "pct": -30.7
+  }
+]

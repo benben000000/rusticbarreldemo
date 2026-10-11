@@ -1,0 +1,18 @@
+{
+  "asset": "The Rustic Barrel engraved barrel logo",
+  "found_at": "DoorDash store cover image",
+  "source_url": "https://doordash-static.s3.amazonaws.com/media/restaurant/cover/4344682f-ee49-4e45-b109-6b0ce6abf3a8.png",
+  "local_source": "research/media/logo_candidates/restaurant-cover.png",
+  "treatment": "Extracted only. The subject is cropped from its white ground using the alpha-safe bounding box of non-white pixels. Two ground variants are produced (white / Charred Oak) because the artwork is black line art and would be invisible on the dark site. No lettering, shape or proportion was altered.",
+  "outputs": [
+    "logo-mark.png",
+    "logo-mark.webp",
+    "logo-mark-dark.png",
+    "logo-mark-dark.webp",
+    "logo-avatar.png",
+    "logo-avatar-dark.png",
+    "logo-avatar-dark.webp",
+    "logo-icon-192.png",
+    "logo-icon-512.png"
+  ]
+}

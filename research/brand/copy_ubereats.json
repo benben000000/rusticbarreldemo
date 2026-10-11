@@ -1,0 +1,109 @@
+{
+  "meta_title": "The Rustic Barrel | Menu | San Francisco Bay Area | Uber Eats",
+  "meta_description": "Interested in The Rustic Barrel? Find information about its location, offerings, and more. Order from one of the many places offering delivery or pickup in San Francisco Bay Area on Uber Eats.",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "The Rustic Barrel",
+      "family": "UberMove, sans-serif",
+      "size": "32px",
+      "weight": "700",
+      "transform": "none",
+      "ls": "normal",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H2",
+      "text": "611 Canal St, King City, CA 93930",
+      "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "transform": "none",
+      "ls": "normal",
+      "color": "rgb(0, 0, 0)"
+    }
+  ],
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Restaurant",
+      "@id": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag",
+      "name": "The Rustic Barrel",
+      "servesCuisine": [
+        "American",
+        "Burgers",
+        "Sandwiches"
+      ],
+      "priceRange": "",
+      "image": [],
+      "potentialAction": {
+        "@type": "OrderAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag?utm_campaign=order-action&amp;utm_medium=organic",
+          "inLanguage": "English",
+          "actionPlatform": [
+            "https://schema.org/DesktopWebPlatform",
+            "https://schema.org/MobileWebPlatform"
+          ]
+        },
+        "deliveryMethod": [
+          "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "King City",
+        "addressRegion": "CA",
+        "postalCode": "93930",
+        "addressCountry": "US",
+        "streetAddress": "611 Canal St"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.2025,
+        "longitude": -121.12794
+      },
+      "telephone": "",
+      "aggregateRating": {},
+      "openingHoursSpecification": []
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "United States",
+          "item": "https://www.ubereats.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Rustic Barrel",
+          "item": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+        }
+      ]
+    }
+  ],
+  "all_meta": {
+    "botdefense-enabled": "false",
+    "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+    "theme-color": "#000000",
+    "google-site-verification": "LZ1PBBewAIw1QSKSNu_29oArwY7FU8A5GvhVKt9DooE",
+    "robots": "index, follow",
+    "og:url": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag",
+    "twitter:url": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag",
+    "og:image": "https://tb-static.uber.com/prod/web-eats-v2/open-graph/uber-eats.jpg",
+    "twitter:image": "https://tb-static.uber.com/prod/web-eats-v2/open-graph/uber-eats.jpg",
+    "og:type": "website",
+    "twitter:card": "summary_large_image",
+    "og:title": "The Rustic Barrel | Menu | San Francisco Bay Area | Uber Eats",
+    "twitter:title": "The Rustic Barrel | Menu | San Francisco Bay Area | Uber Eats",
+    "description": "Interested in The Rustic Barrel? Find information about its location, offerings, and more. Order from one of the many places offering delivery or pickup in San Francisco Bay Area on Uber Eats.",
+    "og:description": "Interested in The Rustic Barrel? Find information about its location, offerings, and more. Order from one of the many places offering delivery or pickup in San Francisco Bay Area on Uber Eats.",
+    "twitter:description": "Interested in The Rustic Barrel? Find information about its location, offerings, and more. Order from one of the many places offering delivery or pickup in San Francisco Bay Area on Uber Eats.",
+    "ciid": "96eb1812-71dc-4baf-90f0-ba0683bd6378"
+  }
+}

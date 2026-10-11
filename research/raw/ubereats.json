@@ -1,0 +1,2082 @@
+{
+  "key": "ubereats",
+  "url": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag",
+  "status": 200,
+  "final_url": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag",
+  "title": "The Rustic Barrel | Menu | San Francisco Bay Area | Uber Eats",
+  "dom": {
+    "imgs": [
+      {
+        "src": "https://www.ubereats.com/_static/31ee382bd0e6ed84.svg",
+        "alt": "Uber Eats",
+        "width": 150,
+        "height": 150,
+        "cls": "_jv _jw _jx _it"
+      },
+      {
+        "src": "https://www.ubereats.com/_static/97c43f8974e6c876.svg",
+        "alt": "Uber Eats Home",
+        "width": 134,
+        "height": 24,
+        "cls": "_dy _dz _e0 _e1"
+      },
+      {
+        "src": "https://www.ubereats.com/_static/97c43f8974e6c876.svg",
+        "alt": "Uber Eats",
+        "width": 134,
+        "height": 24,
+        "cls": "_dy _dz _fj _in"
+      },
+      {
+        "src": "https://www.ubereats.com/_static/783bb4a82e5be29e.svg",
+        "alt": "Download on the App Store",
+        "width": 135,
+        "height": 40,
+        "cls": "_dz"
+      },
+      {
+        "src": "https://www.ubereats.com/_static/163bdc9b0f1e7c9e.png",
+        "alt": "Get it on Google Play",
+        "width": 564,
+        "height": 168,
+        "cls": "_dz"
+      },
+      {
+        "src": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FManila%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261080%260%26na&eci=3&event=%7B%7D&event_id=3b3ce680-9f42-44d7-badb-0fcffb1e42da&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=03a86ee7-7907-4a42-a49c-a1a6b984731b&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&tw_document_referrer=https%3A%2F%2Fwww.google.com%2F&tw_engaged_ms=8&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791693095618-369559177&twpid=tw.1791693095618.239309061444431974&txn_id=o43i6&type=javascript&version=2.4.11",
+        "alt": "",
+        "width": 1,
+        "height": 1,
+        "cls": ""
+      },
+      {
+        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FManila%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261080%260%26na&eci=3&event=%7B%7D&event_id=3b3ce680-9f42-44d7-badb-0fcffb1e42da&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=03a86ee7-7907-4a42-a49c-a1a6b984731b&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&tw_document_referrer=https%3A%2F%2Fwww.google.com%2F&tw_engaged_ms=8&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791693095618-369559177&twpid=tw.1791693095618.239309061444431974&txn_id=o43i6&type=javascript&version=2.4.11",
+        "alt": "",
+        "width": 1,
+        "height": 1,
+        "cls": ""
+      },
+      {
+        "src": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FManila%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261080%260%26na&eci=4&event=%7B%22contents%22%3A%5B%5D%2C%22conversion_id%22%3A%2268b16441337e8a865c8f41bab698b5a4%22%7D&event_id=63ef7988-6f5f-4a66-8a19-b4d7c7360a64&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=03a86ee7-7907-4a42-a49c-a1a6b984731b&tw_ch_fvl=Chromium%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&tw_document_referrer=https%3A%2F%2Fwww.google.com%2F&tw_engaged_ms=4&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791693095618-369559177&tw_session_start=1&twpid=tw.1791693095618.239309061444431974&txn_id=tw-o43i6-oc3wp&type=javascript&version=2.4.11",
+        "alt": "",
+        "width": 1,
+        "height": 1,
+        "cls": ""
+      },
+      {
+        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FManila%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261080%260%26na&eci=4&event=%7B%22contents%22%3A%5B%5D%2C%22conversion_id%22%3A%2268b16441337e8a865c8f41bab698b5a4%22%7D&event_id=63ef7988-6f5f-4a66-8a19-b4d7c7360a64&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=03a86ee7-7907-4a42-a49c-a1a6b984731b&tw_ch_fvl=Chromium%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&tw_document_referrer=https%3A%2F%2Fwww.google.com%2F&tw_engaged_ms=4&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791693095618-369559177&tw_session_start=1&twpid=tw.1791693095618.239309061444431974&txn_id=tw-o43i6-oc3wp&type=javascript&version=2.4.11",
+        "alt": "",
+        "width": 1,
+        "height": 1,
+        "cls": ""
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=4050272&Ver=2&mid=10e8e4d2-c906-402a-b46b-27242c03a828&bo=3&sid=a545b3c0c52c11f1ad3317937a0ad127&vid=a545bf70c52c11f1a3f13bd63461f4f2&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-GB&sw=1920&sh=1080&sc=24&tl=The%20Rustic%20Barrel%20%7C%20Menu%20%7C%20San%20Francisco%20Bay%20Area%20%7C%20Uber%20Eats&p=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&r=https%3A%2F%2Fwww.google.com%2F&lt=2273&evt=pageLoad&sv=2&asc=G&cdb=AQwR&rn=560957",
+        "alt": "",
+        "width": 0,
+        "height": 0,
+        "cls": ""
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=4050272&Ver=2&mid=10e8e4d2-c906-402a-b46b-27242c03a828&bo=4&sid=a545b3c0c52c11f1ad3317937a0ad127&vid=a545bf70c52c11f1a3f13bd63461f4f2&vids=0&msclkid=N&ec=restaurant_eats&el=menu%7Crestaurant-id%3A8f9d07e9-3af6-5bea-a16b-5129f72b3802&ea=view&en=Y&p=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&sw=1920&sh=1080&sc=24&evt=custom&asc=G&cdb=AQwR&rn=75369",
+        "alt": "",
+        "width": 0,
+        "height": 0,
+        "cls": ""
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sun%2C%2011%20Oct%202026%2004%3A31%3A36%20GMT&n=-8&b=The%20Rustic%20Barrel%20%7C%20Menu%20%7C%20San%20Francisco%20Bay%20Area%20%7C%20Uber%20Eats&.yp=10001384&f=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&e=https%3A%2F%2Fwww.google.com%2F&enc=UTF-8&yv=1.17.1&et=custom&ec=restaurant_eats&ea=view&el=menu%7Crestaurant-id%3A8f9d07e9-3af6-5bea-a16b-5129f72b3802&tagmgr=gtm",
+        "alt": "dot image pixel",
+        "width": 1,
+        "height": 1,
+        "cls": "ywa-10000"
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=The%20Rustic%20Barrel%20%7C%20Menu%20%7C%20San%20Francisco%20Bay%20Area%20%7C%20Uber%20Eats&.yp=10021978&f=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&e=https%3A%2F%2Fwww.google.com%2F&enc=UTF-8&yv=1.17.1&tagmgr=gtm",
+        "alt": "dot image pixel",
+        "width": 1,
+        "height": 1,
+        "cls": "ywa-10000"
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=The%20Rustic%20Barrel%20%7C%20Menu%20%7C%20San%20Francisco%20Bay%20Area%20%7C%20Uber%20Eats&.yp=10001384&f=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&e=https%3A%2F%2Fwww.google.com%2F&enc=UTF-8&yv=1.17.1&et=custom&ec=restaurant_eats&ea=view&el=menu%7Crestaurant-id%3A8f9d07e9-3af6-5bea-a16b-5129f72b3802&tagmgr=gtm",
+        "alt": "dot image pixel",
+        "width": 1,
+        "height": 1,
+        "cls": "ywa-10000"
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=The%20Rustic%20Barrel%20%7C%20Menu%20%7C%20San%20Francisco%20Bay%20Area%20%7C%20Uber%20Eats&.yp=10021978&f=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&e=https%3A%2F%2Fwww.google.com%2F&enc=UTF-8&yv=1.17.1&tagmgr=gtm",
+        "alt": "dot image pixel",
+        "width": 1,
+        "height": 1,
+        "cls": "ywa-10000"
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=4&cv=100%261&dv=Asia%2FManila%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261080%260%26na&eci=2&event_id=9edcc983-1161-400c-a7e1-770f453122de&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=03a86ee7-7907-4a42-a49c-a1a6b984731b&tw_ch_fvl=Chromium%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&tw_document_referrer=https%3A%2F%2Fwww.google.com%2F&tw_engaged_ms=10007&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791693095618-369559177&twpid=tw.1791693095618.239309061444431974&txn_id=o43i6&type=javascript&version=2.4.11",
+        "alt": "",
+        "width": 1,
+        "height": 1,
+        "cls": ""
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=Asia%2FManila%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261920%261080%268%2624%261920%261080%260%26na&eci=2&event_id=9edcc983-1161-400c-a7e1-770f453122de&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=03a86ee7-7907-4a42-a49c-a1a6b984731b&tw_ch_fvl=Chromium%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Fstore%2Fthe-rustic-barrel%2Fj50H6Tr2W-qha1Ep9ys4Ag&tw_document_referrer=https%3A%2F%2Fwww.google.com%2F&tw_engaged_ms=10007&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791693095618-369559177&twpid=tw.1791693095618.239309061444431974&txn_id=o43i6&type=javascript&version=2.4.11",
+        "alt": "",
+        "width": 1,
+        "height": 1,
+        "cls": ""
+      }
+    ],
+    "videos": [],
+    "srcsets": [],
+    "links": [
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-main-11f036750fc4310a.css"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-main-94f125fc0a519e51.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-lodash-83d6f9bfa63caf2c.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-core-31b48b9d2f51f9b9.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-react-0c2db6f1a70395c1.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-web-vitals-128fec24877b29d6.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-url-7e634a0757ada766.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-fusion-8be37847d2550562.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-styletron-react-2e39b10b2d8219cb.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-vendor-history-758fbfdb26645015.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-18360-f6a8a69b55d997d1.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-83006-73ff5e815abb5296.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-10560-ff660fda0fc07c61.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-11065-5d0737df69a9e9a7.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-11697-f76baf983551a739.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-15284-f2e33aafe3b810e7.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-16255-3c696d9b717ef746.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-19288-5542c57388f683f0.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-22359-a4e99bbe9b716ffe.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-22763-6928a5ac40032a64.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-2448-bd7516d4ee920085.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-29282-19d21021aac15b0d.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-29367-0234b33fbf7b7c4d.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-31288-b83ec9a91038664a.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-32383-2aa7f366ca304d7a.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-33040-f250c5b0ed8274b5.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-35301-8f6b324c88bc089e.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-37672-9e659c13e5ab4943.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-4022-e5e3171ed5f037b9.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-40244-9b6058e87fa9aeed.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-40913-08adbc449cb5b966.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-40920-be4a011190ea87e1.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-43643-c1b668b20fbd6bda.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-44693-96635518daf1e303.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-55018-efaaf215656ccc1c.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-55065-38740298fff050bc.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-57140-301ee10a0b52c6f9.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-58415-b9a757e31e3e0374.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-61059-296489362e5a61b8.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-63536-ca1b54a2c2168028.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-65595-5dcb9f6da3329a12.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-66007-02899f070b4bc249.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-69120-8e5fac52410103cd.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-71905-cdc91db7dbbaf71b.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-72632-1ceb47662cfdfe92.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-74535-50c26373d20d551d.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-79183-a13d2f5b5b29c4db.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-79221-5f4982e57890cf77.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-80685-0dc65e443cc8eb4f.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-822-637c0cce9bf0d803.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-83226-c4bb3a6762195857.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-83623-da68d9a925944d7d.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-85659-ddca547c30789e77.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-85682-e6d32ce118f2afa1.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-87115-34b670c336f471f6.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-89219-8c7f2cd4fd134ae7.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-90928-b4101b343fee91d2.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-92784-6f9c41481084cd69.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-9617-04e44846ec3dd4a4.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-97887-95e972813240d930.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-98188-f55c69e49ee96424.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-98872-ecc1ebbf64c449e9.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-17106-471738fcd3bd7073.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-20601-6c762fb67a2c00aa.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-25083-5b4a2f08df7293a3.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-31534-8612734449077837.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-33008-db88280549dbd108.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-33583-f7b6a83480bcbafa.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-38714-7996e8e0377be016.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-39978-85071708eb1f051b.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-40439-b08d85b9738e8628.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-47314-d0d91dbab0f64660.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-47881-60d1eb1bf5c78459.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-51483-a2eb5b8ab0213a8c.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-54359-b2ee8b09558d588b.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-56089-5046a85f47df79ed.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-57428-595bf1d6a5830169.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-59921-1d9de4104295f527.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-60723-89c52dc8a02488c0.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-64465-cb5019072d8c2321.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-66006-a8a0bbed8799a663.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-78878-46f85e1d4127ad89.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-93847-c77c49f657f5d931.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-94078-5c99b06a16178da2.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-95645-9fe61d63adc0afbc.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-97661-718ac7b6491c65f2.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-87233-9b62f39476b21604.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-54940-79d585511b062202.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-40885-6ee842cb6a7cce6c.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-67747-55c63e96a12685e2.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/client-runtime-dd7ea22d037dfa25.js"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://www.ubereats.com/_static/35b3b9a3182fec82.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://www.ubereats.com/_static/9d965730ecb40206.png"
+      },
+      {
+        "rel": "shortcut icon",
+        "href": "https://www.ubereats.com/_static/d526ae562360062f.ico"
+      },
+      {
+        "rel": "icon",
+        "href": "https://www.ubereats.com/_static/d526ae562360062f.ico"
+      },
+      {
+        "rel": "manifest",
+        "href": "https://www.ubereats.com/manifest.json"
+      },
+      {
+        "rel": "preload",
+        "href": "https://bat.bing.com/bat.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://tags.tiqcdn.com/utag/uber/eatsv2/prod/utag.js"
+      },
+      {
+        "rel": "preload",
+        "href": "https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/eee1724e2e5a8ebd.woff2"
+      },
+      {
+        "rel": "preload",
+        "href": "https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/276edd4275dda838.woff2"
+      },
+      {
+        "rel": "preload",
+        "href": "https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/14f73a3f74611002.woff2"
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.ubereats.com/_static/97c43f8974e6c876.svg"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://www.ubereats.com/_static/client-main-11f036750fc4310a.css"
+      }
+    ],
+    "metas": [
+      {
+        "name": "botdefense-enabled",
+        "content": "false"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1.0, maximum-scale=2.0"
+      },
+      {
+        "name": "theme-color",
+        "content": "#000000"
+      },
+      {
+        "name": "google-site-verification",
+        "content": "VsuZf2_aDTFloKH9DDZwZkApKQdJ4vwWaIONAHsPNP4"
+      },
+      {
+        "name": "google-site-verification",
+        "content": "e7Pbh7MPVYI_oxrqRArrQsy3Se3YyXMaTo318lmbXEY"
+      },
+      {
+        "name": "google-site-verification",
+        "content": "udkBIuofpkvfW7oCltGi2L2zUdwv62MvDZsPGe7cTns"
+      },
+      {
+        "name": "google-site-verification",
+        "content": "LZ1PBBewAIw1QSKSNu_29oArwY7FU8A5GvhVKt9DooE"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow"
+      },
+      {
+        "name": "og:url",
+        "content": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+      },
+      {
+        "name": "og:image",
+        "content": "https://tb-static.uber.com/prod/web-eats-v2/open-graph/uber-eats.jpg"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://tb-static.uber.com/prod/web-eats-v2/open-graph/uber-eats.jpg"
+      },
+      {
+        "name": "og:type",
+        "content": "website"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "og:title",
+        "content": "The Rustic Barrel | Menu | San Francisco Bay Area | Uber Eats"
+      },
+      {
+        "name": "twitter:title",
+        "content": "The Rustic Barrel | Menu | San Francisco Bay Area | Uber Eats"
+      },
+      {
+        "name": "description",
+        "content": "Interested in The Rustic Barrel? Find information about its location, offerings, and more. Order from one of the many places offering delivery or pickup in San Francisco Bay Area on Uber Eats."
+      },
+      {
+        "name": "og:description",
+        "content": "Interested in The Rustic Barrel? Find information about its location, offerings, and more. Order from one of the many places offering delivery or pickup in San Francisco Bay Area on Uber Eats."
+      },
+      {
+        "name": "twitter:description",
+        "content": "Interested in The Rustic Barrel? Find information about its location, offerings, and more. Order from one of the many places offering delivery or pickup in San Francisco Bay Area on Uber Eats."
+      },
+      {
+        "name": "ciid",
+        "content": "96eb1812-71dc-4baf-90f0-ba0683bd6378"
+      }
+    ],
+    "backgrounds": [],
+    "fonts": [
+      "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "UberMove, sans-serif"
+    ],
+    "svgs": [
+      {
+        "cls": "_is _e0 _it _iu",
+        "label": ""
+      },
+      {
+        "cls": "_is _e0 _it _iu",
+        "label": ""
+      },
+      {
+        "cls": "_is _e0 _it _iu",
+        "label": "Select a language"
+      },
+      {
+        "cls": "_is _e0 _it _iu",
+        "label": ""
+      },
+      {
+        "cls": "_is _e0 _it _iu",
+        "label": ""
+      },
+      {
+        "cls": "_is _e0 _it _iu",
+        "label": ""
+      }
+    ],
+    "jsonld": [
+      "{\"@context\":\"https:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fstore\\u002Fthe-rustic-barrel\\u002Fj50H6Tr2W-qha1Ep9ys4Ag\",\"name\":\"The Rustic Barrel\",\"servesCuisine\":[\"American\",\"Burgers\",\"Sandwiches\"],\"priceRange\":\"\",\"image\":[],\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fstore\\u002Fthe-rustic-barrel\\u002Fj50H6Tr2W-qha1Ep9ys4Ag?utm_campaign=order-action&amp;utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"https:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"https:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"King City\",\"addressRegion\":\"CA\",\"postalCode\":\"93930\",\"addressCountry\":\"US\",\"streetAddress\":\"611 Canal St\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":36.2025,\"longitude\":-121.12794},\"telephone\":\"\",\"aggregateRating\":{},\"openingHoursSpecification\":[]}",
+      "{\"@context\":\"https:\\u002F\\u002Fschema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"United States\",\"item\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002F\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"The Rustic Barrel\",\"item\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fstore\\u002Fthe-rustic-barrel\\u002Fj50H6Tr2W-qha1Ep9ys4Ag\"}]}"
+    ],
+    "classes": []
+  },
+  "computed": {
+    "fonts": [
+      {
+        "tag": "DIV",
+        "sample": "Sign upLog inCreate a business accountAdd your res",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Sign up",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "18px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Log in",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "18px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Create a business accountAdd your restaurantSign u",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Create a business account",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Create a business account",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Add your restaurant",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Add your restaurant",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Sign up to deliver",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Sign up to deliver",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Get a rideArrow launch",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Get a rideArrow launch",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "There's more to love in the app.iPhoneAndroid",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "P",
+        "sample": "There's more to love in the app.",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "iPhone",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Android",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Skip to content",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Three linesLocation markerEnter delivery addressCh",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Three lines",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "sample": "Three lines",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Location markerEnter delivery addressChevron down ",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Log inSign up",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "The Rustic Barrel611 Canal St, King City, CA 93930",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "H1",
+        "sample": "The Rustic Barrel",
+        "family": "UberMove, sans-serif",
+        "size": "32px",
+        "weight": "700",
+        "style": "normal",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "H2",
+        "sample": "611 Canal St, King City, CA 93930",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "SPAN",
+        "sample": "Closed on Uber Eats",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Closed on Uber Eats as of May 22, 2026.Enter your ",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Closed on Uber Eats as of May 22, 2026.",
+        "family": "UberMove, sans-serif",
+        "size": "24px",
+        "weight": "700",
+        "style": "normal",
+        "lineHeight": "32px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Enter your delivery address to find more stores ne",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Location marker",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "sample": "PersonLog in for saved address",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Person",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Need to update information about your store?Contac",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Contact Uber",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "United StatesRightThe Rustic Barrel{\"@context\":\"ht",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "United StatesRight",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "United States",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Right",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "The Rustic Barrel",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "SPAN",
+        "sample": "The Rustic Barrel",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Get HelpBuy gift cardsAdd your restaurantSign up t",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Get Help",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Get Help",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Buy gift cards",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Buy gift cards",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Promotions",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Promotions",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Restaurants near meView all citiesView all countri",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Restaurants near me",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Restaurants near me",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "View all cities",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "View all cities",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "View all countries",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "View all countries",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Pickup near me",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Pickup near me",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "About Uber Eats",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "About Uber Eats",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "Shop groceries",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Shop groceries",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "LI",
+        "sample": "English",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "English",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "FacebookTwitterInstagram",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Facebook",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "SPAN",
+        "sample": "Facebook",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Twitter",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "SPAN",
+        "sample": "Twitter",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Instagram",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "SPAN",
+        "sample": "Instagram",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "Privacy PolicyTermsPricingDo not sell or share my ",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Privacy Policy",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Terms",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Pricing",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Do not sell or share my personal information",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "This site is protected by reCAPTCHA and the Google",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "A",
+        "sample": "Terms of Service",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      },
+      {
+        "tag": "DIV",
+        "sample": "© 2026 Uber Technologies Inc.",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "style": "normal",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "transform": "none"
+      }
+    ],
+    "colors": [
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Sign upLog inCreate a business accountAd"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "sample": "Sign up"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(243, 243, 243)",
+        "sample": "Log in"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Create a business accountAdd your restau"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Create a business account"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Create a business account"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Add your restaurant"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Add your restaurant"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Sign up to deliver"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Sign up to deliver"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Get a rideArrow launch"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Get a rideArrow launch"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "There's more to love in the app.iPhoneAn"
+      },
+      {
+        "tag": "P",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "There's more to love in the app."
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(243, 243, 243)",
+        "sample": "iPhone"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(243, 243, 243)",
+        "sample": "Android"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Skip to content"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Three linesLocation markerEnter delivery"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Three lines"
+      },
+      {
+        "tag": "BUTTON",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Three lines"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Location markerEnter delivery addressChe"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Log inSign up"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "The Rustic Barrel611 Canal St, King City"
+      },
+      {
+        "tag": "H1",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "The Rustic Barrel"
+      },
+      {
+        "tag": "H2",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "611 Canal St, King City, CA 93930"
+      },
+      {
+        "tag": "SPAN",
+        "color": "rgb(94, 94, 94)",
+        "bg": "rgb(243, 243, 243)",
+        "sample": "Closed on Uber Eats"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(0, 0, 0)",
+        "sample": "Closed on Uber Eats as of May 22, 2026.E"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Closed on Uber Eats as of May 22, 2026."
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(175, 175, 175)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Enter your delivery address to find more"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Location marker"
+      },
+      {
+        "tag": "BUTTON",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "sample": "PersonLog in for saved address"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Person"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(175, 175, 175)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Need to update information about your st"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Contact Uber"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "United StatesRightThe Rustic Barrel{\"@co"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "United StatesRight"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "United States"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(94, 94, 94)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Right"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "The Rustic Barrel"
+      },
+      {
+        "tag": "SPAN",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "The Rustic Barrel"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Get HelpBuy gift cardsAdd your restauran"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Get Help"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Get Help"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Buy gift cards"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Buy gift cards"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Promotions"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Promotions"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Restaurants near meView all citiesView a"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Restaurants near me"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Restaurants near me"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "View all cities"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "View all cities"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "View all countries"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "View all countries"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Pickup near me"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Pickup near me"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "About Uber Eats"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "About Uber Eats"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Shop groceries"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Shop groceries"
+      },
+      {
+        "tag": "LI",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "English"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "English"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "FacebookTwitterInstagram"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Facebook"
+      },
+      {
+        "tag": "SPAN",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Facebook"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Twitter"
+      },
+      {
+        "tag": "SPAN",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Twitter"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Instagram"
+      },
+      {
+        "tag": "SPAN",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Instagram"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Privacy PolicyTermsPricingDo not sell or"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Privacy Policy"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Terms"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Pricing"
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Do not sell or share my personal informa"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "This site is protected by reCAPTCHA and "
+      },
+      {
+        "tag": "A",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "Terms of Service"
+      },
+      {
+        "tag": "DIV",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "sample": "© 2026 Uber Technologies Inc."
+      }
+    ],
+    "backgrounds": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "The Rustic Barrel",
+        "family": "UberMove, sans-serif",
+        "size": "32px",
+        "weight": "700",
+        "transform": "none",
+        "ls": "normal",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "tag": "H2",
+        "text": "611 Canal St, King City, CA 93930",
+        "family": "UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "transform": "none",
+        "ls": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    ]
+  },
+  "css": {
+    "font_faces": [],
+    "font_families": [],
+    "color_tokens": {},
+    "stylesheets_saved": []
+  },
+  "assets": [
+    {
+      "url": "https://www.ubereats.com/_static/163bdc9b0f1e7c9e.png",
+      "file": "media/photos/163bdc9b0f1e7c9e-707787d1.png",
+      "kind": "photo",
+      "ext": ".png",
+      "content_type": "image/png",
+      "bytes": 9210,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    },
+    {
+      "url": "https://www.ubereats.com/_static/35b3b9a3182fec82.png",
+      "file": "media/photos/35b3b9a3182fec82-234436e7.png",
+      "kind": "photo",
+      "ext": ".png",
+      "content_type": "image/png",
+      "bytes": 19319,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    },
+    {
+      "url": "https://www.ubereats.com/_static/9d965730ecb40206.png",
+      "file": "media/photos/9d965730ecb40206-b242ea13.png",
+      "kind": "photo",
+      "ext": ".png",
+      "content_type": "image/png",
+      "bytes": 51268,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    },
+    {
+      "url": "https://tb-static.uber.com/prod/web-eats-v2/open-graph/uber-eats.jpg",
+      "file": "media/photos/uber-eats-b93a4663.jpg",
+      "kind": "photo",
+      "ext": ".jpg",
+      "content_type": "image/jpeg",
+      "bytes": 130890,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    },
+    {
+      "url": "https://d4p17acsd5wyj.cloudfront.net/eatsfeed/other_icons/restaurant_not_accepting.png",
+      "file": "media/photos/restaurant_not_accepting-df4ef486.png",
+      "kind": "photo",
+      "ext": ".png",
+      "content_type": "image/png",
+      "bytes": 342,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    },
+    {
+      "url": "https://tb-static.uber.com/prod/web-eats-v2/gr-assets/why-uber-eats/first-card-image.webp",
+      "file": "media/photos/first-card-image-0e1d9578.webp",
+      "kind": "photo",
+      "ext": ".webp",
+      "content_type": "image/webp",
+      "bytes": 70064,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    },
+    {
+      "url": "https://tb-static.uber.com/prod/web-eats-v2/gr-assets/why-uber-eats/second-card-image.webp",
+      "file": "media/photos/second-card-image-ca9b7e81.webp",
+      "kind": "photo",
+      "ext": ".webp",
+      "content_type": "image/webp",
+      "bytes": 16992,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    },
+    {
+      "url": "https://tb-static.uber.com/prod/web-eats-v2/gr-assets/why-uber-eats/third-card-image.webp",
+      "file": "media/photos/third-card-image-cd218973.webp",
+      "kind": "photo",
+      "ext": ".webp",
+      "content_type": "image/webp",
+      "bytes": 14326,
+      "referer": "https://www.ubereats.com/store/the-rustic-barrel/j50H6Tr2W-qha1Ep9ys4Ag"
+    }
+  ]
+}

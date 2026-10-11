@@ -1,0 +1,449 @@
+{
+  "sections": [],
+  "items": [
+    {
+      "name": "2 Meat Combo",
+      "description": "Select two meats & choice of one side, complimented with garlic bread or corn bread.",
+      "price": "$31.25"
+    },
+    {
+      "name": "OG Smash Burger - Double",
+      "description": "Two mouth watering Angus beef patties, smashed & seared to perfection, layered with American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+      "price": "$26.04"
+    },
+    {
+      "name": "Pulled Pork Sandwich",
+      "description": "Slow smoked tender pulled pork, drizzled with BBQ sauce, piled high on ciabatta bun topped with coleslaw.",
+      "price": "$22.92"
+    },
+    {
+      "name": "Tri-Tip Sandwich",
+      "description": "Tender sliced Santa Maria Style Tri-Tip, drizzled with BBQ sauce and served on a ciabatta bun toasted with butter",
+      "price": "$22.92"
+    },
+    {
+      "name": "3 Meat Combo",
+      "description": "Select three meats & choice of two sides, complimented with garlic bread or corn bread.",
+      "price": "$41.67"
+    },
+    {
+      "name": "Barrel Fries - Half Order",
+      "description": "Our most popular fries, in a smaller version! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+      "price": "$15.63"
+    },
+    {
+      "name": "Mac Daddy Fries",
+      "description": "Golden crispy fries layered with melted cheese, smothered with our homemade mac n’ cheese, bacon crumbles & drizzled with our house-made burger sauce.",
+      "price": "$17.71"
+    },
+    {
+      "name": "Smash Burger Deluxe - Single",
+      "description": "A juicy, smashed beef patty, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+      "price": "$20.83"
+    },
+    {
+      "name": "Mac N Cheese",
+      "description": "Homemade creamy & cheesy elbow macaroni made with a rich blend of cheddar, butter, and a touch of cream. Baked to golden perfection with a crispy breadcrumb topping.",
+      "price": "$7.29"
+    },
+    {
+      "name": "Classic Quesadilla",
+      "description": "A golden, crispy tortilla folded and grilled to perfection, stuffed with a melty blend of cheeses. Pared with our house made jalapeño ranch & pickled onions Add protein of choice for $3",
+      "price": "$10.42"
+    },
+    {
+      "name": "OG Smash Burger - Single",
+      "description": "A mouth watering Angus beef patty, smashed & seared to perfection, layered with American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+      "price": "$20.83"
+    },
+    {
+      "name": "Side of Meat",
+      "description": "Choose any extra meat to stack onto your dish!",
+      "price": "$12.50"
+    },
+    {
+      "name": "Hog Fries",
+      "description": "Golden, crispy fries topped with melted cheese & bacon bites. A crave-worthy combo that hits the spot every time.",
+      "price": "$12.50"
+    },
+    {
+      "name": "Hot Daddy Fries",
+      "description": "Crispy fries topped with creamy cheese sauce, macaroni, and crumbled bacon.",
+      "price": "$17.71"
+    },
+    {
+      "name": "Chicken Wings",
+      "description": "Crispy chicken wings tossed in one of our signature sauces, served with a side house-made ranch or bleu cheese",
+      "price": "$16.67"
+    },
+    {
+      "name": "Cowboy Candy Hot",
+      "description": "Fresh sliced jalapeños hand-dipped in beer batter and hot cheetos. fried golden brown, served with a side of ranch for the perfect crunch",
+      "price": "$11.46"
+    },
+    {
+      "name": "Chili Cheese Fries(Special Only)",
+      "description": "Seasoned crispy fries topped with savory chili, shredded cheddar cheese, and fresh chopped red onion. A loaded, cheesy, hearty favorite!",
+      "price": "$15.63"
+    },
+    {
+      "name": "Cowboy Candy",
+      "description": "Fresh sliced jalapeños hand-dipped in beer batter and fried golden brown, served with a side of ranch for the perfect crunch",
+      "price": "$10.42"
+    },
+    {
+      "name": "1 Meat Combo",
+      "description": "Select one meat & choice of one side, complimented with garlic bread or corn bread.",
+      "price": "$26.04"
+    },
+    {
+      "name": "Barrel Fries - Full Order",
+      "description": "Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with coleslaw and pickled onions.",
+      "price": "$26.04"
+    },
+    {
+      "name": "Smash Burger Deluxe - Double",
+      "description": "Two juicy smashed beef patties, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+      "price": "$26.04"
+    },
+    {
+      "name": "Loaded Barrel Fries - Full Order",
+      "description": "Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with homemade mac n’ cheese, coleslaw and pickled onions.",
+      "price": "$31.25"
+    },
+    {
+      "name": "Rustic Burger",
+      "description": "Sink your teeth into two grilled Angus beef patties, layered with American cheese & grilled onions, topped with juicy bacon crumble, 2 golden crispy onion rings & drizzled with BBQ sauce. All stacked on a on a brioche bun & paired with a side of fries",
+      "price": "$29.17"
+    },
+    {
+      "name": "Grilled Cheese Combo",
+      "description": "Toasty ciabatta bread filled with melty American cheese. Served with a side of golden fries.",
+      "price": "$16.67"
+    },
+    {
+      "name": "Smash Burger Deluxe - Triple",
+      "description": "Three juicy smashed beef patties, layered with melted American cheese, mayo, crisp lettuce, fresh sliced tomatoes, and thin-cut onions — all stacked on a toasted brioche bun. Served with a side of fries.",
+      "price": "$31.25"
+    },
+    {
+      "name": "OG Smash Burger - Triple",
+      "description": "Three mouth watering Angus beef patties, smashed & seared to perfection, layered with American cheese, house-made burger sauce & grilled onions. Served on a brioche bun & a side of fries.",
+      "price": "$31.25"
+    },
+    {
+      "name": "Loaded Barrel Fries - Half Order",
+      "description": "Same amazing taste now available in half order! Golden crisscut fries, layered with cheese, choice of meat (Tri-Tip, Chicken, Pulled Pork), drizzled with our house-made burger sauce, BBQ sauce & topped with homemade mac n’ cheese, coleslaw and pickled onions.",
+      "price": "$20.83"
+    },
+    {
+      "name": "Barrel T-Shirt",
+      "description": "Adjustable hat featuring a classic barrel logo, offering a versatile fit suitable for various styles and occasions.",
+      "price": "$26.04"
+    },
+    {
+      "name": "Sandwich Chimi Tri-Tip",
+      "description": "Tri-tip sandwich with a side choice. Options include fries, onion rings, mac n cheese, beans, or various salads.",
+      "price": "$25.00"
+    },
+    {
+      "name": "BBQ Chicken Sandwich",
+      "description": "Juicy seasoned chicken bbq’d over Santa Maria grill, pulled off the bone and piled high on a toasted ciabatta bun, topped with BBQ sauce and coleslaw.",
+      "price": "$22.92"
+    },
+    {
+      "name": "Brisket Sandwich",
+      "description": "Smoky brisket on hearty bread. Choice of side, including fries, onion rings, mac n cheese, and more.",
+      "price": "$22.92"
+    },
+    {
+      "name": "Kids Smash Burger",
+      "description": "A tasty grilled Angus beef patty topped with melty cheese and a little burger sauce, all on a soft bun,",
+      "price": "$17.71"
+    },
+    {
+      "name": "Kids Grilled Cheese",
+      "description": "Toasty ciabatta bread filled with melty American cheese. Served warm and golden — perfect for little cheese lovers!",
+      "price": "$16.67"
+    },
+    {
+      "name": "Fresh Chopped Salad",
+      "description": "Crispy chopped Romaine lettuce with your choice of meat (Tri-Tip, Chicken, Pulled Pork) served with shredded cheese, croutons, cucumbers, tomatoes, topped with pickled onions, a side of Pepperoncini's",
+      "price": "$20.83"
+    },
+    {
+      "name": "Garden Wrap",
+      "description": "Crisp chopped romaine, shredded cheese, tomatoes, cucumbers, all wrapped in a soft flour tortilla. Paired with your choice of dressing",
+      "price": "$16.67"
+    },
+    {
+      "name": "Side Salad",
+      "description": "Fresh cut romaine with, tomatoes, shredded cheese, cucumbers, and croutons.",
+      "price": "$8.33"
+    },
+    {
+      "name": "Corn Bread",
+      "description": "Golden, fluffy cornbread, perfect as a side or for savoring on its own.",
+      "price": "$3.13"
+    },
+    {
+      "name": "Barrel Beans",
+      "description": "Smoked barrel beans typically include a blend of seasonings and may feature ingredients like brisket or onions for added depth.",
+      "price": "$3.13"
+    },
+    {
+      "name": "Coleslaw",
+      "description": "Crisp shredded cabbage in a creamy, tangy dressing.",
+      "price": "$3.13"
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "Crisp, buttery toasted bread infused with aromatic garlic and herbs.",
+      "price": "$3.13"
+    },
+    {
+      "name": "Grilled Cheese",
+      "description": "Cheesy delight on toasted bread, perfect for those craving a classic comfort food.",
+      "price": "$12.50"
+    },
+    {
+      "name": "French Fries",
+      "description": "Golden, crispy, and perfectly seasoned.",
+      "price": "$8.33"
+    },
+    {
+      "name": "Add Meat",
+      "description": "Typically includes a selection of meats such as beef, chicken, or turkey to complement your meal.",
+      "price": "$5.21+"
+    },
+    {
+      "name": "Onion Rings",
+      "description": "Thick-cut onions dipped in our signature beer batter and fried until golden, crispy.",
+      "price": "$8.33"
+    },
+    {
+      "name": "Lemonade",
+      "description": "",
+      "price": "$3.13"
+    },
+    {
+      "name": "Root Beer",
+      "description": "",
+      "price": "$3.13"
+    },
+    {
+      "name": "Sweet Tea",
+      "description": "",
+      "price": "$4.17"
+    },
+    {
+      "name": "Dr Pepper",
+      "description": "",
+      "price": "$3.13"
+    },
+    {
+      "name": "Unsweetened Iced Tea",
+      "description": "",
+      "price": "$4.17"
+    },
+    {
+      "name": "Squirt",
+      "description": "",
+      "price": "$3.13"
+    },
+    {
+      "name": "Apple Juice",
+      "description": "",
+      "price": "$2.08"
+    },
+    {
+      "name": "Coke",
+      "description": "",
+      "price": "$3.13"
+    },
+    {
+      "name": "Sprite",
+      "description": "",
+      "price": "$3.13"
+    },
+    {
+      "name": "Rice Crispy",
+      "description": "",
+      "price": "$4.17"
+    },
+    {
+      "name": "Cookies",
+      "description": "",
+      "price": "$5.21"
+    },
+    {
+      "name": "Honey Butter",
+      "description": "",
+      "price": ""
+    },
+    {
+      "name": "Ranch Dressing",
+      "description": "",
+      "price": ""
+    },
+    {
+      "name": "Blue Cheese Dressing",
+      "description": "",
+      "price": ""
+    },
+    {
+      "name": "Burger Sauce",
+      "description": "",
+      "price": ""
+    },
+    {
+      "name": "Chimichurri",
+      "description": "",
+      "price": ""
+    },
+    {
+      "name": "Italian Dressing",
+      "description": "",
+      "price": ""
+    },
+    {
+      "name": "Jalapeno Ranch",
+      "description": "",
+      "price": ""
+    },
+    {
+      "name": "BBQ Sauce",
+      "description": "",
+      "price": ""
+    }
+  ],
+  "stats": {
+    "item_count": 63,
+    "price_min": 2.08,
+    "price_max": 41.67,
+    "price_median": 15.63,
+    "avg_description_words": 21.5,
+    "top_words": [
+      [
+        "cheese",
+        28
+      ],
+      [
+        "fries",
+        19
+      ],
+      [
+        "sauce",
+        18
+      ],
+      [
+        "golden",
+        16
+      ],
+      [
+        "onions",
+        15
+      ],
+      [
+        "layered",
+        12
+      ],
+      [
+        "bread",
+        11
+      ],
+      [
+        "made",
+        11
+      ],
+      [
+        "bun",
+        11
+      ],
+      [
+        "crispy",
+        11
+      ],
+      [
+        "house",
+        10
+      ],
+      [
+        "beef",
+        9
+      ],
+      [
+        "american",
+        9
+      ],
+      [
+        "burger",
+        9
+      ],
+      [
+        "bbq",
+        9
+      ],
+      [
+        "drizzled",
+        8
+      ],
+      [
+        "chicken",
+        8
+      ],
+      [
+        "grilled",
+        7
+      ],
+      [
+        "brioche",
+        7
+      ],
+      [
+        "pulled",
+        7
+      ],
+      [
+        "tri",
+        7
+      ],
+      [
+        "tip",
+        7
+      ],
+      [
+        "toasted",
+        7
+      ],
+      [
+        "meat",
+        7
+      ],
+      [
+        "fresh",
+        7
+      ],
+      [
+        "smashed",
+        6
+      ],
+      [
+        "pork",
+        6
+      ],
+      [
+        "coleslaw",
+        6
+      ],
+      [
+        "sliced",
+        6
+      ],
+      [
+        "pickled",
+        6
+      ]
+    ]
+  }
+}

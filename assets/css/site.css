@@ -1,0 +1,712 @@
+/* ==========================================================================
+   The Rustic Barrel Taphouse
+   Handwritten on top of tokens.css. Mobile-first, no framework, no runtime.
+
+   Performance rules observed throughout:
+   - no layout-shifting late-loading media (width/height always declared)
+   - font-display: swap, system fallback stack first
+   - only transform/opacity animate
+   - everything collapses under prefers-reduced-motion
+   ========================================================================== */
+
+/* --- reset ---------------------------------------------------------------- */
+*, *::before, *::after { box-sizing: border-box; }
+* { margin: 0; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: var(--motion-reduced) !important;
+    transition-duration: var(--motion-reduced) !important;
+  }
+}
+body {
+  font-family: var(--typography-family-body);
+  font-size: var(--typography-scale-body-l);
+  line-height: var(--typography-leading-normal);
+  color: var(--color-ink-on-dark);
+  background: var(--color-primary-charred-oak);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  /* Unbreakable tokens - chiefly therusticbarrel831@gmail.com in the footer -
+     pushed the page 8px wide at 320. overflow-wrap only breaks a word when it
+     genuinely has nowhere else to go, so normal headings are untouched. */
+  overflow-wrap: break-word;
+}
+img, svg, video { display: block; max-width: 100%; height: auto; }
+a { color: var(--color-accent-amber-gold); }
+:focus-visible {
+  outline: none;
+  box-shadow: var(--border-focus);
+  border-radius: var(--radius-sm);
+}
+::selection { background: var(--color-accent-amber-gold); color: var(--color-primary-charred-oak); }
+
+/* --- typography ----------------------------------------------------------- */
+h1, h2, h3, h4 {
+  font-family: var(--typography-family-subhead);
+  line-height: var(--typography-leading-tight);
+  font-weight: var(--typography-weight-bold);
+  text-wrap: balance;
+}
+.display-xl, h1 {
+  font-family: var(--typography-family-display);
+  font-size: var(--typography-scale-display-xl);
+  letter-spacing: var(--typography-tracking-caps);
+  text-transform: uppercase;
+  text-shadow: var(--shadow-badge);
+}
+h1 { font-size: var(--typography-scale-display-l); }
+h2 { font-size: var(--typography-scale-display-m); }
+h3 { font-size: var(--typography-scale-display-s); }
+p  { text-wrap: pretty; }
+
+.script {
+  font-family: var(--typography-family-script);
+  text-transform: none;
+  letter-spacing: normal;
+  text-shadow: none;
+  color: var(--color-accent-amber-gold);
+}
+
+.label {
+  font-family: var(--typography-family-body);
+  font-size: var(--typography-scale-label);
+  font-weight: var(--typography-weight-semibold);
+  letter-spacing: var(--typography-tracking-label);
+  text-transform: uppercase;
+}
+
+.lede {
+  font-size: var(--typography-scale-subhead-size);
+  color: var(--color-ink-on-dark-muted);
+  max-width: var(--layout-proseWidth);
+}
+
+.prose { max-width: var(--layout-proseWidth); }
+.prose > * + * { margin-top: var(--space-sm); }
+
+/* --- layout --------------------------------------------------------------- */
+.wrap {
+  width: 100%;
+  max-width: var(--layout-maxWidth);
+  margin-inline: auto;
+  padding-inline: var(--layout-gutter);
+}
+.wrap--narrow { max-width: 820px; }
+
+/* Sections used to stack 6rem+6rem of padding, which read as dead space once
+   the hero stopped being a full-bleed photo. Tighter, and rhythm-anchored. */
+.section { padding-block: clamp(var(--space-lg), 4.5vw, var(--space-xl)); }
+.section--tight { padding-block: var(--space-lg); }
+/* a head block already carries generous padding - do not double it */
+.section + .section { padding-top: 0; }
+
+.stack > * + * { margin-top: var(--space-md); }
+.stack-sm > * + * { margin-top: var(--space-xs); }
+.cluster {
+  display: flex; flex-wrap: wrap; gap: var(--space-sm);
+  align-items: center;
+}
+
+/* --- textures ------------------------------------------------------------- */
+/* Wood grain is deliberately subtle. At higher opacity the repeating gradient
+   reads as stripes, not timber. */
+.wood {
+  background-image:
+    radial-gradient(ellipse 120% 70% at 18% -10%, rgba(176,139,84,.07), transparent 60%),
+    radial-gradient(ellipse 110% 60% at 88% 108%, rgba(139,86,51,.09), transparent 60%);
+}
+.wood--dark { background-color: var(--color-primary-charred-oak); }
+
+/* --- header --------------------------------------------------------------- */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(31, 22, 16, .94);
+  backdrop-filter: blur(8px);
+  border-bottom: var(--border-hairline);
+}
+.site-header .wrap {
+  display: flex; align-items: center; gap: var(--space-md);
+  min-height: 68px;
+}
+.brandmark {
+  display: flex; align-items: center; gap: var(--space-xs);
+  text-decoration: none; color: var(--color-ink-on-dark);
+  font-family: var(--typography-family-display);
+  font-size: 1.05rem; letter-spacing: var(--typography-tracking-caps);
+  text-transform: uppercase; line-height: 1.1;
+}
+.brandmark img { width: 40px; height: 40px; }
+.brandmark small {
+  display: block; font-family: var(--typography-family-body);
+  font-size: .6rem; letter-spacing: var(--typography-tracking-label);
+  color: var(--color-accent-brass); font-weight: 600;
+}
+.nav { margin-left: auto; display: flex; gap: var(--space-md); align-items: center; }
+/* The header ORDER button lives inside .nav, and `.nav a` (0,1,1) outranks
+   `.btn--primary` (0,1,0) - so the nav colour was silently overriding the
+   button's dark-on-amber text with cream. Excluding .btn from the nav rule is
+   the semantic fix; cranking specificity would just hide it. */
+.nav a:not(.btn) {
+  color: var(--color-ink-on-dark-muted); text-decoration: none;
+  font-size: var(--typography-scale-label);
+  letter-spacing: var(--typography-tracking-label);
+  text-transform: uppercase; font-weight: var(--typography-weight-semibold);
+  padding: var(--space-2xs) 0;
+}
+.nav a:not(.btn):hover,
+.nav a:not(.btn)[aria-current="page"] { color: var(--color-accent-amber-gold); }
+
+/* Narrow header.
+   Below ~760px the brand, four nav links and the Order button cannot share a
+   row: the wordmark wrapped to three lines and the nav drew straight over it,
+   with the Order button clipped off the right edge. The fix is to give the nav
+   its own full-width row rather than to hide it behind a hamburger - a
+   disclosure would need JS (this site ships none) or a checkbox hack, and
+   either way the links stop being reachable in the source view. Wrapping keeps
+   every link visible, tappable and crawler-visible. */
+@media (max-width: 760px) {
+  .site-header .wrap {
+    flex-wrap: wrap;
+    row-gap: var(--space-3xs);
+    padding-block: var(--space-2xs);
+    min-height: 0;
+  }
+  .brandmark {
+    font-size: .95rem;
+    white-space: nowrap;
+    flex: 0 0 auto;
+  }
+  .brandmark img { width: 34px; height: 34px; }
+  .nav {
+    margin-left: 0;
+    width: 100%;
+    justify-content: space-between;
+    gap: var(--space-xs);
+    padding-top: var(--space-3xs);
+    border-top: var(--border-hairline);
+  }
+  .nav a:not(.btn) { font-size: .7rem; }
+}
+
+/* --- buttons -------------------------------------------------------------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  gap: var(--space-2xs);
+  min-height: var(--layout-tapTarget);
+  padding: var(--space-xs) var(--space-md);
+  border: 2px solid transparent; border-radius: var(--radius-sm);
+  font-family: var(--typography-family-body);
+  font-size: var(--typography-scale-label);
+  font-weight: var(--typography-weight-bold);
+  letter-spacing: var(--typography-tracking-label);
+  text-transform: uppercase; text-decoration: none;
+  cursor: pointer; text-align: center;
+  transition: transform var(--motion-fast) var(--motion-ease),
+              background-color var(--motion-fast) var(--motion-ease);
+}
+.btn:hover { transform: translateY(-2px); }
+.btn:active { transform: translateY(0); }
+
+.btn--primary {
+  background: var(--color-accent-amber-gold);
+  color: var(--color-primary-charred-oak);
+  box-shadow: var(--shadow-badge);
+}
+.btn--primary:hover { background: #ffa618; }
+
+.btn--ghost {
+  border-color: var(--color-accent-brass);
+  color: var(--color-primary-bone);
+}
+.btn--ghost:hover { background: rgba(176,139,84,.14); }
+
+.btn--block { width: 100%; }
+.btn__note {
+  display: block; font-size: .7rem; letter-spacing: .04em;
+  text-transform: none; opacity: .8; margin-top: 2px;
+}
+
+/* --- order CTA (the deep-link feature) ----------------------------------- */
+.order-cta { display: grid; gap: var(--space-sm); }
+.order-grid {
+  display: grid; gap: var(--space-sm);
+  grid-template-columns: 1fr;
+}
+@media (min-width: 560px) {
+  .order-grid { grid-template-columns: 1fr 1fr; }
+}
+.order-card {
+  display: flex; align-items: center; gap: var(--space-sm);
+  padding: var(--space-sm);
+  min-height: var(--layout-tapTarget);
+  background: var(--color-support-smoke);
+  border: var(--border-brass);
+  border-radius: var(--radius-md);
+  text-decoration: none; color: var(--color-primary-bone);
+  transition: transform var(--motion-fast) var(--motion-ease),
+              border-color var(--motion-fast) var(--motion-ease);
+}
+.order-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--color-accent-amber-gold);
+}
+.order-card__mark {
+  width: 92px; height: 44px; flex: none;
+  display: grid; place-items: center;
+  padding-inline: var(--space-2xs);
+}
+.order-card__mark img {
+  max-width: 100%; max-height: 100%;
+  width: auto; height: auto;
+  object-fit: contain;
+}
+.order-card__label {
+  display: block;
+  font-family: var(--typography-family-body);
+  font-size: var(--typography-family-body);
+  font-weight: var(--typography-weight-bold);
+  letter-spacing: .04em; text-transform: uppercase;
+  line-height: 1.3;
+}
+.order-card__meta {
+  display: block;
+  font-size: var(--typography-scale-body-s);
+  color: var(--color-ink-on-dark-muted);
+  line-height: 1.4;
+}
+.order-card__go { margin-left: auto; color: var(--color-accent-amber-gold); font-size: 1.2rem; }
+
+/* the small honest disclosure under the CTA */
+.cta-disclosure {
+  font-size: var(--typography-scale-body-s);
+  color: var(--color-ink-on-dark-muted);
+  display: flex; gap: var(--space-2xs); align-items: flex-start;
+}
+.cta-disclosure::before { content: "›"; color: var(--color-accent-brass); flex: none; }
+
+/* --- page head ------------------------------------------------------------ */
+/* One header pattern, used on every page. The mark is the client's own
+   engraved barrel, extracted from their DoorDash store cover - not a redraw.
+   It sits in a fixed slot so it is always whole and always in the same place. */
+.page-head {
+  padding-block: clamp(var(--space-lg), 4.5vw, var(--space-xl));
+}
+.page-head__grid {
+  display: grid;
+  gap: var(--space-md);
+  align-items: center;
+}
+@media (min-width: 860px) {
+  .page-head__grid { grid-template-columns: minmax(0, 1fr) auto; }
+  .page-head__mark { order: 2; }
+}
+
+.page-head__mark {
+  width: clamp(180px, 26vw, 300px);
+  justify-self: center;
+  position: relative;
+}
+/* A brass frame so the mark sits on a deliberate plinth, not floating.
+   Drawn with `outline`, not an inset negative pseudo-element box: an absolutely
+   positioned ::before at `inset: -10px -6px` hangs 6px outside its parent and
+   counts toward that parent's scrollWidth, which made .page-head__mark report
+   186px of content in a 180px box on every inner page at mobile width. Outline
+   paints outside the border box but contributes no scrollable overflow. */
+.page-head__mark::before {
+  content: "";
+  position: absolute; inset: 0;
+  border-radius: var(--radius-lg);
+  outline: 1px solid var(--color-accent-brass);
+  outline-offset: 8px;
+  opacity: .4;
+  pointer-events: none;
+}
+.page-head__mark img {
+  width: 100%; height: auto; display: block;
+  border-radius: var(--radius-sm);
+}
+
+.page-head__text { max-width: 42rem; }
+.page-head h1 { margin-block: var(--space-3xs) var(--space-2xs); }
+.page-head .script {
+  font-size: clamp(1.35rem, 3.4vw, 2rem);
+  display: block;
+  color: var(--color-accent-amber-gold);
+  margin-bottom: var(--space-2xs);
+}
+.page-head .lede { margin-top: var(--space-3xs); }
+
+/* --- hero ----------------------------------------------------------------- */
+/* Ground is the room itself, not the logo: the TV wall, the chalkboard craft
+   list, the dollar-bill wall. The source frame is a customer photo capped at
+   1000x750, so it carries a light blur + a dark scrim - both of which also give
+   the headline the contrast it needs. The copy sits on a frosted panel so the
+   type stays crisp over a moving texture. */
+.hero {
+  position: relative;
+  isolation: isolate;
+  padding-block: clamp(var(--space-xl), 6vw, var(--space-2xl));
+  overflow: hidden;
+}
+.hero__bg {
+  position: absolute; inset: 0; z-index: -2;
+}
+.hero__bg img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: center 42%;
+  /* Light touch: the frosted panel carries the contrast, so the photo is only
+     nudged, not buried. Earlier passes ran the scrim so heavy the room was
+     invisible, which is the same as having no photo at all. */
+  filter: blur(2px) saturate(1.1) brightness(.96) contrast(1.04);
+  transform: scale(1.05);
+}
+.hero__scrim {
+  position: absolute; inset: 0; z-index: -1;
+  /* Edge-free by design: full-bleed gradients only, so there is no panel
+     outline anywhere on screen. The left bias carries the copy's contrast. */
+  background:
+    linear-gradient(180deg,
+      rgba(31,22,16,.44) 0%,
+      rgba(31,22,16,.30) 40%,
+      rgba(31,22,16,.70) 100%),
+    linear-gradient(96deg,
+      rgba(31,22,16,.80) 0%,
+      rgba(31,22,16,.62) 42%,
+      rgba(31,22,16,.22) 76%,
+      rgba(31,22,16,.06) 100%);
+}
+
+/* No container. No border, no radius, no frosted plate - the copy sits
+   directly on the blurred room. Legibility comes from the scrim above plus
+   text-shadow, not from a box. */
+.hero__panel {
+  position: relative;
+  max-width: 40rem;
+}
+.hero__panel h1 {
+  margin-block: var(--space-3xs) var(--space-2xs);
+  text-shadow: 0 2px 0 rgba(13,8,6,.85), 0 4px 26px rgba(13,8,6,.8);
+}
+.hero .script {
+  font-size: clamp(1.35rem, 3.4vw, 2rem);
+  display: block;
+  color: var(--color-accent-amber-gold);
+  margin-bottom: var(--space-2xs);
+  text-shadow: 0 2px 14px rgba(13,8,6,.9);
+}
+.hero .lede {
+  margin-top: var(--space-3xs);
+  text-shadow: 0 1px 12px rgba(13,8,6,.92), 0 0 30px rgba(13,8,6,.7);
+}
+.hero .label { text-shadow: 0 1px 10px rgba(13,8,6,.9); }
+
+.hero-facts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--space-sm);
+  margin-top: var(--space-lg);
+  padding-top: var(--space-sm);
+  border-top: var(--border-brass);
+}
+.hero-fact { min-width: 0; }
+.hero-fact b {
+  display: block;
+  font-family: var(--typography-family-subhead);
+  font-size: 1.35rem;
+  line-height: 1.1;
+  color: var(--color-accent-amber-gold);
+}
+.hero-fact span {
+  display: block;
+  font-size: .66rem;
+  letter-spacing: var(--typography-tracking-label);
+  text-transform: uppercase;
+  color: var(--color-ink-on-dark-muted);
+  margin-top: 4px;
+  line-height: 1.4;
+  text-wrap: balance;
+}
+@media (max-width: 700px) {
+  .hero__panel { max-width: none; }
+  .hero-facts { grid-template-columns: repeat(2, 1fr); gap: var(--space-xs); }
+}
+
+/* Full-bleed promo still.
+   The Chili Cheese Fries artwork is a 1280x1791 portrait graphic with the
+   "Chili Cheese Fry Special" lettering baked in. At full column width it
+   rendered 1393px tall and pushed the home page past 4600px. The box is
+   constrained rather than the image cropped - cropping would cut off the very
+   wording the graphic exists to say. */
+.promo-figure {
+  margin-block: var(--space-xl) 0;
+  text-align: center;
+}
+.promo-figure img {
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  margin-inline: auto;
+  border-radius: var(--radius-md);
+}
+
+/* --- badges / devices ----------------------------------------------------- */
+.badge {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: clamp(88px, 20vw, 120px); aspect-ratio: 1;
+  border-radius: 50%;
+  border: 2px solid var(--color-accent-brass);
+  background: var(--color-primary-charred-oak);
+  padding: var(--space-xs);
+  text-align: center;
+  font-family: var(--typography-family-display);
+  font-size: .68rem; letter-spacing: .06em; text-transform: uppercase;
+  line-height: 1.25; color: var(--color-primary-bone);
+}
+
+/* Photo variant: a real picture of the thing the card is about.
+   The typographic badge left three large empty discs above the copy. The
+   source images are square crops and the circle is done here, so the file
+   carries no alpha channel and there is no seam to hide. The inner inset
+   keeps the brass ring reading as a frame rather than a border stuck to the
+   photo's own edge. */
+.badge--photo {
+  padding: 0;
+  overflow: hidden;
+  background: none;
+}
+.badge--photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* nudge up in brightness so the shot sits inside the dark card */
+  filter: brightness(1.06) contrast(1.02);
+}
+
+.ribbon {
+  display: inline-block;
+  padding: var(--space-2xs) var(--space-sm);
+  background: var(--color-accent-oxblood);
+  color: var(--color-primary-bone);
+  font-family: var(--typography-family-subhead);
+  font-size: var(--typography-scale-label);
+  letter-spacing: var(--typography-tracking-label);
+  text-transform: uppercase;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 88%, 0 100%);
+}
+
+.rule {
+  border: 0; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-accent-brass), transparent);
+  margin-block: var(--space-md);
+}
+/* Star divider. This used to be <hr class="rule rule--star">&#9733;</hr>, which
+   is invalid - <hr> is a void element with no content model, so the parser
+   ejected the star into the parent as a stray text node. It rendered
+   left-aligned and unstyled on three pages. A div is the correct host. */
+.rule--star {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  height: auto;
+  background: none;
+  color: var(--color-accent-brass);
+  font-size: .8rem;
+  line-height: 1;
+}
+.rule--star::before,
+.rule--star::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-accent-brass), transparent);
+}
+.rule--star > span { flex: 0 0 auto; }
+
+/* --- cards ---------------------------------------------------------------- */
+.cards {
+  display: grid; gap: var(--space-md);
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+.card {
+  background: var(--color-support-smoke);
+  border: var(--border-hairline);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+}
+.card h3 { margin-bottom: var(--space-2xs); }
+.card p { color: var(--color-ink-on-dark-muted); font-size: var(--typography-family-body); }
+
+/* --- menu ----------------------------------------------------------------- */
+/* The menu is shown as the client's own designed pages. They are landscape
+   tri-folds, so they get their own frame rather than being squeezed into the
+   text column. */
+.menu-page {
+  margin: 0 0 var(--space-lg);
+  background: #EADFC8;                 /* parchment, matches the design */
+  border-radius: var(--radius-md);
+  padding: var(--space-2xs);
+  box-shadow: var(--shadow-sign);
+}
+.menu-page img {
+  width: 100%; height: auto; display: block;
+  border-radius: var(--radius-sm);
+}
+
+.menu-text {
+  margin-top: var(--space-xl);
+  border: var(--border-brass);
+  border-radius: var(--radius-md);
+  background: var(--color-support-smoke);
+}
+.menu-text > summary {
+  cursor: pointer;
+  padding: var(--space-sm) var(--space-md);
+  min-height: var(--layout-tapTarget);
+  display: flex; align-items: center;
+  font-family: var(--typography-family-body);
+  font-size: var(--typography-scale-label);
+  font-weight: var(--typography-weight-bold);
+  letter-spacing: var(--typography-tracking-label);
+  text-transform: uppercase;
+  color: var(--color-accent-amber-gold);
+  list-style: none;
+}
+.menu-text > summary::-webkit-details-marker { display: none; }
+.menu-text > summary::after {
+  content: "+"; margin-left: auto; font-size: 1.25rem; color: var(--color-accent-brass);
+}
+.menu-text[open] > summary::after { content: "\2212"; }
+.menu-text[open] > summary { border-bottom: var(--border-hairline); }
+.menu-text__body { padding: var(--space-md); }
+.menu-text__body .cta-disclosure { margin-bottom: var(--space-lg); }
+.menu-note {
+  font-size: var(--typography-scale-body-s);
+  color: var(--color-accent-brass);
+  margin-top: var(--space-3xs);
+}
+.menu-section + .menu-section {
+  margin-top: var(--space-lg);
+  padding-top: var(--space-lg);
+  border-top: var(--border-hairline);
+}
+
+.menu-list { display: grid; gap: var(--space-sm); }
+.menu-item {
+  display: grid;
+  /* minmax(0,1fr), not 1fr: a bare 1fr track floors at its min-content width,
+     so a long dish name pushed the whole row past the container at 320px. */
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: var(--space-2xs) var(--space-sm);
+  padding-block: var(--space-xs);
+  border-bottom: var(--border-hairline);
+}
+.menu-item__name {
+  font-family: var(--typography-family-subhead);
+  font-size: var(--typography-scale-subhead-size);
+  font-weight: var(--typography-weight-bold);
+}
+.menu-item__price {
+  font-family: var(--typography-family-body);
+  font-weight: var(--typography-weight-bold);
+  color: var(--color-accent-amber-gold);
+  /* Deliberately NOT nowrap. Three burgers carry "Single $20 · Double $23 ·
+     Triple $27" in this one cell; under nowrap its min-content width is that
+     whole string, which pushed the row 3px past its container at 360 and 43px
+     at 320. A bare "$16" has no spaces, so it still cannot break - nowrap was
+     buying nothing and costing the layout. */
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  line-height: 1.35;
+}
+.menu-item__desc {
+  grid-column: 1 / -1;
+  color: var(--color-ink-on-dark-muted);
+  font-size: var(--typography-family-body);
+}
+.menu-item__variants {
+  grid-column: 1 / -1;
+  font-size: var(--typography-scale-body-s);
+  color: var(--color-accent-brass);
+  letter-spacing: .04em;
+}
+@media (max-width: 560px) {
+  /* multi-price lines wrap badly in a two-column grid on a phone */
+  .menu-item { grid-template-columns: 1fr; }
+  .menu-item__price { text-align: left; }
+}
+
+/* --- beer ----------------------------------------------------------------- */
+.beer-table { width: 100%; border-collapse: collapse; font-size: var(--typography-family-body); }
+.beer-table th {
+  text-align: left; padding: var(--space-2xs) var(--space-xs) var(--space-2xs) 0;
+  font-size: var(--typography-scale-label); letter-spacing: var(--typography-tracking-label);
+  text-transform: uppercase; color: var(--color-accent-brass);
+  border-bottom: var(--border-brass);
+}
+.beer-table td { padding: var(--space-xs) var(--space-xs) var(--space-xs) 0;
+                 border-bottom: var(--border-hairline); vertical-align: top; }
+.beer-table td:last-child, .beer-table th:last-child { text-align: right; padding-right: 0; }
+.beer-table .abv { color: var(--color-accent-amber-gold); font-variant-numeric: tabular-nums; }
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+/* --- hours ---------------------------------------------------------------- */
+.hours-list { display: grid; gap: var(--space-3xs); }
+.hours-row {
+  display: flex; justify-content: space-between; gap: var(--space-sm);
+  padding-block: var(--space-3xs);
+  border-bottom: var(--border-hairline);
+  font-variant-numeric: tabular-nums;
+}
+.hours-row--closed { color: var(--color-ink-on-dark-muted); }
+.hours-row--today { color: var(--color-accent-amber-gold); font-weight: var(--typography-weight-bold); }
+
+/* --- footer --------------------------------------------------------------- */
+.site-footer {
+  border-top: var(--border-hairline);
+  padding-block: var(--space-xl) var(--space-md);
+  margin-top: var(--space-2xl);
+}
+.footer-grid {
+  display: grid; gap: var(--space-lg);
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+.site-footer h3 { font-size: var(--typography-scale-label); letter-spacing: var(--typography-tracking-label);
+                  text-transform: uppercase; color: var(--color-accent-brass);
+                  font-family: var(--typography-family-body); margin-bottom: var(--space-2xs); }
+.site-footer ul { list-style: none; padding: 0; display: grid; gap: var(--space-3xs); }
+.site-footer a { color: var(--color-ink-on-dark-muted); text-decoration: none; }
+.site-footer a:hover { color: var(--color-accent-amber-gold); }
+.footer-base {
+  margin-top: var(--space-lg); padding-top: var(--space-sm);
+  border-top: var(--border-hairline);
+  display: flex; flex-wrap: wrap; gap: var(--space-sm); justify-content: space-between;
+  font-size: var(--typography-scale-body-s); color: var(--color-ink-on-dark-muted);
+}
+
+/* --- utilities ------------------------------------------------------------ */
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+.skip-link {
+  position: absolute; left: var(--space-sm); top: -100px;
+  z-index: 100; padding: var(--space-xs) var(--space-sm);
+  background: var(--color-accent-amber-gold); color: var(--color-primary-charred-oak);
+  font-weight: var(--typography-weight-bold); border-radius: var(--radius-sm);
+  text-decoration: none;
+}
+.skip-link:focus { top: var(--space-sm); }
+.text-center { text-align: center; }
+.mt-lg { margin-top: var(--space-lg); }
+.mt-xl { margin-top: var(--space-xl); }
+
+/* --- print (menus get printed - a real behaviour for a bar) --------------- */
+@media print {
+  body { background: #fff; color: #000; }
+  .site-header, .site-footer, .order-cta, .hero__media, .btn { display: none !important; }
+  .section { padding-block: 0; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: .75em; color: #555; }
+}

@@ -1,0 +1,40 @@
+# robots.txt - The Rustic Barrel Taphouse
+# Canonical host: https://www.therusticbarrel.com
+#
+# IMPORTANT: every public page is crawlable and indexable.
+# There are NO Disallow rules against content pages, and no noindex
+# anywhere in the markup. Only build artefacts and the offline
+# reference/audit directories are excluded.
+
+User-agent: *
+Allow: /
+
+# Build artefacts - not content, no search value
+Disallow: /assets/tokens.json
+Disallow: /assets/images.json
+Disallow: /*.map$
+Disallow: /404.html
+
+# Google explicitly requires these to be reachable
+Allow: /.well-known/
+Allow: /sitemap.xml
+
+# Allow the major crawlers explicitly, so a future blanket Disallow
+# can never silently deindex the site.
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# AI/search crawlers are welcome too - this is a public business
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.therusticbarrel.com/sitemap.xml

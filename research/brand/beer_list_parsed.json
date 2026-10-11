@@ -1,0 +1,210 @@
+{
+  "venue_url": "https://untappd.com/v/the-rustic-barrel/13736755",
+  "venue_name": "The Rustic Barrel",
+  "venue_category": "BBQ Joint",
+  "count": 17,
+  "abv_range": [
+    4.5,
+    10.5
+  ],
+  "abv_median": 6.2,
+  "styles": [
+    [
+      "American",
+      8
+    ],
+    [
+      "Fruited",
+      3
+    ],
+    [
+      "New England / Hazy",
+      2
+    ],
+    [
+      "Other Fruit",
+      1
+    ],
+    [
+      "Vienna",
+      1
+    ],
+    [
+      "Traditional / Apfelwein",
+      1
+    ],
+    [
+      "Mexican",
+      1
+    ]
+  ],
+  "breweries": [
+    [
+      "Russian River Brewing Company",
+      5
+    ],
+    [
+      "Firestone Walker Brewing Company",
+      3
+    ],
+    [
+      "Alvarado Street Brewery",
+      3
+    ],
+    [
+      "Altamont Beer Works",
+      2
+    ],
+    [
+      "2 Towns Ciderhouse",
+      2
+    ],
+    [
+      "Fieldwork® Brewing Company",
+      1
+    ],
+    [
+      "Dust Bowl Brewing Company",
+      1
+    ]
+  ],
+  "beers": [
+    {
+      "beer": "Maui Waui IPA IPA",
+      "style": "American",
+      "abv": 6.5,
+      "ibu": null,
+      "brewery": "Altamont Beer Works",
+      "untappd_rating": null
+    },
+    {
+      "beer": "Cali Squeeze Blood Orange Wheat Beer",
+      "style": "Fruited",
+      "abv": 5.0,
+      "ibu": 15.0,
+      "brewery": "Firestone Walker Brewing Company",
+      "untappd_rating": 3.85
+    },
+    {
+      "beer": "Bring Back Brewers Gold IPA",
+      "style": "New England / Hazy",
+      "abv": 6.5,
+      "ibu": 40.0,
+      "brewery": "Russian River Brewing Company",
+      "untappd_rating": 3.83
+    },
+    {
+      "beer": "Prickly Pearadise Cider",
+      "style": "Other Fruit",
+      "abv": 5.3,
+      "ibu": null,
+      "brewery": "2 Towns Ciderhouse",
+      "untappd_rating": 4.02
+    },
+    {
+      "beer": "805 Blonde / Golden Ale",
+      "style": "American",
+      "abv": 4.7,
+      "ibu": 20.0,
+      "brewery": "Firestone Walker Brewing Company",
+      "untappd_rating": 3.82
+    },
+    {
+      "beer": "Pounds of Green IPA",
+      "style": "American",
+      "abv": 6.1,
+      "ibu": null,
+      "brewery": "Altamont Beer Works",
+      "untappd_rating": 3.95
+    },
+    {
+      "beer": "Blind Pig IPA IPA",
+      "style": "American",
+      "abv": 6.2,
+      "ibu": 70.0,
+      "brewery": "Russian River Brewing Company",
+      "untappd_rating": 4.18
+    },
+    {
+      "beer": "Raspberry Parfait Sour",
+      "style": "Fruited",
+      "abv": 6.4,
+      "ibu": null,
+      "brewery": "Fieldwork® Brewing Company",
+      "untappd_rating": 4.15
+    },
+    {
+      "beer": "Russian River 110 Pilsner",
+      "style": "American",
+      "abv": 5.2,
+      "ibu": null,
+      "brewery": "Russian River Brewing Company",
+      "untappd_rating": 4.15
+    },
+    {
+      "beer": "Taco Truck Amber Lager",
+      "style": "Vienna",
+      "abv": 4.7,
+      "ibu": 20.0,
+      "brewery": "Dust Bowl Brewing Company",
+      "untappd_rating": 3.96
+    },
+    {
+      "beer": "Pool Service IPA",
+      "style": "American",
+      "abv": 6.0,
+      "ibu": 70.0,
+      "brewery": "Alvarado Street Brewery",
+      "untappd_rating": 3.59
+    },
+    {
+      "beer": "The Bad Apple Cider",
+      "style": "Traditional / Apfelwein",
+      "abv": 10.5,
+      "ibu": null,
+      "brewery": "2 Towns Ciderhouse",
+      "untappd_rating": 3.96
+    },
+    {
+      "beer": "Mai Tai P.A. IPA",
+      "style": "American",
+      "abv": 6.5,
+      "ibu": 45.0,
+      "brewery": "Alvarado Street Brewery",
+      "untappd_rating": 3.77
+    },
+    {
+      "beer": "Citra Flash Mob IPA IPA",
+      "style": "American",
+      "abv": 7.0,
+      "ibu": 65.0,
+      "brewery": "Russian River Brewing Company",
+      "untappd_rating": 3.94
+    },
+    {
+      "beer": "Mind Circus IPA",
+      "style": "New England / Hazy",
+      "abv": 7.0,
+      "ibu": null,
+      "brewery": "Russian River Brewing Company",
+      "untappd_rating": 4.08
+    },
+    {
+      "beer": "805 Cerveza Lager",
+      "style": "Mexican",
+      "abv": 4.5,
+      "ibu": null,
+      "brewery": "Firestone Walker Brewing Company",
+      "untappd_rating": 4.07
+    },
+    {
+      "beer": "Pink Limo Dads Sour",
+      "style": "Fruited",
+      "abv": 8.0,
+      "ibu": null,
+      "brewery": "Alvarado Street Brewery",
+      "untappd_rating": 3.6
+    }
+  ],
+  "caveat": "Untappd lists patron-logged beers, not the venue's official tap list."
+}

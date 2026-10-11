@@ -1,0 +1,22 @@
+[
+  {
+    "page": 1,
+    "png": "menu_pages/menu-page-1.png",
+    "webp": "menu_pages/menu-page-1.webp",
+    "width": 2800,
+    "height": 2164,
+    "aspect": 1.294,
+    "bytes_png": 1928092,
+    "bytes_webp": 813652
+  },
+  {
+    "page": 2,
+    "png": "menu_pages/menu-page-2.png",
+    "webp": "menu_pages/menu-page-2.webp",
+    "width": 2800,
+    "height": 2164,
+    "aspect": 1.294,
+    "bytes_png": 1869517,
+    "bytes_webp": 738688
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "hero-hours": [
+    "hero-hours-640.webp",
+    "hero-hours-1280.webp"
+  ],
+  "chili-cheese-fries": [
+    "chili-cheese-fries-640.webp",
+    "chili-cheese-fries-1280.webp",
+    "chili-cheese-fries-1920.webp"
+  ],
+  "labor-day": [
+    "labor-day-640.webp",
+    "labor-day-1280.webp"
+  ],
+  "private-event": [
+    "private-event-640.webp",
+    "private-event-1280.webp"
+  ],
+  "og-default": [
+    "og-default.jpg"
+  ]
+}
