@@ -550,9 +550,10 @@ def page_visit() -> str:
 
     <div class="rule rule--star" aria-hidden="true"><span>&#9733;</span></div>
 
-    <div class="prose">
-      <h2 class="text-center">Getting the most out of a visit</h2>
-      <p class="mt-lg">
+    <h2 class="text-center">Getting the most out of a visit</h2>
+
+    <div class="prose mt-lg">
+      <p>
         Start with the <a href="/menu.html">Santa&nbsp;Maria tri-tip sandwich</a>
         &mdash; it is the dish the room is known for. Then check the
         <a href="/beer.html">tap list</a> for something Central Coast-adjacent,

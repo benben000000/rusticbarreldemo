@@ -83,7 +83,7 @@ p  { text-wrap: pretty; }
   max-width: var(--layout-proseWidth);
 }
 
-.prose { max-width: var(--layout-proseWidth); }
+.prose { max-width: var(--layout-proseWidth); margin-inline: auto; }
 .prose > * + * { margin-top: var(--space-sm); }
 
 /* --- layout --------------------------------------------------------------- */
@@ -538,6 +538,17 @@ p  { text-wrap: pretty; }
 }
 .card h3 { margin-bottom: var(--space-2xs); }
 .card p { color: var(--color-ink-on-dark-muted); font-size: var(--typography-family-body); }
+
+/* --- proof ---------------------------------------------------------------- */
+/* The proof strip is four stats on a three-column grid, so the last one lands
+   alone on row two. Park it in the middle column so the row reads centered.
+   Three columns start at a 900px viewport (auto-fit minmax(260px, 1fr) with a
+   1.5rem gap needs 828px of content, and the wrap is viewport minus 8% gutter
+   until it caps at 1200px), so one media query covers it - below that the grid
+   is two-up or one-up and every row is already balanced. */
+@media (min-width: 900px) {
+  .cards--proof > :last-child { grid-column: 2; }
+}
 
 /* --- menu ----------------------------------------------------------------- */
 /* The menu is shown as the client's own designed pages. They are landscape
