@@ -30,21 +30,25 @@ ASSETS = SITE / "assets"
 IMG_OUT = ASSETS / "img"
 
 # Pages, in sitemap priority order. src/rel are relative to site/.
+# "url" is the PUBLIC path and is extensionless - vercel.json sets cleanUrls,
+# which serves /menu from menu.html and 308s /menu.html to /menu. Keeping the
+# .html in canonicals and the sitemap while the clean path is what people link
+# to is how a site ends up indexed under two URLs.
 PAGES = [
     {"file": "index.html",  "priority": "1.0", "changefreq": "weekly",
      "url": "/",              "title": "The Rustic Barrel Taphouse | Craft Beer, BBQ & Sports Bar in King City, CA",
      "desc": "King City's taphouse on Canal St. Multi-tap California craft beer, Santa Maria style tri-tip and slow-smoked barbecue, and big-screen sports. Order pickup on DoorDash or Uber Eats."},
     {"file": "menu.html",    "priority": "0.9", "changefreq": "weekly",
-     "url": "/menu.html",    "title": "Menu | Smoked BBQ, Smash Burgers & Sandwiches | The Rustic Barrel",
+     "url": "/menu",         "title": "Menu | Smoked BBQ, Smash Burgers & Sandwiches | The Rustic Barrel",
      "desc": "The full Rustic Barrel menu: Santa Maria style tri-tip, slow-smoked brisket and pork ribs, smash burgers, loaded fries and cold sandwiches. Cash prices shown."},
     {"file": "beer.html",    "priority": "0.9", "changefreq": "weekly",
-     "url": "/beer.html",    "title": "Craft Beer & Tap List | Russian River, Firestone Walker | The Rustic Barrel",
+     "url": "/beer",         "title": "Craft Beer & Tap List | Russian River, Firestone Walker | The Rustic Barrel",
      "desc": "What is on tap at The Rustic Barrel in King City: California craft from Russian River, Firestone Walker, Alvarado Street and more, plus house ciders."},
     {"file": "events.html",  "priority": "0.7", "changefreq": "weekly",
-     "url": "/events.html",  "title": "Events & Comedy Nights | The Rustic Barrel Taphouse, King City",
+     "url": "/events",       "title": "Events & Comedy Nights | The Rustic Barrel Taphouse, King City",
      "desc": "Comedy nights, watch parties and live events at The Rustic Barrel Taphouse in King City, California. Big screens, cold beer, no cover."},
     {"file": "visit.html",   "priority": "0.6", "changefreq": "monthly",
-     "url": "/visit.html",   "title": "Visit Us | 611 Canal St, King City, CA | The Rustic Barrel",
+     "url": "/visit",        "title": "Visit Us | 611 Canal St, King City, CA | The Rustic Barrel",
      "desc": "Find The Rustic Barrel at 611 Canal St, King City, CA. Open Mon and Wed-Fri 11:30am-9pm, Sat 12-9pm, Sun 12-8pm. Closed Tuesdays. (831) 601-1397."},
 ]
 
@@ -199,6 +203,9 @@ def build_seo(tk: dict, imgs: dict) -> None:
         "Disallow: /assets/tokens.json",
         "Disallow: /assets/images.json",
         "Disallow: /*.map$",
+        # both forms: cleanUrls serves /404, and the file itself is still
+        # reachable at /404.html. Neither should ever be crawled.
+        "Disallow: /404",
         "Disallow: /404.html",
         "",
         "# Google explicitly requires these to be reachable",
@@ -253,29 +260,50 @@ def build_seo(tk: dict, imgs: dict) -> None:
 # --------------------------------------------------------------------------- #
 # Host config - canonical host + redirect
 # --------------------------------------------------------------------------- #
-def build_host_config() -> None:
-    """Netlify: force www/non-www to ONE version with a 301, force HTTPS."""
-    netlify = """# _redirects - host canonicalisation and permanent HTTPS
-# Exactly ONE of these two www lines must be uncommented.
-# PRIMARY VERSION: www  (set here, and canonicalBase must match)
-www.therusticbarrel.com/*   https://www.therusticbarrel.com/:splat  301!  force_https=true
-therusticbarrel.com/*       https://www.therusticbarrel.com/:splat  301!
+def build_host_config(tk: dict) -> None:
+    """Write the two host-config files.
 
-# Legacy/typo protection - the parked domain must never be an index duplicate
-www.rusticbarrel.com/*      https://www.therusticbarrel.com/:splat  301!
-"""
-    (SITE / "_redirects").write_text(netlify, encoding="utf-8")
+    Demo mode (seo.redirectNonWwwToWww = false): no host redirects at all. The
+    bare->www 301 was dead weight - there is no custom domain yet, and a rule
+    matching therusticbarrel.com can never fire on a vercel.app host.
 
-    vercel = {
-        "redirects": [
-            {"source": "/therusticbarrel.com/:path*",
-             "destination": "https://www.therusticbarrel.com/:path*",
+    Production mode: the www canonicalisation comes back. Turn it on in
+    tokens.json once the domain is registered.
+    """
+    seo = tk["seo"]
+    vercel: dict = {
+        # Serves /menu from menu.html and 308s /menu.html -> /menu. Without
+        # this the clean paths 404 and only the .html URLs work.
+        "cleanUrls": True,
+    }
+
+    if seo.get("redirectNonWwwToWww"):
+        host = seo["primaryDomain"]
+        bare = host[4:] if host.startswith("www.") else host
+        vercel["redirects"] = [
+            {"source": f"/{bare}/:path*",
+             "destination": f"https://{host}/:path*",
              "permanent": True},
         ]
-    }
+        netlify = (
+            f"# _redirects - canonical host and permanent HTTPS\n"
+            f"www.{bare}/*   https://www.{bare}/:splat  301!  force_https=true\n"
+            f"{bare}/*       https://www.{bare}/:splat  301!\n"
+        )
+        print(f"  _redirects    {bare} -> www.{bare}, 301 + force HTTPS")
+    else:
+        netlify = (
+            "# _redirects - Netlify host config\n"
+            "# Empty in demo mode: there is no custom domain yet, so there is no\n"
+            "# host to canonicalise. build_host_config() fills this in once\n"
+            "# seo.redirectNonWwwToWww is switched on in tokens.json.\n"
+        )
+        print("  _redirects    empty (demo mode, no custom domain)")
+
+    (SITE / "_redirects").write_text(netlify, encoding="utf-8")
     (SITE / "vercel.json").write_text(json.dumps(vercel, indent=2), encoding="utf-8")
-    print("  _redirects    canonical host 301 + force HTTPS")
-    print("  vercel.json")
+    print(f"  vercel.json   cleanUrls={vercel['cleanUrls']}"
+          f"{', host redirects' if 'redirects' in vercel else ''}")
 
 
 def main() -> None:
@@ -298,7 +326,7 @@ def main() -> None:
     build_seo(tk, imgs)
 
     print("\n[host]")
-    build_host_config()
+    build_host_config(tk)
 
     print("\n" + "=" * 58)
     print("build complete")

@@ -25,11 +25,17 @@ import brandlib as bl
 
 SITE = bl.RESEARCH.parent / "site"
 BRAND = bl.BRAND
-BASE = "https://www.therusticbarrel.com"
+
+# Canonical origin, read from tokens.json. This used to be a hardcoded string,
+# which made it a second source of truth beside the token: repointing the site
+# at a new host moved the sitemap and left every generated page claiming the old
+# domain. Nothing caught it, because the gate only checked that a canonical
+# started with https:// - which the stale one did.
+BASE = json.loads((SITE / "assets" / "tokens.json").read_text(encoding="utf-8"))["seo"]["canonicalBase"].rstrip("/")
 
 NAV = [
-    ("/menu.html", "Menu"), ("/beer.html", "Beer"),
-    ("/events.html", "Events"), ("/visit.html", "Visit"),
+    ("/menu", "Menu"), ("/beer", "Beer"),
+    ("/events", "Events"), ("/visit", "Visit"),
 ]
 
 FOOTER_GOOD = [
@@ -70,6 +76,12 @@ def shell(*, slug, title, desc, active, body, jsonld="", og_alt="") -> str:
     good = "".join(f"<li>{g}</li>" for g in FOOTER_GOOD)
     ld = f"\n<script type=\"application/ld+json\">\n{jsonld}\n</script>" if jsonld else ""
 
+    # Public path for canonical/og:url. Vercel cleanUrls serves /menu from
+    # menu.html, so the canonical must be the extensionless path. Canonicalising
+    # /menu.html while /menu is what the nav links to and what the sitemap
+    # lists is how a site tells Google one URL and serves another.
+    path = "/" if slug == "index.html" else "/" + Path(slug).stem
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,14 +89,14 @@ def shell(*, slug, title, desc, active, body, jsonld="", og_alt="") -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
-<link rel="canonical" href="{BASE}/{slug}">
+<link rel="canonical" href="{BASE}{path}">
 <meta name="theme-color" content="#1F1610">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The Rustic Barrel Taphouse">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
-<meta property="og:url" content="{BASE}/{slug}">
+<meta property="og:url" content="{BASE}{path}">
 <meta property="og:image" content="{BASE}/assets/img/og-default.jpg">
 <meta property="og:image:alt" content="{esc(og_alt or 'The Rustic Barrel Taphouse barrel-head badge logo')}">
 <meta name="twitter:card" content="summary_large_image">
@@ -125,8 +137,8 @@ def shell(*, slug, title, desc, active, body, jsonld="", og_alt="") -> str:
         <a href="tel:+18316011397">(831) 601-1397</a><br>
         <a href="mailto:therusticbarrel831@gmail.com">therusticbarrel831@gmail.com</a></p></div>
       <div><h3>Explore</h3><ul>
-        <li><a href="/menu.html">Menu</a></li><li><a href="/beer.html">Beer &amp; tap list</a></li>
-        <li><a href="/events.html">Events</a></li><li><a href="/visit.html">Visit us</a></li></ul></div>
+        <li><a href="/menu">Menu</a></li><li><a href="/beer">Beer &amp; tap list</a></li>
+        <li><a href="/events">Events</a></li><li><a href="/visit">Visit us</a></li></ul></div>
       <div><h3>Order</h3><ul>
         <li><a href="{DD}" rel="nofollow noopener" target="_blank">DoorDash pickup</a></li>
         <li><a href="{UE}" rel="nofollow noopener" target="_blank">Uber Eats pickup</a></li>
@@ -275,7 +287,7 @@ def page_menu() -> str:
         "@type": "Menu",
         "name": "The Rustic Barrel Menu",
         "inLanguage": "en",
-        "url": f"{BASE}/menu.html",
+        "url": f"{BASE}/menu",
         "description": (f"Barrel bites, meat combos, rustic favorites, sandwiches, "
                         f"salads and sides. {total} items across {len(data['sections'])} "
                         f"sections: {secs}."),
@@ -318,7 +330,7 @@ def page_menu() -> str:
         slug="menu.html",
         title="Menu | Smoked BBQ &amp; Smash Burgers | Rustic Barrel",
         desc="Santa Maria tri-tip, slow-smoked brisket and ribs, smash burgers, loaded fries and cold sandwiches. Cash prices shown.",
-        active="/menu.html",
+        active="/menu",
         body=body,
         jsonld=json.dumps(ld, indent=2),
         og_alt="The Rustic Barrel menu on aged parchment",
@@ -412,7 +424,7 @@ def page_beer() -> str:
         slug="beer.html",
         title="Craft Beer &amp; Tap List | The Rustic Barrel, King City",
         desc="On tap at The Rustic Barrel in King City: California craft from Russian River, Firestone Walker and Alvarado Street, plus house ciders.",
-        active="/beer.html",
+        active="/beer",
         body=body,
         jsonld=json.dumps(ld, indent=2),
         og_alt="Rust and brass beer tap handles on a dark bar",
@@ -453,7 +465,7 @@ def page_events() -> str:
         <span class="ribbon">Weekly</span>
         <h3 class="mt-lg">Thursday specials</h3>
         <p>
-          The <a href="/menu.html">Chili Cheese Fries</a> special built a
+          The <a href="/menu">Chili Cheese Fries</a> special built a
           reputation. Rotating dish each week while it lasts.
         </p>
       </article>
@@ -481,7 +493,7 @@ def page_events() -> str:
         "@context": "https://schema.org",
         "@type": "WebPage",
         "name": "Events at The Rustic Barrel Taphouse",
-        "url": f"{BASE}/events.html",
+        "url": f"{BASE}/events",
         "isPartOf": {"@id": f"{BASE}/#website"},
         "about": {"@id": f"{BASE}/#restaurant"},
     }
@@ -489,7 +501,7 @@ def page_events() -> str:
         slug="events.html",
         title="Events &amp; Comedy Nights | The Rustic Barrel",
         desc="Comedy nights, watch parties and live events at The Rustic Barrel Taphouse in King City, California. Big screens, cold beer, no cover.",
-        active="/events.html",
+        active="/events",
         body=body,
         jsonld=json.dumps(ld, indent=2),
         og_alt="Comedy night flyer on weathered blue wood at The Rustic Barrel",
@@ -554,15 +566,15 @@ def page_visit() -> str:
 
     <div class="prose mt-lg">
       <p>
-        Start with the <a href="/menu.html">Santa&nbsp;Maria tri-tip sandwich</a>
+        Start with the <a href="/menu">Santa&nbsp;Maria tri-tip sandwich</a>
         &mdash; it is the dish the room is known for. Then check the
-        <a href="/beer.html">tap list</a> for something Central Coast-adjacent,
+        <a href="/beer">tap list</a> for something Central Coast-adjacent,
         because most of what we pour comes from within a few hours' drive.
       </p>
       <p>
         If you are hungry and in a hurry, <a href="/#order">order ahead</a> and
         walk in to collect. If you are here to watch something,
-        <a href="/events.html">check what's on</a>.
+        <a href="/events">check what's on</a>.
       </p>
     </div>
   </div>
@@ -571,9 +583,9 @@ def page_visit() -> str:
     ld = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": f"{BASE}/visit.html#business",
+        "@id": f"{BASE}/visit#business",
         "name": "The Rustic Barrel Taphouse",
-        "url": f"{BASE}/visit.html",
+        "url": f"{BASE}/visit",
         "telephone": "+1-831-601-1397",
         "priceRange": "$$",
         "address": {
@@ -587,7 +599,7 @@ def page_visit() -> str:
         slug="visit.html",
         title="Visit Us | 611 Canal St, King City, CA | The Rustic Barrel",
         desc="Find The Rustic Barrel at 611 Canal St, King City, CA. Open Mon and Wed-Fri 11:30am-9pm, Sat 12-9pm, Sun 12-8pm. Closed Tuesdays.",
-        active="/visit.html",
+        active="/visit",
         body=body,
         jsonld=json.dumps(ld, indent=2),
         og_alt="Interior of The Rustic Barrel with a multi-tap bar and big screens",
@@ -624,7 +636,7 @@ def main() -> None:
   </p>
   <div class="cluster" style="justify-content:center">
     <a class="btn btn--primary" href="/">Home</a>
-    <a class="btn btn--ghost" href="/menu.html">Menu</a>
+    <a class="btn btn--ghost" href="/menu">Menu</a>
     <a class="btn btn--ghost" href="tel:+18316011397">Call the bar</a>
   </div>
 </div></section>""",

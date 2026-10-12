@@ -1,8 +1,4 @@
-# _redirects - host canonicalisation and permanent HTTPS
-# Exactly ONE of these two www lines must be uncommented.
-# PRIMARY VERSION: www  (set here, and canonicalBase must match)
-www.therusticbarrel.com/*   https://www.therusticbarrel.com/:splat  301!  force_https=true
-therusticbarrel.com/*       https://www.therusticbarrel.com/:splat  301!
-
-# Legacy/typo protection - the parked domain must never be an index duplicate
-www.rusticbarrel.com/*      https://www.therusticbarrel.com/:splat  301!
+# _redirects - Netlify host config
+# Empty in demo mode: there is no custom domain yet, so there is no
+# host to canonicalise. build_host_config() fills this in once
+# seo.redirectNonWwwToWww is switched on in tokens.json.

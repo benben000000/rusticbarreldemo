@@ -81,17 +81,25 @@ that isn't there.
 
 ## Deploying to Vercel
 
+Live at **https://rusticbarreldemo.vercel.app**.
+
 Import the repo. No build command, no output directory, no framework preset —
 the root *is* the static site, so Vercel's zero-config serves it as-is.
 
-Two things to know about the preview URL:
+URLs are extensionless: `/menu`, not `/menu.html`. `site/vercel.json` sets
+`cleanUrls`, which serves `/menu` from `menu.html` and 308s `/menu.html` to
+`/menu`. Canonicals, the sitemap and every internal link use the clean form, so
+the site never advertises two URLs for one page.
 
-- **Canonicals point at `https://www.therusticbarrel.com`**, which is correct
-  for production and means the preview URL is deliberately not self-canonical.
-  Don't "fix" it.
-- **`site/vercel.json` only carries host redirects** for the bare domain →
-  `www`. The `_redirects` file next to it is the Netlify equivalent; Vercel
-  ignores it. Both are kept so the same tree deploys to either host.
+The canonical origin is the demo host, set once in
+`site/assets/tokens.json` → `seo.canonicalBase`. **When the real domain is
+registered**, change `canonicalBase` and `primaryDomain`, set
+`redirectNonWwwToWww` back to `true`, and rebuild — `build_host_config()`
+restores the www 301 in both `vercel.json` and `_redirects` automatically.
+Do not hand-edit a canonical; `validate_seo.py` now fails the build if any
+page's canonical does not match the configured origin and clean path, which is
+how the home page's hand-written head was caught pointing at the old domain
+after five generated pages had already moved.
 
 ## Known issues, in the client's court
 

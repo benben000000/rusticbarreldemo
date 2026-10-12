@@ -50,6 +50,31 @@ VOID_ELEMENTS = ("hr", "br", "img", "input", "meta", "link", "source",
 _ATTR = r"""(?:"[^"]*"|'[^']*'|[^>"'])*"""
 
 
+def resolve_internal(href: str) -> Path | None:
+    """Map a root-relative href to the file that serves it, or None.
+
+    The site is deployed with Vercel cleanUrls, so the public path is /menu and
+    the file on disk is menu.html. This has to know that or every clean link
+    reports as broken - which is exactly what happened the first time clean
+    URLs were switched on and this gate was left pointing straight at the disk.
+
+    /assets/... are real files and are checked as-is by the asset check above;
+    only page routes go through here.
+    """
+    path = href.split("#")[0].split("?")[0]
+    if not path or path == "/":
+        return SITE / "index.html" if (SITE / "index.html").exists() else None
+    if path.startswith("/assets/"):
+        return SITE / path.lstrip("/")
+
+    candidates = [SITE / path.lstrip("/"),          # /robots.txt, /sitemap.xml
+                  SITE / f"{path.lstrip('/')}.html"]  # /menu -> menu.html
+    for c in candidates:
+        if c.is_file():
+            return c
+    return None
+
+
 def void_with_content(html: str) -> list[str]:
     """Void elements written with an explicit closing tag.
 
@@ -103,7 +128,36 @@ def strip_tags(s: str) -> str:
     return re.sub(r"<[^>]+>", "", s)
 
 
+def seo_config() -> dict:
+    """Read the SEO config from tokens.json - the single source of truth.
+
+    This gate used to hardcode https://www.therusticbarrel.com and derive
+    page URLs as /menu.html. That was two sources of truth, so repointing the
+    site at a domain failed the build for a reason that had nothing to do with
+    the site being wrong: the gate was checking a domain from a year of
+    decisions ago. Canonical base and page paths now both come from config.
+    """
+    path = SITE / "assets" / "tokens.json"
+    try:
+        return json.loads(path.read_text(encoding="utf-8")).get("seo", {})
+    except Exception:  # noqa: BLE001
+        return {}
+
+
+def public_url(page_name: str) -> str:
+    """The path a page is served at, extensionless (Vercel cleanUrls).
+
+    index.html -> /,  menu.html -> /menu. The hrefs in the markup are already
+    in this form, so comparing the two is comparing like with like.
+    """
+    stem = Path(page_name).stem
+    return "/" if stem == "index" else f"/{stem}"
+
+
 def main() -> int:
+    cfg = seo_config()
+    base = (cfg.get("canonicalBase") or "").rstrip("/")
+
     pages = sorted(p for p in SITE.glob("*.html"))
     if not pages:
         print("no pages found in site/")
@@ -159,6 +213,27 @@ def main() -> int:
             fail(f"{rel}: canonical not https -> {m.group(1)}")
         else:
             ok(f"{rel}: canonical absolute")
+            # Must match the configured origin AND the clean path.
+            #
+            # Checking only that it starts with https:// is what let this
+            # through: when the site was repointed at the demo host, the five
+            # generated pages followed tokens.json and the hand-written home
+            # page kept claiming therusticbarrel.com. Two origins on one site,
+            # and the gate reported "canonical absolute" for both.
+            want = f"{base}{public_url(p.name)}"
+            if m.group(1) != want:
+                fail(f"{rel}: canonical is {m.group(1)}, "
+                     f"expected {want} (from tokens.json seo.canonicalBase)")
+
+        # 4b every absolute URL on the page must sit on the configured origin
+        if base:
+            for label, pat in (("og:url", r'<meta property="og:url" content="([^"]*)"'),
+                               ("og:image", r'<meta property="og:image" content="([^"]*)"'),
+                               ("twitter:image", r'<meta name="twitter:image" content="([^"]*)"')):
+                mm = re.search(pat, h)
+                if mm and mm.group(1).startswith("https://") \
+                        and not mm.group(1).startswith(base + "/"):
+                    fail(f"{rel}: {label} points off-origin -> {mm.group(1)}")
 
         # 5 noindex
         bad = re.findall(r'<meta name="robots" content="([^"]*)"', h)
@@ -214,11 +289,11 @@ def main() -> int:
             if href in SKIP_LINKCHECK:
                 continue
             out.add(href)
-            target = SITE / ("index.html" if href == "/" else href.lstrip("/"))
-            if not target.exists():
+            target = resolve_internal(href)
+            if target is None:
                 fail(f"{rel}: broken internal link -> {href}")
             else:
-                # normalise so "/" and "/index.html" are the same node
+                # normalise so "/", "/index.html" and "/index" are one node
                 linked_to.add("/" if target.name == "index.html" else href)
         links_out[rel] = out
 
@@ -235,10 +310,11 @@ def main() -> int:
     for page in pages:
         if page.name == "404.html":
             continue
-        url = "https://www.therusticbarrel.com/" + (
-            "" if page.name == "index.html" else page.name)
+        url = f"{base}{public_url(page.name)}"
         if url not in body:
             fail(f"sitemap.xml missing {url}")
+    if not base:
+        fail("tokens.json seo.canonicalBase is empty - the sitemap has no origin")
     ok(f"sitemap.xml: {n} URLs, every page covered")
 
     if not rb.exists():
@@ -262,7 +338,7 @@ def main() -> int:
     for page in pages:
         if page.name == "404.html":
             continue
-        rel = "/" if page.name == "index.html" else "/" + page.name
+        rel = public_url(page.name)
         if rel not in linked_to:
             warn(f"{rel}: no inbound internal link (orphan)")
 

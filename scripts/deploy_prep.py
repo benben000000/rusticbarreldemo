@@ -45,8 +45,13 @@ GATES = [
     ("dead space",   "find_dead_space.py",     ["/", "250"]),
     ("overflow",     "check_overflow.py",      ["1280"]),
     ("overflow sm",  "check_overflow.py",      ["390"]),
-    ("root mirror",  "sync_root.py",           ["--check"]),
 ]
+
+# Checked only in --gates mode, i.e. when nothing has just been rebuilt. On a
+# full run the build itself makes the root stale by definition, so testing it
+# here only ever reported the drift the mirror step was about to fix. The
+# post-mirror verify below is the check that actually matters.
+MIRROR_CHECK = ("root mirror", "sync_root.py", ["--check"])
 
 # hero contrast reads a screenshot, so it can only run once one exists.
 AFTER_SHOTS = [
@@ -91,7 +96,10 @@ def main() -> int:
     print("\n  GATES")
     failed: list[str] = []
     total = 0.0
-    for label, script, extra in GATES:
+    gate_list = list(GATES)
+    if args.gates:
+        gate_list.append(MIRROR_CHECK)   # nothing rebuilt, so this one is valid
+    for label, script, extra in gate_list:
         ok, took = run(label, script, extra)
         total += took
         if not ok:

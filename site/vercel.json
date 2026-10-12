@@ -1,9 +1,3 @@
 {
-  "redirects": [
-    {
-      "source": "/therusticbarrel.com/:path*",
-      "destination": "https://www.therusticbarrel.com/:path*",
-      "permanent": true
-    }
-  ]
+  "cleanUrls": true
 }

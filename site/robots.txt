@@ -1,5 +1,5 @@
 # robots.txt - The Rustic Barrel Taphouse
-# Canonical host: https://www.therusticbarrel.com
+# Canonical host: https://rusticbarreldemo.vercel.app
 #
 # IMPORTANT: every public page is crawlable and indexable.
 # There are NO Disallow rules against content pages, and no noindex
@@ -13,6 +13,7 @@ Allow: /
 Disallow: /assets/tokens.json
 Disallow: /assets/images.json
 Disallow: /*.map$
+Disallow: /404
 Disallow: /404.html
 
 # Google explicitly requires these to be reachable
@@ -37,4 +38,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://www.therusticbarrel.com/sitemap.xml
+Sitemap: https://rusticbarreldemo.vercel.app/sitemap.xml
